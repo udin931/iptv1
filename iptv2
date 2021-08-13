@@ -1,0 +1,276 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="RTM" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",01. Tv1 On9
+#EXTVLCOPT:network-caching=10000000
+http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
+
+#EXTINF:-1 group-title="RTM" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",02. Tv1 HD On9
+#EXTVLCOPT:network-caching=999999
+https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
+
+#EXTINF:-1 group-title="RTM" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",03. TV2 (720p) hd on9
+#EXTVLCOPT:network-caching=999999
+http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
+
+#EXTINF:-1 group-title="RTM" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",04. Tv3 on9
+#EXTVLCOPT:network-caching=1
+http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
+
+#EXTINF:-1 group-title="RTM" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",05. Ntv7 0n9
+#EXTVLCOPT:network-caching=1000
+http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
+
+#EXTINF:-1 group-title="RTM" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",06. 8TV OF9
+#EXTVLCOPT:network-caching=1000
+http://185.180.221.194:8278/streams/d/TV8/playlist.m3u8
+
+#EXTINF:-1 group-title="RTM" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",07. Tv9 On9
+#EXTVLCOPT:network-caching=1000
+http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
+
+#EXTINF:-1 group-title="RTM" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",08. Hello ON9
+#EXTVLCOPT:network-caching=1000
+https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
+
+#EXTINF:-1 group-title="RTM" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",09. ASTRO Oh!k
+#EXTVLCOPT:network-caching=1000
+http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
+
+#EXTINF:-1 group-title="RTM" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",10. TV6 on9
+#EXTVLCOPT:network-caching=10000
+https://rtm6.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
+
+#EXTINF:-1 group-title="RTM" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",11. Berita RTM on9
+#EXTVLCOPT:network-caching=10000
+https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
+
+#EXTINF:-1 group-title="RTM" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",12. TVS SARAWAK
+#EXTVLCOPT:network-caching=1000
+https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_04.m3u8
+
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",13. TV Alhijrah hd 0n9
+#EXTVLCOPT:network-caching=1000
+http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
+
+#EXTINF:-1 group-title="ASTRO",14. BERNAMA BCKUP on9
+#EXTVLCOPT:network-caching=10000
+http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
+
+#EXTINF:-1  group-title="ASTRO",15. Astro Awani [Not 24/7] on9
+#EXTVLCOPT:network-caching=1000
+http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
+
+#EXTINF:-1 group-title="ASTRO",16. Astro Awani BACKUP on9
+#EXTVLCOPT:network-caching=1000
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+
+#EXTINF:-1  group-title="ASTRO" ,17. Astro Ceria on9
+#EXTVLCOPT:network-caching=1000
+http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
+
+#EXTINF:-1  group-title="ASTRO" ,18. Astro Citra on9
+#EXTVLCOPT:network-caching=1000
+http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+
+#EXTINF:-1  group-title="ASTRO",19. Astro Oasis on9
+#EXTVLCOPT:network-caching=1000
+http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
+
+#EXTINF:-1  group-title="ASTRO" ,20. Astro Prima On9
+#EXTVLCOPT:network-caching=1000
+http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
+
+#EXTINF:-1 group-title="ASTRO",21. Naura on9
+http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
+
+#EXTINF:-1 group-title="ASTRO",22. tvN Asia on9
+http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
+
+#EXTINF:-1 group-title="ASTRO",23. Astro2 Xiaotaiyang on9
+http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
+
+#EXTINF:-1  group-title="ASTRO",24. Astro Vaanavil
+#EXTVLCOPT:network-caching=1000
+https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8
+
+#EXTINF:-1 group-title="ASTRO",25. Astro Vaanavil hd on9
+#EXTVLCOPT:network-caching=10000000
+https://agsplayback01.astro.com.my:443/CH3/master_VAANGOSHOP5_04.m3u8
+
+#EXTINF:-1 group-title="ASTRO",26. Astro AOD 311 OF9
+#EXTVLCOPT:network-caching=1000
+http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
+
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/7/76/Astro%E9%9B%99%E6%98%9F.png/200px-Astro%E9%9B%99%E6%98%9F.png",27. Astro Shuang Xing
+#EXTVLCOPT:network-caching=1000
+http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+
+#EXTINF:-1  group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/94/Astro_%E8%8F%AF%E9%BA%97%E5%8F%B0.jpg",28. Astro 华丽台 (Astro Wah Lai Toi) OF9
+#EXTVLCOPT:network-caching=1000
+http://185.180.221.194:8278/streams/d/Wlt/playlist.m3u8
+
+#EXTINF:-1  group-title="ASTRO" tvg-logo="http://astrokentico.s3.amazonaws.com/xuan/channels/325.png",29. Astro 小太阳 (Astro Xiao Tai Yang) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
+
+#EXTINF:-1  group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/9_144.png",30. Astro 欢喜台 (Astro Hua Hee Dai) [Not 24/7] OF9
+#EXTVLCOPT:network-caching=1000
+http://185.180.221.194:8278/streams/d/Huahee/playlist.m3u8
+
+#EXTINF:-1 group-title="ASTRO",31. Nick (East) cartoon  on9
+#EXTVLCOPT:network-caching=1000
+http://31.220.41.88:8081/live/us-nick.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="ASTRO",32. HBO ID on9
+#EXTVLCOPT:network-caching=100000
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+
+#EXTINF:-1 group-title="ASTRO",33. HBO Family Multilanguage&Subs (Malay Sub) TEST
+#EXTVLCOPT:network-caching=100000
+http://eroz84.wap.sh/movies/hbo_fam.m3u8
+
+#EXTINF:-1 group-title="ASTRO",34. Cinemax
+#EXTVLCOPT:network-caching=100000
+http://31.220.41.88:8081/live/us-cinemax.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="ASTRO",35. Cinemax (360p) HD
+#EXTVLCOPT:network-caching=1000
+http://stream.tvtap.net:8081/live/us-cinemax.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="ASTRO",36. Thrill [Geo-blocked] on9
+#EXTVLCOPT:network-caching=1000000000
+http://45.126.83.51/qwr9ew/s/s34/02.m3u8
+
+#EXTINF:-1 group-title="ASTRO",37. Thrill (480p) [Geo-blocked] on9
+#EXTVLCOPT:network-caching=10000000000
+http://45.126.83.51/qwr9ew/s/s34/index.m3u8
+
+#EXTINF:-1 group-title="ASTRO",38. Boo on9
+#EXTVLCOPT:network-caching=1000
+http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+
+#EXTINF:-1 group-title="ASTRO",39. Al Jazeera  on9
+#EXTVLCOPT:network-caching=1000
+https://live-hls-web-aje.getaj.net/AJE/02.m3u8
+
+#EXTINF:-1 group-title="ASTRO",40. SuperSportHD 1
+#EXTVLCOPT:network-caching=1000000
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6708
+
+#EXTINF:-1 group-title="ASTRO",41. SuperSportHD 2
+#EXTVLCOPT:network-caching=1000000
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6710
+
+#EXTINF:-1 group-title="ASTRO",42. SuperSportHD 3
+#EXTVLCOPT:network-caching=1000000
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6711
+
+#EXTINF:-1 group-title="ASTRO",43. SuperSportHD 4
+#EXTVLCOPT:network-caching=1000000
+http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
+
+#EXTINF:-1 group-title="ASTRO",44. ESPN 2 (360p)
+#EXTVLCOPT:network-caching=1000
+http://stream.tvtap.live:8081/live/espn2hd.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="ASTRO",45. ESPN (360p)
+#EXTVLCOPT:network-caching=1000
+http://stream.tvtap.live:8081/live/espnusahd.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="ASTRO",46. TVN BACKUP on9
+#EXTVLCOPT:network-caching=1000000000
+http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
+
+#EXTINF:-1 group-title="ASTRO",47. One (Indonesian Sub)
+#EXTVLCOPT:network-caching=1000000
+http://210.210.155.35/session/c30d8c14-f1bc-11e8-89c0-aa35b2893d02/uq2663/h/h143/02.m3u8
+
+#EXTINF:-1 group-title="ASTRO",48. K+ (576p)
+#EXTVLCOPT:network-caching=10007777
+http://210.210.155.35/uq2663/h/h08/index.m3u8
+
+
+#EXTINF:-1 group-title="ASTRO",49. CNA (576p)
+#EXTVLCOPT:network-caching=10008888
+http://210.210.155.35/uq2663/h/h29/index.m3u8
+
+#EXTINF:-1 group-title="ASTRO",50. SBS
+#EXTVLCOPT:network-caching=10000000
+http://51.81.66.195:1935/krtv/sbs_540/playlist.m3u8
+
+
+#EXTINF:-1 group-title="ASTRO",51. Nat Geo WILD Asia
+#EXTVLCOPT:network-caching=10007777
+http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+
+#EXTINF:-1 group-title="ASTRO",52. Red by Hbo MultiLanguage&sub TEST
+#EXTVLCOPT:network-caching=1000000000
+http://eroz84.wap.sh/movies/hbo_red.m3u8
+
+#EXTINF:-1 group-title="PARABOLA",53. &privé HD test
+#EXTVLCOPT:network-caching=1000000000
+https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
+
+#EXTINF:-1 GROUP-TITLE="ASTRO",54. TVB Xing He 星河
+#EXTVLCOPT:network-caching=1000000000
+http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://static.epg.best/in/AndFlix.in.png",55. &Flix
+#EXTVLCOPT:network-caching=1000000000
+https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
+
+#EXTINF:-1 group-title="Movies",56. &Pictures
+#EXTVLCOPT:network-caching=1000000000
+https://f8e7y4c6.ssl.hwcdn.net/andpicssd/playlist.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/FiTdDp1.png", 57. 24 Hour Free Movies
+#EXTVLCOPT:network-caching=1000000000
+https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/wnlzC0w.jpg",58. Action Hollywood Movies (1080p)
+#EXTVLCOPT:network-caching=1000000000
+https://lightning-actionhollywood-samsungaustralia.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/uMcwx2p.jpg",59. rakuten tv(france)
+#EXTVLCOPT:network-caching=1000000000
+https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/Snba5W2.jpg",60. ActionMAX
+#EXTVLCOPT:network-caching=1000000000
+http://31.220.41.88:8081/live/us-cinemaxaction.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://1.bp.blogspot.com/-JitJUuWTMxg/VH--1LtXqGI/AAAAAAAAAo0/FL_bgsBFjeU/s1600/CELESTIAL%2BCLASSIC%2BMOVIES%2Blogo.png",61. Celestial Classic 天映经典
+#EXTVLCOPT:network-caching=1000000000
+http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png",62. Celestial Movies (480p) [Geo-blocked]
+#EXTVLCOPT:network-caching=1000000000
+http://210.210.155.35/qwr9ew/s/s33/index.m3u8
+
+#EXTINF:-1 group-title="Movies",63. Cinema
+#EXTVLCOPT:network-caching=1000000000
+https://sc.id-tv.kz/Cinema_34_35.m3u8
+
+#EXTINF:-1 group-title="Astro",64.HBO Malaysia
+#EXTVLCOPT:network-caching=1000000000
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Movies",65. Cinemax (360p)
+#EXTVLCOPT:network-caching=1000000000
+http://stream.tvtap.net:8081/live/us-cinemax.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Indonesia",ANTV INDO
+http://210.210.155.35/session/751485fe-aee3-11ea-934d-b82a72d63267/qwr9ew/s/s07/02.m3u8
+
+#EXTINF:-1 group-title="Indonesia",INDO SIAR
+http://210.210.155.35/qwr9ew/s/s04/01.m3u8
+
+#EXTINF:-1 group-title="Indonesia",kOMPAS TV
+http://210.210.155.35/session/7ed45662-2ed8-11eb-9063-b82a72d63267/qwr9ew/s/s104/01.m3u8
+
+#EXTINF:-1 group-title="Indonesia",NET.TV
+http://45.126.83.51/session/9a1333a4-93cd-11ea-ac63-966cac0014e4/qwr9ew/s/s08/01.m3u8
+
+#EXTINF:-1 group-title="Indonesia",trans7
+http://210.210.155.35/qwr9ew/s/s101/01.m3u8
