@@ -274,3 +274,7 @@ http://45.126.83.51/session/9a1333a4-93cd-11ea-ac63-966cac0014e4/qwr9ew/s/s08/01
 
 #EXTINF:-1 group-title="Indonesia",trans7
 http://210.210.155.35/qwr9ew/s/s101/01.m3u8
+
+#EXTINF:-1,
+#EXTVLCOPT:network-caching=1000
+https://liveanevia.mncnow.id/live/eds/HBO2/sa_dash_vmx/HBO2.mpd
