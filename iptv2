@@ -22,7 +22,7 @@ http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
 
 #EXTINF:-1 group-title="RTM" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",06. 8TV OF9
 #EXTVLCOPT:network-caching=1000
-http://185.180.221.194:8278/streams/d/TV8/playlist.m3u8
+
 
 #EXTINF:-1 group-title="RTM" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",07. Tv9 On9
 #EXTVLCOPT:network-caching=1000
@@ -302,5 +302,23 @@ http://portal.alliptv.tv:8080/OeEgXaaAfi/15t6AXbgEp/46140
 #EXTINF:0 GROUP-TITLE="VIP",77. VIP: Reel PX Action HD ok
 #EXTVLCOPT:network-caching=1000
 http://portal.alliptv.tv:8080/OeEgXaaAfi/15t6AXbgEp/46142
+
+#EXTINF:-1 GROUP-TITLE="VIP",78. Blue Ant
+http://210.210.155.35/session/04d2e2b6-3130-11eb-b6b9-b82a72d63267/dr9445/h/h16/01.m3u8
+
+#EXTINF:-1 GROUP-TITLE="VIP",79. Blue Ant Extreme
+http://210.210.155.35/session/37f72a80-3130-11eb-a769-b82a72d63267/dr9445/h/h15/01.m3u8
+
+#EXTINF:-1 GROUP-TITLE="VIP" , 80.Animal Planet
+http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
+
+#EXTINF:-1 GROUP-TITLE="VIP", 81.Warner TV
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6848
+
+#EXTINF:-1 GROUP-TITLE="VIP",82. Match
+https://95-213-224-169.livesports24.online/ooomatch.m3u8
+
+#EXTINF:-1 GROUP-TITLE="VIP",83.Sukan 2
+http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
 
 
