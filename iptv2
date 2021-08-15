@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="RTM" tvg-logo="https://listimg.pinclipart.com/picdir/s/190-1906651_file-logo-of-malaysia-wikipedia-png-alone-tv1.png",01. Tv1 On9
+#EXTINF:-1 group-title="RTM" tvg-logo="https://iconape.com/wp-content/png_logo_vector/rtm-tv1-logo.png",01. Tv1 On9
 #EXTVLCOPT:network-caching=10000000
 http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 
-#EXTINF:-1 group-title="RTM" tvg-logo="https://listimg.pinclipart.com/picdir/s/190-1906651_file-logo-of-malaysia-wikipedia-png-alone-tv1.png",02. Tv1 HD On9
+#EXTINF:-1 group-title="RTM" tvg-logo="https://iconape.com/wp-content/png_logo_vector/rtm-tv1-logo.png",02. Tv1 HD On9
 #EXTVLCOPT:network-caching=999999
 https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
 
@@ -12,7 +12,7 @@ https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
 #EXTVLCOPT:network-caching=999999
 http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 
-#EXTINF:-1 group-title="RTM" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",04. Tv3 on9
+#EXTINF:-1 group-title="RTM" tvg-logo="https://www.vippng.com/png/detail/342-3425510_logo-of-tv3-tv3-malaysia-logo-png.png",04. Tv3 on9
 #EXTVLCOPT:network-caching=1
 http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
 
