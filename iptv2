@@ -282,26 +282,26 @@ http://210.210.155.35/qwr9ew/s/s101/01.m3u8
 #EXTVLCOPT:network-caching=10000
 https://idvd.multitvsolution.com:443/idvo/turboeng_540p/index.m3u8
 
-#EXTINF:0 GROUP-TITLE="VIP", 73. VIP: Reel PX Unlimited HD
+#EXTINF:0 GROUP-TITLE="VIP", 73. 
 #EXTVLCOPT:network-caching=1000
-http://portal.alliptv.tv:8080/OeEgXaaAfi/15t6AXbgEp/46143
-
-#EXTINF:0 GROUP-TITLE="VIP",74. VIP: Reel PX Family HD
-#EXTVLCOPT:network-caching=1000
-http://portal.alliptv.tv:8080/OeEgXaaAfi/15t6AXbgEp/46141
-
-#EXTINF:0 GROUP-TITLE="VIP",75. VIP: Reel PX Comedy HD
-#EXTVLCOPT:network-caching=1000
-http://portal.alliptv.tv:8080/OeEgXaaAfi/15t6AXbgEp/46139
-
-#EXTINF:0 GROUP-TITLE="VIP",76. VIP: Reel PX Cinema HD
-#EXTVLCOPT:network-caching=1000
-http://portal.alliptv.tv:8080/OeEgXaaAfi/15t6AXbgEp/46140
 
 
-#EXTINF:0 GROUP-TITLE="VIP",77. VIP: Reel PX Action HD ok
+#EXTINF:0 GROUP-TITLE="VIP",74. 
 #EXTVLCOPT:network-caching=1000
-http://portal.alliptv.tv:8080/OeEgXaaAfi/15t6AXbgEp/46142
+
+
+#EXTINF:0 GROUP-TITLE="VIP",75. 
+#EXTVLCOPT:network-caching=1000
+
+
+#EXTINF:0 GROUP-TITLE="VIP",76. 
+#EXTVLCOPT:network-caching=1000
+
+
+
+#EXTINF:0 GROUP-TITLE="VIP",77. 
+#EXTVLCOPT:network-caching=1000
+
 
 #EXTINF:-1 GROUP-TITLE="VIP",78. Blue Ant
 http://210.210.155.35/session/04d2e2b6-3130-11eb-b6b9-b82a72d63267/dr9445/h/h16/01.m3u8
