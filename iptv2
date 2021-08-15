@@ -16,7 +16,7 @@ http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 #EXTVLCOPT:network-caching=1
 http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
 
-#EXTINF:-1 group-title="RTM" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",05. Ntv7 0n9
+#EXTINF:-1 group-title="RTM" tvg-logo="https://www.lowyat.net/wp-content/uploads/2021/02/didik-tv-kpm-01.jpg",05. Ntv7 0n9
 #EXTVLCOPT:network-caching=1000
 http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
 
