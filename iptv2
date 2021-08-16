@@ -101,7 +101,8 @@ https://agsplayback01.astro.com.my:443/CH3/master_VAANGOSHOP5_04.m3u8
 #EXTVLCOPT:network-caching=1000
 
 
-#EXTINF:-1 group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/7/76/Astro%E9%9B%99%E6%98%9F.png/200px-Astro%E9%9B%99%E6%98%9F.png",27. Astro Shuang Xing
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/7/76/Astro%E9%9B%99%E6%98%9F.png/200px-Astro%E9%9B%99%E6%98%9F.png",
+27. Astro Shuang Xing
 #EXTVLCOPT:network-caching=1000
 http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 
@@ -127,21 +128,21 @@ http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
 #EXTINF:-1 group-title="ASTRO" tvg-logo="",33. HBO Family Multilanguage&Subs (Malay Sub) TEST
 #EXTVLCOPT:network-caching=100000
-http://eroz84.wap.sh/movies/hbo_fam.m3u8
+
 
 #EXTINF:-1 group-title="ASTRO" tvg-logo="",34. Cinemax
 #EXTVLCOPT:network-caching=100000
 http://31.220.41.88:8081/live/us-cinemax.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="ASTRO" tvg-logo="",35. Cinemax (360p) HD
+#EXTINF:-1 group-title="ASTRO" tvg-logo="",35. Cinemax (360p) HD BELUM MASUKKAN DALAM LIST
 #EXTVLCOPT:network-caching=1000
 http://stream.tvtap.net:8081/live/us-cinemax.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="ASTRO" tvg-logo="",36. Thrill [Geo-blocked] on9
+#EXTINF:-1 group-title="ASTRO" tvg-logo="",36. Thrill [Geo-blocked] on9 BELUM MASUKKAN DALAM LIST
 #EXTVLCOPT:network-caching=1000000000
 http://45.126.83.51/qwr9ew/s/s34/02.m3u8
 
-#EXTINF:-1 group-title="ASTRO" tvg-logo="",37. Thrill (480p) [Geo-blocked] on9
+#EXTINF:-1 group-title="ASTRO" tvg-logo="",37. Thrill (480p) [Geo-blocked] on9 BELUM MASUKKAN DALAM LIST
 #EXTVLCOPT:network-caching=10000000000
 http://45.126.83.51/qwr9ew/s/s34/index.m3u8
 
@@ -149,7 +150,7 @@ http://45.126.83.51/qwr9ew/s/s34/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 
-#EXTINF:-1 group-title="ASTRO" tvg-logo="",39. Al Jazeera  on9
+#EXTINF:-1 group-title="ASTRO" tvg-logo="",39. Al Jazeera  on9 DELETE
 #EXTVLCOPT:network-caching=1000
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 
@@ -169,28 +170,28 @@ https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 #EXTVLCOPT:network-caching=1000000
 
 
-#EXTINF:-1 group-title="ASTRO" tvg-logo="",44. ESPN 2 (360p)
+#EXTINF:-1 group-title="ASTRO" tvg-logo="",44. ESPN 2 (360p) BELUM MASUK LIST
 #EXTVLCOPT:network-caching=1000
 http://stream.tvtap.live:8081/live/espn2hd.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="ASTRO" tvg-logo="",45. ESPN (360p)
+#EXTINF:-1 group-title="ASTRO" tvg-logo="",45. ESPN (360p) BELUM MASUK LIST
 #EXTVLCOPT:network-caching=1000
 http://stream.tvtap.live:8081/live/espnusahd.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="ASTRO" tvg-logo="",46. TVN BACKUP on9
+#EXTINF:-1 group-title="ASTRO" tvg-logo="",46. 
 #EXTVLCOPT:network-caching=1000000000
-http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
+
 
 #EXTINF:-1 group-title="ASTRO" tvg-logo="",47. One (Indonesian Sub)
 #EXTVLCOPT:network-caching=1000000
 http://210.210.155.35/session/c30d8c14-f1bc-11e8-89c0-aa35b2893d02/uq2663/h/h143/02.m3u8
 
-#EXTINF:-1 group-title="ASTRO" tvg-logo="",48. K+ (576p)
+#EXTINF:-1 group-title="ASTRO" tvg-logo="",48. K+ (576p) BELUM MASUK LIST
 #EXTVLCOPT:network-caching=10007777
 http://210.210.155.35/uq2663/h/h08/index.m3u8
 
 
-#EXTINF:-1 group-title="ASTRO" tvg-logo="",49. CNA (576p)
+#EXTINF:-1 group-title="ASTRO" tvg-logo="",49. CNA (576p) DI DELETE TADI
 #EXTVLCOPT:network-caching=10008888
 http://210.210.155.35/uq2663/h/h29/index.m3u8
 
@@ -203,39 +204,39 @@ http://210.210.155.35/uq2663/h/h29/index.m3u8
 #EXTVLCOPT:network-caching=10007777
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 
-#EXTINF:-1 group-title="ASTRO" tvg-logo="",52. Red by Hbo MultiLanguage&sub TEST
+#EXTINF:-1 group-title="ASTRO" tvg-logo="",52. Red by Hbo MultiLanguage&sub TEST TIADA DALAM LIST
 #EXTVLCOPT:network-caching=1000000000
 http://eroz84.wap.sh/movies/hbo_red.m3u8
 
-#EXTINF:-1 group-title="PARABOLA" tvg-logo="",53. &privé HD test
+#EXTINF:-1 group-title="PARABOLA" tvg-logo="",53. &privé HD test OUT LIST
 #EXTVLCOPT:network-caching=1000000000
 https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
 
-#EXTINF:-1 GROUP-TITLE="ASTRO" tvg-logo="",54. TVB Xing He 星河
+#EXTINF:-1 GROUP-TITLE="ASTRO" tvg-logo="",54. TVB Xing He 星河 BELUM DALAM LIST
 #EXTVLCOPT:network-caching=1000000000
 http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://static.epg.best/in/AndFlix.in.png",55. &Flix
+#EXTINF:-1 group-title="Movies" tvg-logo="https://static.epg.best/in/AndFlix.in.png",55. &Flix BELUM DALAM LIST
 #EXTVLCOPT:network-caching=1000000000
 https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
 
-#EXTINF:-1 group-title="Movies" tvg-logo="",56. &Pictures
+#EXTINF:-1 group-title="Movies" tvg-logo="",56. &Pictures BELUM DALAM LIST
 #EXTVLCOPT:network-caching=1000000000
 https://f8e7y4c6.ssl.hwcdn.net/andpicssd/playlist.m3u8
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/FiTdDp1.png", 57. 24 Hour Free Movies
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/FiTdDp1.png", 57. 24 Hour Free Movies BELUM DALAM LIST
 #EXTVLCOPT:network-caching=1000000000
 https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/wnlzC0w.jpg",58. Action Hollywood Movies (1080p)
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/wnlzC0w.jpg",58. Action Hollywood Movies (1080p) BELUM DALAM LIST
 #EXTVLCOPT:network-caching=1000000000
 https://lightning-actionhollywood-samsungaustralia.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/uMcwx2p.jpg",59. rakuten tv(france)
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/uMcwx2p.jpg",59. 
 #EXTVLCOPT:network-caching=1000000000
-https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/Snba5W2.jpg",60. ActionMAX
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/Snba5W2.jpg",60. ActionMAX BELUM DALAM LIST
 #EXTVLCOPT:network-caching=1000000000
 http://31.220.41.88:8081/live/us-cinemaxaction.stream/playlist.m3u8
 
@@ -247,7 +248,7 @@ http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 #EXTVLCOPT:network-caching=1000000000
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 
-#EXTINF:-1 group-title="Movies" tvg-logo="",63. Cinema
+#EXTINF:-1 group-title="Movies" tvg-logo="",63. Cinema BELUM LIST
 #EXTVLCOPT:network-caching=1000000000
 https://sc.id-tv.kz/Cinema_34_35.m3u8
 
