@@ -99,7 +99,7 @@ https://agsplayback01.astro.com.my:443/CH3/master_VAANGOSHOP5_04.m3u8
 
 #EXTINF:-1 group-title="ASTRO" tvg-logo="",26. Astro AOD 311 OF9
 #EXTVLCOPT:network-caching=1000
-http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
+
 
 #EXTINF:-1 group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/7/76/Astro%E9%9B%99%E6%98%9F.png/200px-Astro%E9%9B%99%E6%98%9F.png",27. Astro Shuang Xing
 #EXTVLCOPT:network-caching=1000
@@ -107,7 +107,7 @@ http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 
 #EXTINF:-1  group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/94/Astro_%E8%8F%AF%E9%BA%97%E5%8F%B0.jpg",28. Astro 华丽台 (Astro Wah Lai Toi) OF9
 #EXTVLCOPT:network-caching=1000
-http://185.180.221.194:8278/streams/d/Wlt/playlist.m3u8
+
 
 #EXTINF:-1  group-title="ASTRO" tvg-logo="http://astrokentico.s3.amazonaws.com/xuan/channels/325.png",29. Astro 小太阳 (Astro Xiao Tai Yang) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
@@ -115,7 +115,7 @@ http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
 
 #EXTINF:-1  group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/9_144.png",30. Astro 欢喜台 (Astro Hua Hee Dai) [Not 24/7] OF9
 #EXTVLCOPT:network-caching=1000
-http://185.180.221.194:8278/streams/d/Huahee/playlist.m3u8
+
 
 #EXTINF:-1 group-title="ASTRO" tvg-logo="",31. Nick (East) cartoon  on9
 #EXTVLCOPT:network-caching=1000
@@ -155,19 +155,19 @@ https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 
 #EXTINF:-1 group-title="ASTRO" tvg-logo="",40. SuperSportHD 1
 #EXTVLCOPT:network-caching=1000000
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6708
+
 
 #EXTINF:-1 group-title="ASTRO" tvg-logo="",41. SuperSportHD 2
 #EXTVLCOPT:network-caching=1000000
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6710
+
 
 #EXTINF:-1 group-title="ASTRO" tvg-logo="",42. SuperSportHD 3
 #EXTVLCOPT:network-caching=1000000
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6711
+
 
 #EXTINF:-1 group-title="ASTRO" tvg-logo="",43. SuperSportHD 4
 #EXTVLCOPT:network-caching=1000000
-http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
+
 
 #EXTINF:-1 group-title="ASTRO" tvg-logo="",44. ESPN 2 (360p)
 #EXTVLCOPT:network-caching=1000
@@ -196,7 +196,7 @@ http://210.210.155.35/uq2663/h/h29/index.m3u8
 
 #EXTINF:-1 group-title="ASTRO" tvg-logo="",50. SBS
 #EXTVLCOPT:network-caching=10000000
-http://51.81.66.195:1935/krtv/sbs_540/playlist.m3u8
+
 
 
 #EXTINF:-1 group-title="ASTRO" tvg-logo="",51. Nat Geo WILD Asia
