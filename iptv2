@@ -598,6 +598,8 @@ http://210.210.155.35/session/04d2e2b6-3130-11eb-b6b9-b82a72d63267/dr9445/h/h16/
 #EXTVLCOPT:network-caching=10000
 http://210.210.155.35/session/37f72a80-3130-11eb-a769-b82a72d63267/dr9445/h/h15/01.m3u8
 
+#EXTINF:-1 GROUP-TITLE="VIP" tvg-logo="",RTM Parlimen (Dewan Rakyat) (1080p)
+https://parlimenrakyat.secureswiftcontent.com/Origin04/ngrp:RTM4/playlist.m3u8
 
 
 
