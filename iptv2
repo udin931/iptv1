@@ -169,7 +169,7 @@ http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 
 #EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/134_144.png	",309	CELESTIAL MOVIES HD	
 #EXTVLCOPT:network-caching=100000	
-http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 
 #EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/203_144.png	",310	TVB JADE	
 #EXTVLCOPT:network-caching=100000	
@@ -194,7 +194,7 @@ http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 
 #EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png	",321	CCM	
 #EXTVLCOPT:network-caching=100000	
-http://210.210.155.35/qwr9ew/s/s33/index.m3u8
+http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 
 #EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/414_144.png	",323	TVBS NEWS	
 #EXTVLCOPT:network-caching=100000	
