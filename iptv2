@@ -16,8 +16,12 @@ http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 #EXTVLCOPT:network-caching=100000	
 http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
 
+
+
 #EXTINF:-1 group-title="ASTRO"	tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png",104 ASTRO RIA HD
 #EXTVLCOPT:network-caching=100000
+
+
 
 	
 #EXTINF:-1 group-title="ASTRO"	tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",105 ASTRO PRIMA HD	
@@ -36,29 +40,10 @@ http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 #EXTVLCOPT:network-caching=100000
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
 
-#EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/299_144.png",109	NAURA HD	
-#EXTVLCOPT:network-caching=100000
-	
-	
-#EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/403_144.png",111	GO SHOP 111	
-#EXTVLCOPT:network-caching=100000
-	
-	
-#EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png",112	ASTRO RANIA HD	
-#EXTVLCOPT:network-caching=100000
-
-	
-#EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png",113	ASTRO AURA HD	
-#EXTVLCOPT:network-caching=100000
-
 	
 #EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/149_144.png",114	AL-HIJRAH	
 #EXTVLCOPT:network-caching=100000	
 http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
-
-
-#EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/365_144.png",116	COLORS HINDI HD	
-#EXTVLCOPT:network-caching=100000	
 
 
 #EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://www.rtm.gov.my/images/2021/03/31/tv6.jpg",873 TV6	
@@ -69,24 +54,15 @@ https://rtm6.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
 #EXTVLCOPT:network-caching=100000	
 https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_04.m3u8
 
-#EXTINF:-1 group-title="ASTRO" tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/433_144.png	",123	AWESOME TV	
-#EXTVLCOPT:network-caching=100000	
-
-#EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/42_144.png	",129	ARABIC RADIO & TV VARIETY	
-#EXTVLCOPT:network-caching=100000
-	
-#EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/302_144.png	",140	NJOI TV	
-#EXTVLCOPT:network-caching=100000	
-
-#EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/97_144.png	",146	TV OKAY	
-#EXTVLCOPT:network-caching=100000
 	
 #EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png	",147	NTV7 / DIDIK TV	
 #EXTVLCOPT:network-caching=100000	
 http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
 
 #EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png	",148	8TV	
-#EXTVLCOPT:network-caching=100000	
+#EXTVLCOPT:network-caching=100000
+
+
 
 #EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png	",149	TV9	
 #EXTVLCOPT:network-caching=100000	
@@ -99,53 +75,6 @@ https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8
 #EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png	",202	ASTRO VINMEEN HD	
 #EXTVLCOPT:network-caching=100000
 
-	
-#EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/61_144.png	",203	ASTRO VELLITHIRAI	
-#EXTVLCOPT:network-caching=100000
-
-	
-#EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/47_144.png	",204	MAKKAL TV	
-#EXTVLCOPT:network-caching=100000
-
-	
-#EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/358_144.png	",211	SUN TV HD	
-#EXTVLCOPT:network-caching=100000
-
-	
-#EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/417_144.png	",212	SUN MUSIC HD	
-#EXTVLCOPT:network-caching=100000
-
-	
-#EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/51_144.png	",213	CHUTTI TV	
-#EXTVLCOPT:network-caching=100000	
-
-
-#EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/67_144.png	",214	ADITHYA	
-#EXTVLCOPT:network-caching=100000
-
-	
-#EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/357_144.png	",221	STAR VIJAY HD	
-#EXTVLCOPT:network-caching=100000
-
-	
-#EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/298_144.png	",222	COLORS TAMIL HD	
-#EXTVLCOPT:network-caching=100000
-
-	
-#EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/297_144.png	",223	ZEE TAMIL HD	
-#EXTVLCOPT:network-caching=100000
-
-	
-#EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/177_144.png	",241	ABO MOVIES THANGATHIRAI HD	
-#EXTVLCOPT:network-caching=100000
-
-	
-#EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/178_144.png	",251	BOLLYONE HD	
-#EXTVLCOPT:network-caching=100000
-
-	
-#EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png	",300	IQIYI HD	
-#EXTVLCOPT:network-caching=100000
 
 	
 #EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/387_144.png	",304	ASTRO XIAO TAI YANG HD	
@@ -165,63 +94,19 @@ http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 
 #EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/158_144.png	",308	ASTRO QUAN JIA HD	
-#EXTVLCOPT:network-caching=100000	
+#EXTVLCOPT:network-caching=100000
+
 
 #EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/134_144.png	",309	CELESTIAL MOVIES HD	
 #EXTVLCOPT:network-caching=100000	
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 
-#EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/203_144.png	",310	TVB JADE	
-#EXTVLCOPT:network-caching=100000	
 
-#EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/172_144.png	",311	ASTRO AOD HD 311	
-#EXTVLCOPT:network-caching=100000
-	
-#EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/388_144.png	",315	STAR CHINESE CHANNEL HD	
-#EXTVLCOPT:network-caching=100000
-	
-#EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/424_144.png	",316	CTI ASIA HD	
-#EXTVLCOPT:network-caching=100000
-	
-#EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/427_144.png	",317	TVB ENTERTAINMENT NEWS HD	
-#EXTVLCOPT:network-caching=100000	
-
-#EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/383_144.png	",319	TVB XING HE HD	
-#EXTVLCOPT:network-caching=100000	
-
-#EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/384_144.png	",320	TVBS ASIA HD	
-#EXTVLCOPT:network-caching=100000	
 
 #EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png	",321	CCM	
 #EXTVLCOPT:network-caching=100000	
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 
-#EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/414_144.png	",323	TVBS NEWS	
-#EXTVLCOPT:network-caching=100000	
-
-#EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/382_144.png	",325	PHOENIX CHINESE CHANNEL HD	
-#EXTVLCOPT:network-caching=100000
-	
-#EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/43_144.png	",326	PHOENIX INFO NEWS HD	
-#EXTVLCOPT:network-caching=100000
-	
-#EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/162_144.png	",333	ASTRO HUA HEE DAI HD	
-#EXTVLCOPT:network-caching=100000
-	
-#EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/385_144.png	",335	CCTV4 HD	
-#EXTVLCOPT:network-caching=100000
-	
-#EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png	",352	ASTRO AOD 352	
-#EXTVLCOPT:network-caching=100000
-	
-#EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png	",353	ASTRO AOD 353	
-#EXTVLCOPT:network-caching=100000
-	
-#EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png	",354	ASTRO AOD 354	
-#EXTVLCOPT:network-caching=100000
-	
-#EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png	",355	ASTRO AOD 355	
-#EXTVLCOPT:network-caching=100000
 	
 #EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/161_144.png	",392	KBS WORLD HD	
 #EXTVLCOPT:network-caching=100000
@@ -238,8 +123,6 @@ http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
 #EXTVLCOPT:network-caching=100000	
 http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 
-#EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/428_144.png	",398	NHK WORLD HD	
-#EXTVLCOPT:network-caching=100000
 	
 #EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/200_144.png	",400	FAM MOVIES (FAMILY MOVIES)	
 #EXTVLCOPT:network-caching=100000
@@ -259,17 +142,7 @@ http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTVLCOPT:network-caching=100000	
 http://31.220.41.88:8081/live/us-cinemax.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/151_144.png	",413	FOX MOVIES HD	
-#EXTVLCOPT:network-caching=100000
-	
-#EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/170_144.png	",414	FOX FAMILY MOVIES HD	
-#EXTVLCOPT:network-caching=100000
-	
-#EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/184_144.png	",415	FOX ACTION MOVIES HD	
-#EXTVLCOPT:network-caching=100000	
 
-#EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/274_144.png	",416	TVN MOVIES HD	
-#EXTVLCOPT:network-caching=100000	
 
 #EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/436_144.png	",501	ASTRO AWANI HD	
 #EXTVLCOPT:network-caching=100000
@@ -344,172 +217,16 @@ http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 #EXTVLCOPT:network-caching=100000	
 http://31.220.41.88:8081/live/us-nick.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/392_144.png	",617	NICKELODEON JUNIOR	
-#EXTVLCOPT:network-caching=100000	
-
-#EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/94_144.png	",618	BABY TV	
-#EXTVLCOPT:network-caching=100000
-
-	
-#EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/131_144.png	",701	AXN HD	
-#EXTVLCOPT:network-caching=100000
-
-	
-#EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/296_144.png	",702	HELLO HD	
-#EXTVLCOPT:network-caching=100000	
-https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
-
-#EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/137_144.png	",703	FOXLIFE HD	
-#EXTVLCOPT:network-caching=100000	
-
-
-#EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/180_144.png	",704	FOX HD	
-#EXTVLCOPT:network-caching=100000	
-
-
-#EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/157_144.png	",705	KIX HD	
-#EXTVLCOPT:network-caching=100000	
-
-
-#EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/179_144.png	",706	HITS HD	
-#EXTVLCOPT:network-caching=100000	
-
-
-#EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/338_144.png	",707	TLC HD	
-#EXTVLCOPT:network-caching=100000	
-
-
-#EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/153_144.png	",708	FOOD NETWORK HD	
-#EXTVLCOPT:network-caching=100000	
-
-
-#EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/91_144.png	",709	ASIAN FOOD NETWORK HD	
-#EXTVLCOPT:network-caching=100000
-
-	
-#EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/199_144.png	",710	NAT GEO PEOPLE HD	
-#EXTVLCOPT:network-caching=100000
-
-	
-#EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/270_144.png	",712	WARNER TV HD	
-#EXTVLCOPT:network-caching=100000	
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6848
-
-#EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/132_144.png	",713	FX HD	
-#EXTVLCOPT:network-caching=100000	
-
-
-#EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/369_144.png	",714	CRIME & INVESTIGATION HD	
-#EXTVLCOPT:network-caching=100000	
-
-
-#EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/198_144.png	",715	HGTV HD	
-#EXTVLCOPT:network-caching=100000
-	
-	
-#EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/367_144.png	",716	DMAX HD	
-#EXTVLCOPT:network-caching=100000
-
-	
-#EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/419_144.png	",719	ANIMAX HD	
-#EXTVLCOPT:network-caching=100000
-
-	
-#EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png	",780	ASTRO UHD	
-#EXTVLCOPT:network-caching=100000	
-
-
-#EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/440_144.png	",781	ASTRO SUPERSPORT UHD	
-#EXTVLCOPT:network-caching=100000
-
-	
-#EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/440_144.png	",785	SPECIAL EVENT SPORTS HD 01
-#EXTVLCOPT:network-caching=100000
-
-	
-#EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/440_144.png	",786	SPECIAL EVENT SPORTS HD 02	
-#EXTVLCOPT:network-caching=100000
-
-	
-#EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/440_144.png	",787	SPECIAL EVENT SPORTS HD 03	
-#EXTVLCOPT:network-caching=100000
-
-	
-#EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/440_144.png	",788	SPECIAL EVENT SPORTS HD 04	
-#EXTVLCOPT:network-caching=100000
-
-	
-#EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/440_144.png	",789	SPECIAL EVENT SPORTS HD 05	
-#EXTVLCOPT:network-caching=100000
-
-	
-#EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/440_144.png	",790	SPECIAL EVENT SPORTS HD 06	
-#EXTVLCOPT:network-caching=100000
-
-	
-#EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/440_144.png	",791	SPECIAL EVENT SPORTS HD 07	
-#EXTVLCOPT:network-caching=100000
-
-	
-#EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/440_144.png	",792	SPECIAL EVENT SPORTS HD 08	
-#EXTVLCOPT:network-caching=100000
-
-	
-#EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/206_144.png	",800	EGG NETWORK HD	
-#EXTVLCOPT:network-caching=100000
-
-	
-#EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png	",801	ASTRO ARENA HD	
-#EXTVLCOPT:network-caching=100000
-
-	
-#EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png	",811	ASTRO SUPERSPORT	
-#EXTVLCOPT:network-caching=100000
-
-	
-#EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png	",812	ASTRO SUPERTSPORT 2	
-#EXTVLCOPT:network-caching=100000
-
-	
-#EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png	",813	ASTRO SUPERTSPORT 3	
-#EXTVLCOPT:network-caching=100000	
-
-
-#EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png	",814	ASTRO SUPERTSPORT 4	
-#EXTVLCOPT:network-caching=100000
-
-	
-#EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/141_144.png	",815	FOX SPORTS HD	
-#EXTVLCOPT:network-caching=100000
-
-	
-#EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/290_144.png	",816	FOX SPORTS 2 HD	
-#EXTVLCOPT:network-caching=100000	
-
-
-#EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/291_144.png	",817	FOX SPORTS 3 HD	
-#EXTVLCOPT:network-caching=100000	
-
-
-#EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png	",818	BEIN SPORTS HD	
-#EXTVLCOPT:network-caching=100000	
-
-
-#EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/313_144.png	",819	BEIN SPORTS MAX HD	
-#EXTVLCOPT:network-caching=100000
-
-	
-#EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png	",820	EUROSPORT HD	
-#EXTVLCOPT:network-caching=100000	
-
-
-#EXTINF:-1 group-title="ASTRO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/194_144.png	",821	WWE NETWORK HD	
-#EXTVLCOPT:network-caching=100000	
 
 
 #EXTINF:-1 group-title="ASTRO"	tvg-logo="	http://berita.rtm.gov.my/images/logobesbawah.jpg	",822	BERITA RTM	
 #EXTVLCOPT:network-caching=100000	
 https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
+
+
+
+
+
 
 #EXTINF:-1 group-title="USA" tvg-logo="",873. Cinemax (360p) HD 
 #EXTVLCOPT:network-caching=1000
@@ -600,60 +317,4 @@ http://210.210.155.35/session/37f72a80-3130-11eb-a769-b82a72d63267/dr9445/h/h15/
 
 #EXTINF:-1 GROUP-TITLE="VIP" tvg-logo="",RTM Parlimen (Dewan Rakyat) (1080p)
 https://parlimenrakyat.secureswiftcontent.com/Origin04/ngrp:RTM4/playlist.m3u8
-
-
-
-										
-#EXTINF:-1 group-title="RADIO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/17_144.png	",852	HITZ FM	
-#EXTVLCOPT:network-caching=100000
-
-	
-#EXTINF:-1 group-title="RADIO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/15_144.png	",853	MY FM	
-#EXTVLCOPT:network-caching=100000
-
-	
-#EXTINF:-1 group-title="RADIO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/19_144.png	",854	LITE FM	
-#EXTVLCOPT:network-caching=100000
-
-	
-#EXTINF:-1 group-title="RADIO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/18_144.png	",855	MIX FM	
-#EXTVLCOPT:network-caching=100000
-
-	
-#EXTINF:-1 group-title="RADIO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/14_144.png	",856	ERA FM	
-#EXTVLCOPT:network-caching=100000
-
-	
-#EXTINF:-1 group-title="RADIO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/26_144.png	",857	SINAR FM	
-#EXTVLCOPT:network-caching=100000	
-
-
-#EXTINF:-1 group-title="RADIO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/28_144.png	",858	MELODY FM	
-#EXTVLCOPT:network-caching=100000	
-
-
-#EXTINF:-1 group-title="RADIO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/22_144.png	",863	THR GEGAR	
-#EXTVLCOPT:network-caching=100000
-
-	
-#EXTINF:-1 group-title="RADIO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/31_144.png	",867	BAYU	
-#EXTVLCOPT:network-caching=100000
-
-	
-#EXTINF:-1 group-title="RADIO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/32_144.png	",868	KENYALANG	
-#EXTVLCOPT:network-caching=100000
-
-	
-#EXTINF:-1 group-title="RADIO"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/25_144.png	",869	NASIONAL FM	
-#EXTVLCOPT:network-caching=100000
-
-	
-#EXTINF:-1 group-title="RADIO"	tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/29_144.png",870	SABAH V FM	
-#EXTVLCOPT:network-caching=100000
-
-	
-#EXTINF:-1 group-title="RADIO"	tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/145_144.png",871	WAI FM	
-#EXTVLCOPT:network-caching=100001	
-
-
 
