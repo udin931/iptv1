@@ -119,7 +119,7 @@ http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
 http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 
 	
-#EXTINF:-1 group-title="ASTRO ENGLISH"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/200_144.png	",400	FAM MOVIES (FAMILY MOVIES)	
+#EXTINF:-1 group-title="ASTRO MOVIES"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/200_144.png	",400	FAM MOVIES (FAMILY MOVIES)	
 #EXTVLCOPT:network-caching=100000
 	
 #EXTINF:-1 group-title="ASTRO MOVIES"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png	",401	HITS MOVIES HD	
@@ -137,6 +137,21 @@ http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTVLCOPT:network-caching=100000	
 http://31.220.41.88:8081/live/us-cinemax.stream/playlist.m3u8
 
+#EXTINF:-1 group-title="ASTRO MOVIES"	tvg-logo="",HBO Family East (1080p)
+#EXTVLCOPT:network-caching=1000
+https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
+
+#EXTINF:-1 group-title="ASTRO MOVIES"	tvg-logo="",HBO Hits (1080p)
+#EXTVLCOPT:network-caching=1000
+https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
+
+#EXTINF:-1 group-title="ASTRO MOVIES"	tvg-logo="",HBO Malaysia (720p)
+#EXTVLCOPT:network-caching=1000
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+
+#EXTINF:-1 group-title="ASTRO MOVIES"	tvg-logo="",HBO Signature East (1080p)
+#EXTVLCOPT:network-caching=1000
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 
 
 #EXTINF:-1 group-title="ASTRO MALAYSIA"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/436_144.png	",501	ASTRO AWANI HD	
