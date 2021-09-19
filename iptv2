@@ -71,7 +71,7 @@ https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_04.m3u8
 #EXTVLCOPT:network-caching=100000	
 http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
 
-#EXTINF:-1 group-title="ASTRO MALAYSIA"	tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png",148	8TV	
+#EXTINF:-1 group-title="ASTRO MALAYSIA"	tvg-logo="https://github.com/udin931/iptv1/blob/main/logos2/Astro1/8TV.png",148	8TV	
 #EXTVLCOPT:network-caching=100000
 
 #EXTINF:-1 GROUP-TITLE="ASTRO MALAYSIA" tvg-logo="",RTM Parlimen (Dewan Rakyat) (1080p)
