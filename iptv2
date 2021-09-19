@@ -1,63 +1,77 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="ASTRO MALAYSIA"	tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",101 TV1
+#EXTINF:-1 tvg-id="101" group-title="ASTRO MALAYSIA"	tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",101 TV1
 #EXTVLCOPT:network-caching=100000	
 http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 
-#EXTINF:-1 group-title="ASTRO MALAYSIA"	tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",101 TV1 HD
+#EXTINF:-1 tvg-id="102" group-title="ASTRO MALAYSIA"	tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",101 TV1 HD
 #EXTVLCOPT:network-caching=100000
 https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
 
-#EXTINF:-1 group-title="ASTRO MALAYSIA"	tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png",102 TV2
+#EXTINF:-1 tvg-id="103" group-title="ASTRO MALAYSIA"	tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png",102 TV2
 #EXTVLCOPT:network-caching=100000	
 http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 
-#EXTINF:-1 group-title="ASTRO MALAYSIA"	tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",103 TV3	
+#EXTINF:-1 tvg-id="104" group-title="ASTRO MALAYSIA"	tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",103 TV3	
 #EXTVLCOPT:network-caching=100000	
 http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
 
-#EXTINF:-1 group-title="ASTRO MALAYSIA"	tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png",104 ASTRO RIA HD
+#EXTINF:-1 tvg-id="105" group-title="ASTRO MALAYSIA"	tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png",104 ASTRO RIA HD
 #EXTVLCOPT:network-caching=100000
+#http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
+http://50.7.161.82:8277/streams/d/ria_pye/playlist.m3u8
 
-
+#EXTINF:-1 tvg-id="106" tvg-name="ASTRO RIA" group-title="ASTRO" tvg-logo="https://telegra.ph/file/b768111e267bfaa490f29.png",ASTRO RIA
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/23
 
 	
-#EXTINF:-1 group-title="ASTRO MALAYSIA"	tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",105 ASTRO PRIMA HD	
+#EXTINF:-1 tvg-id="107" group-title="ASTRO MALAYSIA"	tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",105 ASTRO PRIMA HD	
 #EXTVLCOPT:network-caching=100000	
 http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
 
-#EXTINF:-1 group-title="ASTRO MALAYSIA"	tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png",106	ASTRO OASIS HD	
+#EXTINF:-1 tvg-id="108" group-title="ASTRO MALAYSIA"	tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png",106	ASTRO OASIS HD	
 #EXTVLCOPT:network-caching=100000	
 http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 
 #EXTINF:-1 group-title="ASTRO MALAYSIA"	tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png",107 ASTRO WARNA HD	
 #EXTVLCOPT:network-caching=100000
-
+http://50.7.161.82:8277/streams/d/warnahd_pye/playlist.m3u8
 	
 #EXTINF:-1 group-title="ASTRO MALAYSIA"	tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png",108 ASTRO CITRA HD
 #EXTVLCOPT:network-caching=100000
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
 
+#EXTINF:-1, group-title="ASTRO MALAYSIA" tvg-logo="https://telegra.ph/file/3bd2712a70950607fa779.png",TV IKIM
+#EXTVLCOPT:network-caching=100000
+http://edge.vediostream.com/abr/tvikim/playlist.m3u8
+
+#EXTINF:-1, group-title="ASTRO MALAYSIA" tvg-logo="https://telegra.ph/file/e424bfbee7d21fa51ea48.png",Drama Sangat
+#EXTVLCOPT:network-caching=100000
+http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
 	
-#EXTINF:-1 group-title="ASTRO MALAYSIA"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/149_144.png",114	AL-HIJRAH	
+#EXTINF:-1 group-title="ASTRO MALAYSIA"	tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/149_144.png",114	AL-HIJRAH	
 #EXTVLCOPT:network-caching=100000	
 http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
 
+#EXTINF:-1, group-title="ASTRO MALAYSIA" tvg-logo="https://telegra.ph/file/1f0a0fe99a2d38e5086aa.jpg",Astro Oasis CH106
+http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 
-#EXTINF:-1 group-title="ASTRO SARAWAK"	tvg-logo="	https://www.rtm.gov.my/images/2021/03/31/tv6.jpg",873 TV6	
+
+
+#EXTINF:-1 group-title="ASTRO SARAWAK"	tvg-logo="https://www.rtm.gov.my/images/2021/03/31/tv6.jpg",873 TV6	
 #EXTVLCOPT:network-caching=100000	
 https://rtm6.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
 
-#EXTINF:-1 group-title="ASTRO SARAWAK"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png",122	TVS	
+#EXTINF:-1 group-title="ASTRO SARAWAK"	tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png",122	TVS	
 #EXTVLCOPT:network-caching=100000	
 https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_04.m3u8
 
 	
-#EXTINF:-1 group-title="ASTRO MALAYSIA"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png	",147	NTV7 / DIDIK TV	
+#EXTINF:-1 group-title="ASTRO MALAYSIA"	tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png	",147	NTV7 / DIDIK TV	
 #EXTVLCOPT:network-caching=100000	
 http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
 
-#EXTINF:-1 group-title="ASTRO MALAYSIA"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png	",148	8TV	
+#EXTINF:-1 group-title="ASTRO MALAYSIA"	tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png",148	8TV	
 #EXTVLCOPT:network-caching=100000
 
 #EXTINF:-1 GROUP-TITLE="ASTRO MALAYSIA" tvg-logo="",RTM Parlimen (Dewan Rakyat) (1080p)
@@ -129,25 +143,29 @@ http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 #EXTVLCOPT:network-caching=100000	
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 
-#EXTINF:-1 group-title="ASTRO MOVIES"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png	",411	HBO HD	
+#EXTINF:-1 group-title="ASTRO MOVIES"	tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png",411	HBO HD	
 #EXTVLCOPT:network-caching=100000	
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+
+#EXTINF:-1 group-title="ASTRO MOVIES"	tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png", 411_1 HBO Malaysia (720p)
+#EXTVLCOPT:network-caching=1000
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
 #EXTINF:-1 group-title="ASTRO MOVIES"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png	",412	CINEMAX HD	
 #EXTVLCOPT:network-caching=100000	
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+
+#EXTINF:-1 group-title="ASTRO MOVIES"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png	",412	CINEMAX	
+#EXTVLCOPT:network-caching=100000	
 http://31.220.41.88:8081/live/us-cinemax.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="ASTRO MOVIES"	tvg-logo="",HBO Family East (1080p)
+#EXTINF:-1 group-title="ASTRO MOVIES"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png",HBO Family East (1080p)
 #EXTVLCOPT:network-caching=1000
 https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
 
 #EXTINF:-1 group-title="ASTRO MOVIES"	tvg-logo="",HBO Hits (1080p)
 #EXTVLCOPT:network-caching=1000
 https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
-
-#EXTINF:-1 group-title="ASTRO MOVIES"	tvg-logo="",HBO Malaysia (720p)
-#EXTVLCOPT:network-caching=1000
-http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
 #EXTINF:-1 group-title="ASTRO MOVIES"	tvg-logo="",HBO Signature East (1080p)
 #EXTVLCOPT:network-caching=1000
