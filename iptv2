@@ -1,18 +1,18 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="101" group-title="ASTRO MALAYSIA"	tvg-logo="https://raw.githubusercontent.com/udin931/iptv1/main/logos2/logoss/TV1.png",101 TV1
+#EXTINF:-1 tvg-id="101" group-title="ASTRO MALAYSIA"tvg-logo="https://raw.githubusercontent.com/udin931/iptv1/main/logos2/logoss/TV1.png",101 TV1
 #EXTVLCOPT:network-caching=100000	
 http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="102" group-title="ASTRO MALAYSIA"	tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",101 TV1 HD
+#EXTINF:-1 tvg-id="102" group-title="ASTRO MALAYSIA"https://raw.githubusercontent.com/udin931/iptv1/main/logos2/logoss/TV1.png",101 TV1 HD
 #EXTVLCOPT:network-caching=100000
 https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
 
-#EXTINF:-1 tvg-id="103" group-title="ASTRO MALAYSIA"	tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png",102 TV2
+#EXTINF:-1 tvg-id="103" group-title="ASTRO MALAYSIA"https://raw.githubusercontent.com/udin931/iptv1/main/logos2/logoss/TV2.png",102 TV2
 #EXTVLCOPT:network-caching=100000	
 http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="104" group-title="ASTRO MALAYSIA"	tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",103 TV3	
+#EXTINF:-1 tvg-id="104" group-title="ASTRO MALAYSIA"tvg-logo="https://raw.githubusercontent.com/udin931/iptv1/main/logos2/logoss/TV3.png",103 TV3	
 #EXTVLCOPT:network-caching=100000	
 http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
 
