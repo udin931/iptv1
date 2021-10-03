@@ -6,7 +6,7 @@ http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="102" group-title="ASTRO MALAYSIA"tvg-logo="https://raw.githubusercontent.com/udin931/iptv1/main/logos2/logoss/TV1.png",101 TV1 HD
 #EXTVLCOPT:network-caching=100000
-https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
+
 
 #EXTINF:-1 tvg-id="103" group-title="ASTRO MALAYSIA"tvg-logo="https://raw.githubusercontent.com/udin931/iptv1/main/logos2/logoss/TV2.png",102 TV2
 #EXTVLCOPT:network-caching=100000	
@@ -16,12 +16,17 @@ http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 #EXTVLCOPT:network-caching=100000	
 http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
 
+#EXTINF:-1 tvg-id="108" group-title="ASTRO MALAYSIA" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428040_ico.png",8TV
+#EXTVLCOPT:network-caching=100000
+http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
+
 #EXTINF:-1 tvg-id="105" group-title="ASTRO MALAYSIA"	tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png",104 ASTRO RIA HD
 #EXTVLCOPT:network-caching=100000
 #http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
 http://50.7.161.82:8277/streams/d/ria_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-id="106" tvg-name="ASTRO RIA" group-title="ASTRO" tvg-logo="https://telegra.ph/file/b768111e267bfaa490f29.png",ASTRO RIA
+#EXTVLCOPT:network-caching=100000
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/23
 
 	
@@ -54,13 +59,14 @@ http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
 
 #EXTINF:-1, group-title="ASTRO MALAYSIA" tvg-logo="https://telegra.ph/file/1f0a0fe99a2d38e5086aa.jpg",Astro Oasis CH106
+#EXTVLCOPT:network-caching=100000
 http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 
 
 
 #EXTINF:-1 group-title="ASTRO SARAWAK"	tvg-logo="https://www.rtm.gov.my/images/2021/03/31/tv6.jpg",873 TV6	
 #EXTVLCOPT:network-caching=100000	
-https://rtm6.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
+
 
 #EXTINF:-1 group-title="ASTRO SARAWAK"	tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png",122	TVS	
 #EXTVLCOPT:network-caching=100000	
@@ -77,6 +83,7 @@ http://50.7.17.176:61980/myplay/c_58006/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&ex
 
 
 #EXTINF:-1 GROUP-TITLE="ASTRO MALAYSIA" tvg-logo="",RTM Parlimen (Dewan Rakyat) (1080p)
+#EXTVLCOPT:network-caching=100000
 https://parlimenrakyat.secureswiftcontent.com/Origin04/ngrp:RTM4/playlist.m3u8
 
 #EXTINF:-1 group-title="ASTRO MALAYSIA"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png	",149	TV9	
