@@ -1,22 +1,22 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="101" group-title="ASTRO MALAYSIA"tvg-logo="https://raw.githubusercontent.com/udin931/iptv1/main/logos2/logoss/TV1.png",101 TV1
+#EXTINF:-1 tvg-id="101" group-title="RTM"tvg-logo="https://raw.githubusercontent.com/udin931/iptv1/main/logos2/logoss/TV1.png",101 TV1
 #EXTVLCOPT:network-caching=100000	
 http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="102" group-title="ASTRO MALAYSIA"tvg-logo="https://raw.githubusercontent.com/udin931/iptv1/main/logos2/logoss/TV1.png",101 TV1 HD
+#EXTINF:-1 tvg-id="102" group-title="RTM"tvg-logo="https://raw.githubusercontent.com/udin931/iptv1/main/logos2/logoss/TV1.png",101 TV1 HD
 #EXTVLCOPT:network-caching=100000
 
 
-#EXTINF:-1 tvg-id="103" group-title="ASTRO MALAYSIA"tvg-logo="https://raw.githubusercontent.com/udin931/iptv1/main/logos2/logoss/TV2.png",102 TV2
+#EXTINF:-1 tvg-id="103" group-title="RTM"tvg-logo="https://raw.githubusercontent.com/udin931/iptv1/main/logos2/logoss/TV2.png",102 TV2
 #EXTVLCOPT:network-caching=100000	
 http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="104" group-title="ASTRO MALAYSIA"tvg-logo="https://raw.githubusercontent.com/udin931/iptv1/main/logos2/logoss/TV3.png",103 TV3	
+#EXTINF:-1 tvg-id="104" group-title="PRIMA"tvg-logo="https://raw.githubusercontent.com/udin931/iptv1/main/logos2/logoss/TV3.png",103 TV3	
 #EXTVLCOPT:network-caching=100000	
 http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="108" group-title="ASTRO MALAYSIA" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428040_ico.png",8TV
+#EXTINF:-1 tvg-id="108" group-title="PRIMA" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428040_ico.png",8TV
 #EXTVLCOPT:network-caching=100000
 http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 
@@ -123,7 +123,7 @@ http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 
 #EXTINF:-1 group-title="ASTRO CINA"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png	",321	CCM	
 #EXTVLCOPT:network-caching=100000	
-http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+
 
 	
 #EXTINF:-1 group-title="ASTRO KOR"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/161_144.png	",392	KBS WORLD HD	
@@ -139,7 +139,7 @@ http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
 
 #EXTINF:-1 group-title="ASTRO KOR"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/190_144.png	",395	TVN HD	
 #EXTVLCOPT:network-caching=100000	
-http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
+
 
 	
 #EXTINF:-1 group-title="ASTRO MOVIES"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/200_144.png	",400	FAM MOVIES (FAMILY MOVIES)	
@@ -196,7 +196,7 @@ http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
 
 #EXTINF:-1 group-title="ASTRO LEARN"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/322_144.png	",550	NAT GEO WILD HD	
 #EXTVLCOPT:network-caching=100000	
-http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+
 
 #EXTINF:-1 group-title="ASTRO LEARN"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/140_144.png	",551	NATIONAL GEOGRAPHIC HD	
 #EXTVLCOPT:network-caching=100000
@@ -256,9 +256,9 @@ http://31.220.41.88:8081/live/us-nick.stream/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="ASTRO MALAYSIA"	tvg-logo="	http://berita.rtm.gov.my/images/logobesbawah.jpg	",822	BERITA RTM	
+#EXTINF:-1 group-title="RTM"tvg-logo="http://berita.rtm.gov.my/images/logobesbawah.jpg",822 BERITA RTM	
 #EXTVLCOPT:network-caching=100000	
-https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
+
 
 
 
@@ -317,7 +317,7 @@ https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 
 #EXTINF:-1 group-title="ASTRO MOVIES" tvg-logo="https://i.imgur.com/wnlzC0w.jpg",883. Action Hollywood Movies (1080p) 
 #EXTVLCOPT:network-caching=1000000000
-https://lightning-actionhollywood-samsungaustralia.amagi.tv/playlist.m3u8
+
 
 #EXTINF:-1 group-title="ASTRO MOVIES" tvg-logo="https://i.imgur.com/Snba5W2.jpg",885. ActionMAX 
 #EXTVLCOPT:network-caching=1000000000
@@ -340,7 +340,7 @@ http://210.210.155.35/session/7ed45662-2ed8-11eb-9063-b82a72d63267/qwr9ew/s/s104
 http://45.126.83.51/session/9a1333a4-93cd-11ea-ac63-966cac0014e4/qwr9ew/s/s08/01.m3u8
 
 #EXTINF:-1 group-title="Indonesia" tvg-logo="",70.trans7
-http://210.210.155.35/qwr9ew/s/s101/01.m3u8
+
 
 #EXTINF:-1 GROUP-TITLE="ASTRO UNK" tvg-logo="",78. Blue Ant
 #EXTVLCOPT:network-caching=10000
