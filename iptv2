@@ -7,21 +7,21 @@ tv1
 #EXTVLCOPT:network-caching=100000	
 http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="102" group-title="RTM " tvg-logo="https://raw.githubusercontent.com/udin931/iptv1/main/logos2/logoss/TV1.png",TV1 HD Backup
+#EXTINF:-1 tvg-id="101" group-title="RTM " tvg-logo="https://raw.githubusercontent.com/udin931/iptv1/main/logos2/logoss/TV1.png",TV1 HD Backup
 #EXTVLCOPT:network-caching=100000
 http://50.7.161.82:8277/streams/d/TV1/playlist.m3u8
 
 tv2
-#EXTINF:-1 tvg-id="103" group-title="RTM" tvg-logo="https://raw.githubusercontent.com/udin931/iptv1/main/logos2/logoss/TV2.png",TV2
+#EXTINF:-1 tvg-id="102" group-title="RTM" tvg-logo="https://raw.githubusercontent.com/udin931/iptv1/main/logos2/logoss/TV2.png",TV2
 #EXTVLCOPT:network-caching=100000	
 http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="103" group-title="RTM" tvg-logo="https://raw.githubusercontent.com/udin931/iptv1/main/logos2/logoss/TV2.png",TV2 Backup
+#EXTINF:-1 tvg-id="102" group-title="RTM" tvg-logo="https://raw.githubusercontent.com/udin931/iptv1/main/logos2/logoss/TV2.png",TV2 Backup
 #EXTVLCOPT:network-caching=100000
 http://50.7.161.82:8277/streams/d/TV2/playlist.m3u8
 
 rtm parlimen
-#EXTINF:-1 GROUP-TITLE="RTM" tvg-logo="",RTM Parlimen (Dewan Rakyat) (1080p)
+#EXTINF:-1 tvg-id="" GROUP-TITLE="RTM" tvg-logo="",RTM Parlimen (Dewan Rakyat) (1080p)
 #EXTVLCOPT:network-caching=100000
 https://parlimenrakyat.secureswiftcontent.com/Origin04/ngrp:RTM4/playlist.m3u8
 
