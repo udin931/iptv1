@@ -2,6 +2,17 @@
 
 RTM
 
+
+#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="120" tvg-id="120" tvg-chno="120" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/120.png",GO Shop MYTV
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/GShopMY.m3u8
+
+#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="121" tvg-id="121" tvg-chno="121" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/502.png",Bernama
+https://weareblahs.github.io/yttestlabs/youtube.m3u
+
+
+
+
+
 tv1
 #EXTINF:-1 tvg-id="101" group-title="RTM"tvg-logo="https://raw.githubusercontent.com/udin931/iptv1/main/logos2/logoss/TV1.png",TV1
 #EXTVLCOPT:network-caching=100000	
@@ -26,8 +37,8 @@ rtm parlimen
 https://parlimenrakyat.secureswiftcontent.com/Origin04/ngrp:RTM4/playlist.m3u8
 
 berita rtm
-#EXTINF:-1 group-title="RTM"tvg-logo="http://berita.rtm.gov.my/images/logobesbawah.jpg",822 BERITA RTM	
-#EXTVLCOPT:network-caching=100000	
+#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="123" tvg-id="123" tvg-chno="123" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Beritartm.m3u8|Referer=https://rtmklik.rtm.gov.my	
 
 OKAY TV
 #EXTINF:-1 group-title="RTM" tvg-logo="https://raw.githubusercontent.com/udin931/iptv1/main/logos2/Astro1/", OKAY TV
@@ -426,9 +437,12 @@ TV6
 #EXTVLCOPT:network-caching=100000	
 
 TVS
-#EXTINF:-1 group-title="ASTRO SARAWAK"	tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png",122	TVS	
+#EXTINF:-1 group-title="ASTRO SARAWAK"	ch-number="122" tvg-id="122" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png",TVS	
 #EXTVLCOPT:network-caching=100000	
 https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_04.m3u8
+
+#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="122" tvg-id="122" tvg-chno="122" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/122.png",TVS
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/TVSwak.m3u8
 
 
 SPORTS
