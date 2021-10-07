@@ -1,0 +1,859 @@
+<?xml version="1.0"?>
+
+-<settings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+<filename>..\..\output\astro.xml</filename>
+
+<mode/>
+
+<postprocess run="n" grab="y">rex</postprocess>
+
+<user-agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36 Edg/79.0.309.71</user-agent>
+
+<logging>on</logging>
+
+<retry time-out="5" show-delay="0" index-delay="0" channel-delay="0">4</retry>
+
+<proxy/>
+
+<timespan>30</timespan>
+
+<update>full</update>
+
+<skip>12,0</skip>
+
+<channel xmltv_id="yupp_thirai_hd" site_id="43813005##202007/20200709/20200709194934030p1r.png" site="unifi_en.com.my" update="i"> Yupp Thirai HD</channel>
+
+<channel xmltv_id="1news" site_id="1NEWS" site="rtm.gov.my" update="i">1NEWS</channel>
+
+<channel xmltv_id="8tv" site_id="115" site="astro.com.my" update="i">8TV</channel>
+
+<channel xmltv_id="abc_australia" site_id="20000064##201907/20190716/20190716073533638c35.png" site="unifi_zh.com.my" update="i">ABC Australia</channel>
+
+<channel xmltv_id="abo_movies_thangathirai_hd" site_id="177" site="astro.com.my.E" update="i">ABO Movies Thangathirai HD</channel>
+
+<channel xmltv_id="adithya" site_id="67" site="astro.com.my.E" update="i">Adithya</channel>
+
+<channel xmltv_id="ai_fm" site_id="AI FM" site="rtm.gov.my" update="i">AI FM</channel>
+
+<channel xmltv_id="al_jazeera" site_id="412 Cat=2" site="tm.com.my.xmltv_ns" update="i">Al Jazeera</channel>
+
+<channel xmltv_id="al_jazeera_english_hd" site_id="374" site="astro.com.my.E" update="i">Al Jazeera English HD</channel>
+
+<channel xmltv_id="al_hijrah" site_id="149" site="astro.com.my.E" update="i">Al-Hijrah</channel>
+
+<channel xmltv_id="a_list" site_id="166" site="astro.com.my" update="i">A-List</channel>
+
+<channel xmltv_id="animal_planet_hd" site_id="377" site="astro.com.my.E" update="i">Animal Planet HD</channel>
+
+<channel xmltv_id="animax_hd" site_id="419" site="astro.com.my.E" update="i">Animax HD</channel>
+
+<channel xmltv_id="arabic_radio_tv_variety" site_id="42" site="astro.com.my.E" update="i">Arabic Radio & TV Variety</channel>
+
+<channel xmltv_id="asian_action_channel" site_id="205" site="astro.com.my" update="i">Asian Action Channel</channel>
+
+<channel xmltv_id="asian_food_channel" site_id="91" site="astro.com.my" update="i">Asian Food Channel</channel>
+
+<channel xmltv_id="asian_food_network_hd" site_id="91" site="astro.com.my.E" update="i">Asian Food Network HD</channel>
+
+<channel xmltv_id="astro_aec_hd" site_id="182" site="astro.com.my.E" update="i">Astro AEC HD</channel>
+
+<channel xmltv_id="astro_aod_352" site_id="87" site="astro.com.my.E" update="i">Astro AOD 352</channel>
+
+<channel xmltv_id="astro_aod_353" site_id="114" site="astro.com.my.E" update="i">Astro AOD 353</channel>
+
+<channel xmltv_id="astro_aod_354" site_id="65" site="astro.com.my.E" update="i">Astro AOD 354</channel>
+
+<channel xmltv_id="astro_aod_355" site_id="66" site="astro.com.my.E" update="i">Astro AOD 355</channel>
+
+<channel xmltv_id="astro_aod_hd_311" site_id="172" site="astro.com.my.E" update="i">Astro AOD HD 311</channel>
+
+<channel xmltv_id="astro_arena_hd" site_id="astro-arena-hd/details/235/##802_160" site="stadiumastro.com.E" update="i">Astro Arena HD</channel>
+
+<channel xmltv_id="astro_arena_hd_2" site_id="324" site="astro.com.my.E" update="i">Astro Arena HD 2</channel>
+
+<channel xmltv_id="astro_aura_hd" site_id="400" site="astro.com.my.E" update="i">Astro Aura HD</channel>
+
+<channel xmltv_id="astro_awani_hd" site_id="436" site="astro.com.my.E" update="i">Astro Awani HD</channel>
+
+<channel xmltv_id="astro_bella" site_id="77" site="astro.com.my" update="i">Astro Bella</channel>
+
+<channel xmltv_id="astro_best_467" site_id="239" site="astro.com.my" update="i">Astro Best (467)</channel>
+
+<channel xmltv_id="astro_best_hd_3_473" site_id="148" site="astro.com.my" update="i">Astro Best HD 3 (473)</channel>
+
+<channel xmltv_id="astro_best_sd_1_471" site_id="119" site="astro.com.my" update="i">Astro Best SD 1 (471)</channel>
+
+<channel xmltv_id="astro_best_sd_10_477" site_id="173" site="astro.com.my" update="i">Astro Best SD 10 (477)</channel>
+
+<channel xmltv_id="astro_best_sd_11_469" site_id="242" site="astro.com.my" update="i">Astro Best SD 11 (469)</channel>
+
+<channel xmltv_id="astro_best_sd_12_468" site_id="240" site="astro.com.my" update="i">Astro Best SD 12 (468)</channel>
+
+<channel xmltv_id="astro_best_sd_2_472" site_id="175" site="astro.com.my" update="i">Astro Best SD 2 (472)</channel>
+
+<channel xmltv_id="astro_best_sd_4_474" site_id="146" site="astro.com.my" update="i">Astro Best SD 4 (474)</channel>
+
+<channel xmltv_id="astro_best_sd_5_470" site_id="171" site="astro.com.my" update="i">Astro Best SD 5 (470)</channel>
+
+<channel xmltv_id="astro_best_sd_6_475" site_id="152" site="astro.com.my" update="i">Astro Best SD 6 (475)</channel>
+
+<channel xmltv_id="astro_best_sd_7_478" site_id="168" site="astro.com.my" update="i">Astro Best SD 7 (478)</channel>
+
+<channel xmltv_id="astro_best_sd_8_479" site_id="169" site="astro.com.my" update="i">Astro Best SD 8 (479)</channel>
+
+<channel xmltv_id="astro_best_sd_9_476" site_id="238" site="astro.com.my" update="i">Astro Best SD 9 (476)</channel>
+
+<channel xmltv_id="astro_bollyone_hd" site_id="178" site="astro.com.my" update="i">Astro BollyOne HD</channel>
+
+<channel xmltv_id="astro_box_office_movie_thangathirai" site_id="177" site="astro.com.my" update="i">Astro Box Office Movie Thangathirai</channel>
+
+<channel xmltv_id="astro_box_office_movies_tayangan_hebat" site_id="176" site="astro.com.my" update="i">Astro Box Office Movies Tayangan Hebat</channel>
+
+<channel xmltv_id="astro_ceria_hd" site_id="386" site="astro.com.my.E" update="i">Astro Ceria HD</channel>
+
+<channel xmltv_id="astro_citra_hd" site_id="301" site="astro.com.my.E" update="i">Astro Citra HD</channel>
+
+<channel xmltv_id="astro_cricket_hd" site_id="astro-cricket-hd/details/197/##824_160" site="stadiumastro.com.E" update="i">Astro Cricket HD</channel>
+
+<channel xmltv_id="astro_first_sd_1_482" site_id="120" site="astro.com.my" update="i">Astro First SD 1 (482)</channel>
+
+<channel xmltv_id="astro_first_sd_2_484" site_id="121" site="astro.com.my" update="i">Astro First SD 2 (484)</channel>
+
+<channel xmltv_id="astro_first_sd_3_485" site_id="122" site="astro.com.my" update="i">Astro First SD 3 (485)</channel>
+
+<channel xmltv_id="astro_first_sd_4_486" site_id="123" site="astro.com.my" update="i">Astro First SD 4 (486)</channel>
+
+<channel xmltv_id="astro_first_sd_5_488" site_id="124" site="astro.com.my" update="i">Astro First SD 5 (488)</channel>
+
+<channel xmltv_id="astro_first_sd_6_489" site_id="265" site="astro.com.my" update="i">Astro First SD 6 (489)</channel>
+
+<channel xmltv_id="astro_first_sd_7_490" site_id="125" site="astro.com.my" update="i">Astro First SD 7 (490)</channel>
+
+<channel xmltv_id="astro_first_sd_8_491" site_id="126" site="astro.com.my" update="i">Astro First SD 8 (491)</channel>
+
+<channel xmltv_id="astro_first_sd_9_492" site_id="147" site="astro.com.my" update="i">Astro First SD 9 (492)</channel>
+
+<channel xmltv_id="astro_go_shop" site_id="202" site="astro.com.my" update="i">Astro Go Shop</channel>
+
+<channel xmltv_id="astro_hua_hee_dai_hd" site_id="162" site="astro.com.my.E" update="i">Astro Hua Hee Dai HD</channel>
+
+<channel xmltv_id="astro_oasis_hd" site_id="315" site="astro.com.my.E" update="i">Astro Oasis HD</channel>
+
+<channel xmltv_id="astro_on_demand_351" site_id="113" site="astro.com.my" update="i">Astro On Demand 351</channel>
+
+<channel xmltv_id="astro_on_demand_352" site_id="87" site="astro.com.my" update="i">Astro On Demand 352</channel>
+
+<channel xmltv_id="astro_on_demand_353" site_id="114" site="astro.com.my" update="i">Astro On Demand 353</channel>
+
+<channel xmltv_id="astro_on_demand_361" site_id="64" site="astro.com.my" update="i">Astro On Demand 361</channel>
+
+<channel xmltv_id="astro_on_demand_362" site_id="65" site="astro.com.my" update="i">Astro On Demand 362</channel>
+
+<channel xmltv_id="astro_on_demand_363" site_id="66" site="astro.com.my" update="i">Astro On Demand 363</channel>
+
+<channel xmltv_id="astro_on_demand_hd" site_id="172" site="astro.com.my" update="i">Astro On Demand HD</channel>
+
+<channel xmltv_id="astro_ppv_movies_hd_495" site_id="142" site="astro.com.my" update="i">Astro PPV Movies HD (495)</channel>
+
+<channel xmltv_id="astro_ppv_movies_hd_496" site_id="174" site="astro.com.my" update="i">Astro PPV Movies HD (496)</channel>
+
+<channel xmltv_id="astro_ppv_movies_hd_497" site_id="150" site="astro.com.my" update="i">Astro PPV Movies HD (497)</channel>
+
+<channel xmltv_id="astro_ppv_movies_hd_498" site_id="269" site="astro.com.my" update="i">Astro PPV Movies HD (498)</channel>
+
+<channel xmltv_id="astro_prima_hd" site_id="316" site="astro.com.my.E" update="i">Astro Prima HD</channel>
+
+<channel xmltv_id="astro_quan_jia_hd" site_id="158" site="astro.com.my.E" update="i">Astro Quan Jia HD</channel>
+
+<channel xmltv_id="astro_rania_hd" site_id="401" site="astro.com.my.E" update="i">Astro Rania HD</channel>
+
+<channel xmltv_id="astro_ria_hd" site_id="193" site="astro.com.my.E" update="i">Astro Ria HD</channel>
+
+<channel xmltv_id="astro_shuang_xing" site_id="96" site="astro.com.my" update="i">Astro Shuang Xing</channel>
+
+<channel xmltv_id="astro_shuang_xing_hd" site_id="183" site="astro.com.my.E" update="i">Astro Shuang Xing HD</channel>
+
+<channel xmltv_id="astro_supersport" site_id="astro-supersport/details/71/##831_160" site="stadiumastro.com.E" update="i">Astro SuperSport</channel>
+
+<channel xmltv_id="astro_supersport_2_hd" site_id="astro-supersport-2-hd/details/138/##812_160" site="stadiumastro.com.E" update="i">Astro SuperSport 2 HD</channel>
+
+<channel xmltv_id="astro_supersport_3_hd" site_id="astro-supersport-3-hd/details/164/##813_160" site="stadiumastro.com.E" update="i">Astro SuperSport 3 HD</channel>
+
+<channel xmltv_id="astro_supersport_4_hd" site_id="astro-supersport-4-hd/details/241/##814_160" site="stadiumastro.com.E" update="i">Astro SuperSport 4 HD</channel>
+
+<channel xmltv_id="astro_supersport_hd" site_id="##Cat=4##ID=708" site="tm.com.my" update="i">Astro SuperSport HD</channel>
+
+<channel xmltv_id="astro_supersport_uhd" site_id="440" site="astro.com.my.E" update="i">Astro SuperSport UHD</channel>
+
+<channel xmltv_id="astro_supersport2_hd" site_id="##Cat=4##ID=709" site="tm.com.my" update="i">Astro SuperSport2 HD</channel>
+
+<channel xmltv_id="astro_tutor_tv_pt3" site_id="127" site="astro.com.my.E" update="i">Astro Tutor TV PT3</channel>
+
+<channel xmltv_id="astro_tutor_tv_sk" site_id="59" site="astro.com.my.E" update="i">Astro Tutor TV SK</channel>
+
+<channel xmltv_id="astro_tutor_tv_spm" site_id="128" site="astro.com.my.E" update="i">Astro Tutor TV SPM</channel>
+
+<channel xmltv_id="astro_tutor_tv_upsr" site_id="59" site="astro.com.my" update="i">Astro Tutor TV UPSR</channel>
+
+<channel xmltv_id="astro_tviq_hd" site_id="118" site="astro.com.my.E" update="i">Astro TVIQ HD</channel>
+
+<channel xmltv_id="astro_uhd" site_id="308" site="astro.com.my.E" update="i">Astro UHD</channel>
+
+<channel xmltv_id="astro_vaanavil_hd" site_id="397" site="astro.com.my.E" update="i">Astro Vaanavil HD</channel>
+
+<channel xmltv_id="astro_vellithirai" site_id="61" site="astro.com.my.E" update="i">Astro Vellithirai</channel>
+
+<channel xmltv_id="astro_vinmeen_hd" site_id="167" site="astro.com.my.E" update="i">Astro Vinmeen HD</channel>
+
+<channel xmltv_id="astro_wah_lai_toi_hd" site_id="129" site="astro.com.my" update="i">Astro Wah Lai Toi HD</channel>
+
+<channel xmltv_id="astro_warna_hd" site_id="272" site="astro.com.my.E" update="i">Astro Warna HD</channel>
+
+<channel xmltv_id="astro_xi_yue_hd" site_id="188" site="astro.com.my" update="i">Astro Xi Yue HD</channel>
+
+<channel xmltv_id="astro_xiao_tai_yang_hd" site_id="387" site="astro.com.my.E" update="i">Astro Xiao Tai Yang HD</channel>
+
+<channel xmltv_id="asyik_fm" site_id="ASYIK FM" site="rtm.gov.my" update="i">ASYIK FM</channel>
+
+<channel xmltv_id="awesome_tv" site_id="433" site="astro.com.my.E" update="i">Awesome TV</channel>
+
+<channel xmltv_id="axn_hd" site_id="131" site="astro.com.my.E" update="i">AXN HD</channel>
+
+<channel xmltv_id="babyfirst_tv" site_id="551 Cat=7" site="tm.com.my.xmltv_ns" update="i">BabyFirst TV</channel>
+
+<channel xmltv_id="babytv" site_id="94" site="astro.com.my" update="i">BabyTV</channel>
+
+<channel xmltv_id="bayu_fm" site_id="31" site="astro.com.my" update="i">Bayu FM</channel>
+
+<channel xmltv_id="bbc_earth_hd" site_id="20000092##201907/20190716/2019071606454895082c.png" site="unifi_zh.com.my" update="i">BBC Earth HD</channel>
+
+<channel xmltv_id="bbc_entertainment" site_id="614 Cat=3" site="tm.com.my.xmltv_ns" update="i">BBC Entertainment</channel>
+
+<channel xmltv_id="bbc_knowledge" site_id="501 Cat=6" site="tm.com.my.xmltv_ns" update="i">BBC Knowledge</channel>
+
+<channel xmltv_id="bbc_lifestyle" site_id="620 Cat=4" site="tm.com.my.xmltv_ns" update="i">BBC Lifestyle</channel>
+
+<channel xmltv_id="bbc_lifestyle_hd" site_id="20000040##201907/20190716/20190716064944437peu.png" site="unifi_zh.com.my" update="i">BBC Lifestyle HD</channel>
+
+<channel xmltv_id="bbc_world" site_id="39" site="astro.com.my" update="i">BBC World</channel>
+
+<channel xmltv_id="bbc_world_news_hd" site_id="20000074##201910/20191017/20191017092229933nmy.png" site="unifi_zh.com.my" update="i">BBC World News HD</channel>
+
+<channel xmltv_id="bein_sports" site_id="bein-sports/details/236/##818_160" site="stadiumastro.com.E" update="i">beIN Sports</channel>
+
+<channel xmltv_id="bein_sports_hd" site_id="236" site="astro.com.my.E" update="i">beIN Sports HD</channel>
+
+<channel xmltv_id="bein_sports_max_hd" site_id="313" site="astro.com.my.E" update="i">beIN Sports MAX HD</channel>
+
+<channel xmltv_id="bernama" site_id="160" site="astro.com.my.E" update="i">BERNAMA</channel>
+
+<channel xmltv_id="bernama_tv" site_id="410 Cat=2" site="tm.com.my.xmltv_ns" update="i">Bernama TV</channel>
+
+<channel xmltv_id="bindass_play" site_id="##Cat=5##ID=301" site="tm.com.my" update="i">Bindass Play</channel>
+
+<channel xmltv_id="bintang" site_id="88" site="astro.com.my" update="i">Bintang</channel>
+
+<channel xmltv_id="bloomberg_television" site_id="78" site="astro.com.my" update="i">Bloomberg Television</channel>
+
+<channel xmltv_id="bloomberg_tv" site_id="##Cat=2##ID=421" site="tm.com.my" update="i">Bloomberg TV</channel>
+
+<channel xmltv_id="bloomberg_tv_hd" site_id="422" site="astro.com.my.E" update="i">Bloomberg TV HD</channel>
+
+<channel xmltv_id="blue_ant_entertainment" site_id="20000029##201907/20190716/201907160638240897f5.png" site="unifi_zh.com.my" update="i">Blue Ant Entertainment</channel>
+
+<channel xmltv_id="blue_ant_extreme" site_id="20000081##201907/20190716/20190716073944056u4a.png" site="unifi_zh.com.my" update="i">Blue Ant Extreme</channel>
+
+<channel xmltv_id="bollyone_hd" site_id="178" site="astro.com.my.E" update="i">BollyOne HD</channel>
+
+<channel xmltv_id="boo" site_id="251" site="astro.com.my" update="i">Boo</channel>
+
+<channel xmltv_id="boo_hd" site_id="251" site="astro.com.my.E" update="i">BOO HD</channel>
+
+<channel xmltv_id="boomerang_hd" site_id="20000030##201907/20190716/20190716070341348vur.png" site="unifi_zh.com.my" update="i">Boomerang HD</channel>
+
+<channel xmltv_id="cartoon_network_hd" site_id="371" site="astro.com.my.E" update="i">Cartoon Network HD</channel>
+
+<channel xmltv_id="cbeebies_hd" site_id="20000006##201907/20190716/20190716071141326xhe.png" site="unifi_zh.com.my" update="i">CBeebies HD</channel>
+
+<channel xmltv_id="ccm" site_id="187" site="astro.com.my.E" update="i">CCM</channel>
+
+<channel xmltv_id="cctv4_hd" site_id="385" site="astro.com.my.E" update="i">CCTV4 HD</channel>
+
+<channel xmltv_id="celestial_classic_movies" site_id="187" site="astro.com.my" update="i">Celestial Classic Movies</channel>
+
+<channel xmltv_id="celestial_movies" site_id="109" site="astro.com.my" update="i">Celestial Movies</channel>
+
+<channel xmltv_id="celestial_movies_hd" site_id="134" site="astro.com.my.E" update="i">Celestial Movies HD</channel>
+
+<channel xmltv_id="cgtn_hd" site_id="426" site="astro.com.my.E" update="i">CGTN HD</channel>
+
+<channel xmltv_id="channel_[v]_taiwan" site_id="207 Cat=5" site="tm.com.my.xmltv_ns" update="i">Channel [V] Taiwan</channel>
+
+<channel xmltv_id="channel_newsasia" site_id="20000016##201907/20190708/201907080719495046uu.png" site="unifi_zh.com.my" update="i">Channel NewsAsia</channel>
+
+<channel xmltv_id="channel_v_hd" site_id="##Cat=4##ID=604" site="tm.com.my" update="i">Channel V HD</channel>
+
+<channel xmltv_id="chutti_tv" site_id="51" site="astro.com.my.E" update="i">Chutti TV</channel>
+
+<channel xmltv_id="cinema_world" site_id="##Cat=3##ID=650" site="tm.com.my" update="i">Cinema World</channel>
+
+<channel xmltv_id="cinemaworld_hd" site_id="20000080##201907/20190716/20190716065916134bcf.png" site="unifi_zh.com.my" update="i">CinemaWorld HD</channel>
+
+<channel xmltv_id="cinemax_hd" site_id="337" site="astro.com.my.E" update="i">CINEMAX HD</channel>
+
+<channel xmltv_id="classic_movies" site_id="204" site="astro.com.my" update="i">Classic Movies</channel>
+
+<channel xmltv_id="classic_rock" site_id="20" site="astro.com.my" update="i">Classic Rock</channel>
+
+<channel xmltv_id="cna_hd" site_id="295" site="astro.com.my.E" update="i">CNA HD</channel>
+
+<channel xmltv_id="cnbc_asia" site_id="41" site="astro.com.my" update="i">CNBC Asia</channel>
+
+<channel xmltv_id="cnbc_asia_hd" site_id="423" site="astro.com.my.E" update="i">CNBC Asia HD</channel>
+
+<channel xmltv_id="cnn" site_id="68" site="astro.com.my" update="i">CNN</channel>
+
+<channel xmltv_id="cnn_hd" site_id="336" site="astro.com.my.E" update="i">CNN HD</channel>
+
+<channel xmltv_id="colors" site_id="20000053##201907/20190716/20190716072453864m2m.png" site="unifi_zh.com.my" update="i">Colors</channel>
+
+<channel xmltv_id="colors_cineplex" site_id="20000038##201907/20190716/2019071607255101998u.png" site="unifi_zh.com.my" update="i">Colors Cineplex</channel>
+
+<channel xmltv_id="colors_hindi_hd" site_id="365" site="astro.com.my.E" update="i">Colors Hindi HD</channel>
+
+<channel xmltv_id="colors_tamil_hd" site_id="20000113##201907/20190716/201907160723588691kg.png" site="unifi_zh.com.my" update="i">Colors Tamil HD</channel>
+
+<channel xmltv_id="comedy_central_hd" site_id="20000085##201907/20190716/20190716065611349aq3.png" site="unifi_zh.com.my" update="i">Comedy Central HD</channel>
+
+<channel xmltv_id="crime_investigation_hd" site_id="369" site="astro.com.my.E" update="i">Crime & Investigation HD</channel>
+
+<channel xmltv_id="crime_and_investigation_network" site_id="105" site="astro.com.my" update="i">Crime and Investigation Network</channel>
+
+<channel xmltv_id="cti_asia" site_id="108" site="astro.com.my" update="i">CTI Asia</channel>
+
+<channel xmltv_id="cti_asia_hd" site_id="424" site="astro.com.my.E" update="i">CTI Asia HD</channel>
+
+<channel xmltv_id="dewan_rakyat" site_id="528##LogoMedium-DewanRakyat.jpg" site="rtmklik.rtm.gov.my" update="i">DEWAN RAKYAT</channel>
+
+<channel xmltv_id="discovery_asia" site_id="136" site="astro.com.my" update="i">Discovery Asia</channel>
+
+<channel xmltv_id="discovery_asia_hd" site_id="136" site="astro.com.my.E" update="i">Discovery Asia HD</channel>
+
+<channel xmltv_id="discovery_channel" site_id="54" site="astro.com.my" update="i">Discovery Channel</channel>
+
+<channel xmltv_id="discovery_channel_hd" site_id="376" site="astro.com.my.E" update="i">Discovery Channel HD</channel>
+
+<channel xmltv_id="discovery_kids" site_id="561 Cat=7" site="tm.com.my.xmltv_ns" update="i">Discovery Kids</channel>
+
+<channel xmltv_id="discovery_science" site_id="37" site="astro.com.my" update="i">Discovery Science</channel>
+
+<channel xmltv_id="discovery_science_hd" site_id="375" site="astro.com.my.E" update="i">Discovery Science HD</channel>
+
+<channel xmltv_id="disney_channel" site_id="7" site="astro.com.my" update="i">Disney Channel</channel>
+
+<channel xmltv_id="disney_junior" site_id="45" site="astro.com.my" update="i">Disney Junior</channel>
+
+<channel xmltv_id="disney_xd" site_id="79" site="astro.com.my" update="i">Disney XD</channel>
+
+<channel xmltv_id="disney_xd_hd" site_id="139" site="astro.com.my" update="i">Disney XD HD</channel>
+
+<channel xmltv_id="diva" site_id="76" site="astro.com.my" update="i">Diva</channel>
+
+<channel xmltv_id="diva_hd" site_id="181" site="astro.com.my" update="i">Diva HD</channel>
+
+<channel xmltv_id="dmax" site_id="102" site="astro.com.my" update="i">DMAX</channel>
+
+<channel xmltv_id="dmax_hd" site_id="367" site="astro.com.my.E" update="i">DMAX HD</channel>
+
+<channel xmltv_id="dreamworks_hd" site_id="20000103##202011/20201125/202011250800095510sa.png" site="unifi_zh.com.my" update="i">Dreamworks HD</channel>
+
+<channel xmltv_id="dunia_sinema_hd" site_id="20000046##201907/20190716/20190716074123890vav.png" site="unifi_zh.com.my" update="i">Dunia Sinema HD</channel>
+
+<channel xmltv_id="dw_english" site_id="287" site="astro.com.my.E" update="i">DW English</channel>
+
+<channel xmltv_id="e_entertainment" site_id="83" site="astro.com.my" update="i">E! Entertainment</channel>
+
+<channel xmltv_id="ec_inspirasi" site_id="111 Cat=5" site="tm.com.my.xmltv_ns" update="i">EC Inspirasi</channel>
+
+<channel xmltv_id="egg" site_id="egg/details/206/##800_160" site="stadiumastro.com.E" update="i">eGG</channel>
+
+<channel xmltv_id="egg_network_hd" site_id="206" site="astro.com.my.E" update="i">eGG Network HD</channel>
+
+<channel xmltv_id="emas" site_id="112 Cat=5" site="tm.com.my.xmltv_ns" update="i">EMAS</channel>
+
+<channel xmltv_id="era" site_id="14" site="astro.com.my" update="i">ERA</channel>
+
+<channel xmltv_id="era_fm" site_id="14" site="astro.com.my.E" update="i">ERA FM</channel>
+
+<channel xmltv_id="euronews" site_id="20000083##201907/20190716/20190716073656571ojy.png" site="unifi_zh.com.my" update="i">Euronews</channel>
+
+<channel xmltv_id="eurosport" site_id="eurosport/details/38/##840_160" site="stadiumastro.com.E" update="i">Eurosport</channel>
+
+<channel xmltv_id="eurosport_hd" site_id="339" site="astro.com.my.E" update="i">Eurosport HD</channel>
+
+<channel xmltv_id="eve" site_id="100" site="astro.com.my" update="i">Eve</channel>
+
+<channel xmltv_id="every_good_game" site_id="206" site="astro.com.my" update="i">Every Good Game</channel>
+
+<channel xmltv_id="fam_movies" site_id="200" site="astro.com.my.E" update="i">FAM Movies</channel>
+
+<channel xmltv_id="fashion_tv_hd" site_id="623 Cat=4" site="tm.com.my.xmltv_ns" update="i">Fashion TV HD</channel>
+
+<channel xmltv_id="food_network_hd" site_id="153" site="astro.com.my.E" update="i">Food Network HD</channel>
+
+<channel xmltv_id="fox" site_id="20000112##201907/20190716/20190716073643920hhv.png" site="unifi_zh.com.my" update="i">FOX</channel>
+
+<channel xmltv_id="fox_action_movies_hd" site_id="184" site="astro.com.my.E" update="i">FOX Action Movies HD</channel>
+
+<channel xmltv_id="fox_crime_hd" site_id="610 Cat=3" site="tm.com.my.xmltv_ns" update="i">FOX Crime HD</channel>
+
+<channel xmltv_id="fox_family_movies_hd" site_id="170" site="astro.com.my.E" update="i">FOX Family Movies HD</channel>
+
+<channel xmltv_id="fox_football" site_id="707 Cat=4" site="tm.com.my.xmltv_ns" update="i">FOX Football</channel>
+
+<channel xmltv_id="fox_hd" site_id="180" site="astro.com.my.E" update="i">FOX HD</channel>
+
+<channel xmltv_id="fox_life" site_id="20000115##201907/20190716/20190716073811029jld.png" site="unifi_zh.com.my" update="i">FOX Life</channel>
+
+<channel xmltv_id="fox_movies_hd" site_id="151" site="astro.com.my.E" update="i">FOX Movies HD</channel>
+
+<channel xmltv_id="fox_movies_premium" site_id="11" site="astro.com.my" update="i">FOX Movies Premium</channel>
+
+<channel xmltv_id="fox_movies_premium_hd" site_id="151" site="astro.com.my" update="i">FOX Movies Premium HD</channel>
+
+<channel xmltv_id="fox_sports" site_id="fox-sports/details/74/##835_160" site="stadiumastro.com.E" update="i">FOX Sports</channel>
+
+<channel xmltv_id="fox_sports_2" site_id="fox-sports-2/details/72/##836_160" site="stadiumastro.com.E" update="i">FOX Sports 2</channel>
+
+<channel xmltv_id="fox_sports_2_hd" site_id="20000109##201907/20190716/20190716071931352bjn.png" site="unifi_zh.com.my" update="i">FOX Sports 2 HD</channel>
+
+<channel xmltv_id="fox_sports_3" site_id="fox-sports-3/details/58/##837_160" site="stadiumastro.com.E" update="i">FOX Sports 3</channel>
+
+<channel xmltv_id="fox_sports_3_hd" site_id="20000068##201907/20190716/20190716072024251ul7.png" site="unifi_zh.com.my" update="i">FOX Sports 3 HD</channel>
+
+<channel xmltv_id="fox_sports_hd" site_id="20000076##201907/20190716/20190716071809155j4i.png" site="unifi_zh.com.my" update="i">FOX Sports HD</channel>
+
+<channel xmltv_id="foxlife_hd" site_id="137" site="astro.com.my.E" update="i">FOXlife HD</channel>
+
+<channel xmltv_id="france24" site_id="289" site="astro.com.my.E" update="i">France24</channel>
+
+<channel xmltv_id="fx" site_id="20000045##201907/20190716/20190716073911037n9t.png" site="unifi_zh.com.my" update="i">FX</channel>
+
+<channel xmltv_id="fx_hd" site_id="132" site="astro.com.my.E" update="i">FX HD</channel>
+
+<channel xmltv_id="fyi" site_id="185" site="astro.com.my" update="i">FYI</channel>
+
+<channel xmltv_id="go_asean" site_id="211" site="astro.com.my" update="i">Go Asean</channel>
+
+<channel xmltv_id="go_shop_111" site_id="403" site="astro.com.my.E" update="i">Go Shop 111</channel>
+
+<channel xmltv_id="go_shop_118" site_id="192" site="astro.com.my.E" update="i">Go Shop 118</channel>
+
+<channel xmltv_id="go_shop_303" site_id="202" site="astro.com.my.E" update="i">Go Shop 303</channel>
+
+<channel xmltv_id="go_shop_gaaya" site_id="294" site="astro.com.my.E" update="i">Go Shop GAAYA</channel>
+
+<channel xmltv_id="go_xuan" site_id="293" site="astro.com.my.E" update="i">GO XUAN</channel>
+
+<channel xmltv_id="gold" site_id="21" site="astro.com.my.E" update="i">GOLD</channel>
+
+<channel xmltv_id="golf_channel_hd" site_id="golf-channel-hd/details/189/##822_160" site="stadiumastro.com.E" update="i">Golf Channel HD</channel>
+
+<channel xmltv_id="hao_xiang_shopping_tv" site_id="##Cat=3##ID=122" site="tm.com.my" update="i">Hao Xiang Shopping TV</channel>
+
+<channel xmltv_id="hbo" site_id="1" site="astro.com.my" update="i">HBO</channel>
+
+<channel xmltv_id="hbo_hd" site_id="143" site="astro.com.my.E" update="i">HBO HD</channel>
+
+<channel xmltv_id="hello_hd" site_id="296" site="astro.com.my.E" update="i">Hello HD</channel>
+
+<channel xmltv_id="hgtv" site_id="198" site="astro.com.my" update="i">HGTV</channel>
+
+<channel xmltv_id="hgtv_hd" site_id="198" site="astro.com.my.E" update="i">HGTV HD</channel>
+
+<channel xmltv_id="hikmah" site_id="113 Cat=5" site="tm.com.my.xmltv_ns" update="i">Hikmah</channel>
+
+<channel xmltv_id="history" site_id="112" site="astro.com.my" update="i">History</channel>
+
+<channel xmltv_id="history_hd" site_id="144" site="astro.com.my.E" update="i">History HD</channel>
+
+<channel xmltv_id="hits" site_id="179" site="astro.com.my" update="i">HITS</channel>
+
+<channel xmltv_id="hits_hd" site_id="179" site="astro.com.my.E" update="i">HITS HD</channel>
+
+<channel xmltv_id="hits_movies_hd" site_id="391" site="astro.com.my.E" update="i">HITS Movies HD</channel>
+
+<channel xmltv_id="hitz_fm" site_id="17" site="astro.com.my.E" update="i">HITZ FM</channel>
+
+<channel xmltv_id="hitzfm" site_id="17" site="astro.com.my" update="i">hitz.fm</channel>
+
+<channel xmltv_id="hyppinspirasi_hd" site_id="20000003##201907/20190716/20190716071701239brh.png" site="unifi_en.com.my" update="i">HyppInspirasi HD</channel>
+
+<channel xmltv_id="hyppsensasi" site_id="##Cat=5##ID=116" site="tm.com.my" update="i">HyppSensasi</channel>
+
+<channel xmltv_id="hyppsensasi_hd" site_id="20000089##201907/20190716/201907160646463946q7.png" site="unifi_zh.com.my" update="i">HyppSensasi HD</channel>
+
+<channel xmltv_id="hyppsports_hd" site_id="701 Cat=4" site="tm.com.my.xmltv_ns" update="i">HyppSports HD</channel>
+
+<channel xmltv_id="hyppsports2_hd" site_id="##Cat=4##ID=702" site="tm.com.my" update="i">HyppSports2 HD </channel>
+
+<channel xmltv_id="hyppsports3_hd" site_id="##Cat=4##ID=703" site="tm.com.my" update="i">HyppSports3 HD </channel>
+
+<channel xmltv_id="hyppsports4_hd" site_id="##Cat=4##ID=704" site="tm.com.my" update="i">HyppSports4 HD </channel>
+
+<channel xmltv_id="iconcerts_hd" site_id="603 Cat=4" site="tm.com.my.xmltv_ns" update="i">iConcerts HD</channel>
+
+<channel xmltv_id="india_beat" site_id="23" site="astro.com.my.E" update="i">INDIA BEAT</channel>
+
+<channel xmltv_id="iqiyi_hd" site_id="355" site="astro.com.my.E" update="i">iQIYI HD</channel>
+
+<channel xmltv_id="iview" site_id="104" site="astro.com.my" update="i">iView</channel>
+
+<channel xmltv_id="jaya_max" site_id="20000056##201907/20190716/20190716070131156wkh.png" site="unifi_zh.com.my" update="i">Jaya Max</channel>
+
+<channel xmltv_id="jaya_tv" site_id="116" site="astro.com.my" update="i">Jaya TV</channel>
+
+<channel xmltv_id="jazz" site_id="24" site="astro.com.my.E" update="i">JAZZ</channel>
+
+<channel xmltv_id="kah_lai_toi" site_id="85" site="astro.com.my" update="i">Kah Lai Toi</channel>
+
+<channel xmltv_id="kalaignar_tv" site_id="99" site="astro.com.my" update="i">Kalaignar TV</channel>
+
+<channel xmltv_id="kbs_world" site_id="46" site="astro.com.my" update="i">KBS World</channel>
+
+<channel xmltv_id="kbs_world_hd" site_id="161" site="astro.com.my.E" update="i">KBS World HD</channel>
+
+<channel xmltv_id="kenyalang" site_id="32" site="astro.com.my.E" update="i">KENYALANG</channel>
+
+<channel xmltv_id="kids_co" site_id="560 Cat=7" site="tm.com.my.xmltv_ns" update="i">Kids Co</channel>
+
+<channel xmltv_id="kix_hd" site_id="157" site="astro.com.my.E" update="i">KIX HD</channel>
+
+<channel xmltv_id="kl_fm" site_id="KL FM" site="rtm.gov.my" update="i">KL FM</channel>
+
+<channel xmltv_id="k_plus_hd" site_id="266" site="astro.com.my.E" update="i">K-Plus HD</channel>
+
+<channel xmltv_id="laku_mall" site_id="20000105##201907/20190716/2019071607335626707k.png" site="unifi_zh.com.my" update="i">LAKU mall </channel>
+
+<channel xmltv_id="life_inspired_hd" site_id="130" site="astro.com.my" update="i">Life Inspired HD</channel>
+
+<channel xmltv_id="lifetime_channel" site_id="8" site="astro.com.my" update="i">Lifetime Channel</channel>
+
+<channel xmltv_id="lite_fm" site_id="19" site="astro.com.my.E" update="i">LITE FM</channel>
+
+<channel xmltv_id="love_nature_hd" site_id="40413728##202001/20200114/20200114070600169ao8.jpg" site="unifi_zh.com.my" update="i">Love Nature HD</channel>
+
+<channel xmltv_id="luxetv_hd" site_id="622 Cat=4" site="tm.com.my.xmltv_ns" update="i">LUXE.TV HD</channel>
+
+<channel xmltv_id="m_hd" site_id="601 Cat=5" site="tm.com.my.xmltv_ns" update="i">M HD</channel>
+
+<channel xmltv_id="makkal_tv" site_id="##Cat=5##ID=304" site="tm.com.my" update="i">Makkal TV</channel>
+
+<channel xmltv_id="maya_hd" site_id="165" site="astro.com.my" update="i">Maya HD</channel>
+
+<channel xmltv_id="melody_fm" site_id="28" site="astro.com.my.E" update="i">MELODY FM</channel>
+
+<channel xmltv_id="minnal_fm" site_id="MINNAL FM" site="rtm.gov.my" update="i">MINNAL FM</channel>
+
+<channel xmltv_id="mix_fm" site_id="18" site="astro.com.my.E" update="i">MIX FM</channel>
+
+<channel xmltv_id="mnc_international" site_id="115 Cat=5" site="tm.com.my.xmltv_ns" update="i">MNC International</channel>
+
+<channel xmltv_id="motorvision_hd" site_id="##Cat=4##ID=712" site="tm.com.my" update="i">Motorvision HD</channel>
+
+<channel xmltv_id="mtv_asia" site_id="20000061##201907/20190716/2019071607170970968i.png" site="unifi_zh.com.my" update="i">MTV Asia</channel>
+
+<channel xmltv_id="mtv_asia_hd" site_id="420" site="astro.com.my.E" update="i">MTV Asia HD</channel>
+
+<channel xmltv_id="mtv_live_hd" site_id="602 Cat=4" site="tm.com.my.xmltv_ns" update="i">MTV Live HD</channel>
+
+<channel xmltv_id="mustika_hd" site_id="156" site="astro.com.my" update="i">Mustika HD</channel>
+
+<channel xmltv_id="mutv" site_id="705 Cat=4" site="tm.com.my.xmltv_ns" update="i">MUTV</channel>
+
+<channel xmltv_id="mutv_hd" site_id="##Cat=4##ID=705" site="tm.com.my" update="i">MUTV HD</channel>
+
+<channel xmltv_id="muzik_aktif" site_id="MUZIK AKTIF" site="rtm.gov.my" update="i">MUZIK AKTIF</channel>
+
+<channel xmltv_id="muzik_fm" site_id="MUZIK FM" site="rtm.gov.my" update="i">MUZIK FM</channel>
+
+<channel xmltv_id="my_fm" site_id="15" site="astro.com.my.E" update="i">MY FM</channel>
+
+<channel xmltv_id="nas_fm" site_id="25" site="astro.com.my.E" update="i">NAS FM</channel>
+
+<channel xmltv_id="nasional_fm" site_id="NASIONAL FM" site="rtm.gov.my" update="i">NASIONAL FM</channel>
+
+<channel xmltv_id="nat_geo_adventure" site_id="503 Cat=6" site="tm.com.my.xmltv_ns" update="i">Nat Geo Adventure</channel>
+
+<channel xmltv_id="nat_geo_music" site_id="604 Cat=4" site="tm.com.my.xmltv_ns" update="i">Nat Geo Music</channel>
+
+<channel xmltv_id="nat_geo_people_hd" site_id="199" site="astro.com.my" update="i">Nat Geo People HD</channel>
+
+<channel xmltv_id="nat_geo_wild" site_id="20000049##202009/20200907/20200907034018802dtj.PNG" site="unifi_en.com.my" update="i">Nat Geo Wild</channel>
+
+<channel xmltv_id="nat_geo_wild_hd" site_id="322" site="astro.com.my.E" update="i">Nat Geo Wild HD</channel>
+
+<channel xmltv_id="national_geographic_channel" site_id="12" site="astro.com.my" update="i">National Geographic Channel</channel>
+
+<channel xmltv_id="national_geographic_hd" site_id="140" site="astro.com.my.E" update="i">National Geographic HD</channel>
+
+<channel xmltv_id="national_geographic_wild" site_id="63" site="astro.com.my" update="i">National Geographic Wild</channel>
+
+<channel xmltv_id="naura_hd" site_id="299" site="astro.com.my.E" update="i">Naura HD</channel>
+
+<channel xmltv_id="nhk_world" site_id="111" site="astro.com.my" update="i">NHK World</channel>
+
+<channel xmltv_id="nhk_world_hd" site_id="428" site="astro.com.my.E" update="i">NHK World HD</channel>
+
+<channel xmltv_id="nhk_world_tv_hd" site_id="##Cat=4##ID=414" site="tm.com.my" update="i">NHK World TV HD</channel>
+
+<channel xmltv_id="nhk_world_japan" site_id="20000066##201907/20190716/201907160704507932rh.png" site="unifi_zh.com.my" update="i">NHK WORLD-JAPAN</channel>
+
+<channel xmltv_id="nick_jr" site_id="20000004##201907/20190708/201907080716212262b1.png" site="unifi_zh.com.my" update="i">Nick Jr.</channel>
+
+<channel xmltv_id="nickelodeon" site_id="20000044##201907/20190716/20190716073133989duz.png" site="unifi_zh.com.my" update="i">Nickelodeon</channel>
+
+<channel xmltv_id="nickelodeon_hd" site_id="370" site="astro.com.my.E" update="i">Nickelodeon HD</channel>
+
+<channel xmltv_id="nickelodeon_junior" site_id="392" site="astro.com.my.E" update="i">Nickelodeon Junior</channel>
+
+<channel xmltv_id="njoi_tv" site_id="302" site="astro.com.my.E" update="i">NJOI TV</channel>
+
+<channel xmltv_id="now_baogu_movies" site_id="##Cat=5##ID=225" site="tm.com.my" update="i">now Baogu Movies</channel>
+
+<channel xmltv_id="now_hairun" site_id="221 Cat=5" site="tm.com.my.xmltv_ns" update="i">now Hairun</channel>
+
+<channel xmltv_id="now_international_hd" site_id="201 Cat=5" site="tm.com.my.xmltv_ns" update="i">now International HD</channel>
+
+<channel xmltv_id="now_jelli" site_id="##Cat=5##ID=205" site="tm.com.my" update="i">now Jelli</channel>
+
+<channel xmltv_id="now_jelli_hd" site_id="20000055##201907/20190716/201907160641140646da.png" site="unifi_zh.com.my" update="i">Now Jelli HD</channel>
+
+<channel xmltv_id="now_mango" site_id="205 Cat=5" site="tm.com.my.xmltv_ns" update="i">now Mango</channel>
+
+<channel xmltv_id="ntv7" site_id="20000031##201907/20190716/20190716073016510hja.png" site="unifi_zh.com.my" update="i">NTV7</channel>
+
+<channel xmltv_id="ohk_hd" site_id="191" site="astro.com.my.E" update="i">Oh!K HD</channel>
+
+<channel xmltv_id="one_hd" site_id="133" site="astro.com.my.E" update="i">ONE HD</channel>
+
+<channel xmltv_id="opus" site_id="16" site="astro.com.my.E" update="i">OPUS</channel>
+
+<channel xmltv_id="osai" site_id="27" site="astro.com.my.E" update="i">OSAI</channel>
+
+<channel xmltv_id="osai_fm" site_id="27" site="astro.com.my" update="i">Osai FM</channel>
+
+<channel xmltv_id="outdooor_channel_hd" site_id="##Cat=4##ID=711" site="tm.com.my" update="i">Outdooor Channel HD </channel>
+
+<channel xmltv_id="paramount_hd" site_id="20000019##201907/20190716/20190716073013805j0k.png" site="unifi_zh.com.my" update="i">Paramount HD</channel>
+
+<channel xmltv_id="parlimen_malaysia" site_id="20000116##201907/20190716/20190716073249333u7e.png" site="unifi_zh.com.my" update="i">Parlimen Malaysia</channel>
+
+<channel xmltv_id="pelangi" site_id="89" site="astro.com.my" update="i">Pelangi</channel>
+
+<channel xmltv_id="pesona_hd" site_id="20000063##201907/20190716/201907160659062937ij.png" site="unifi_zh.com.my" update="i">Pesona HD</channel>
+
+<channel xmltv_id="phoenix_chinese_channel" site_id="56" site="astro.com.my" update="i">Phoenix Chinese Channel</channel>
+
+<channel xmltv_id="phoenix_chinese_channel_hd" site_id="382" site="astro.com.my.E" update="i">Phoenix Chinese Channel HD</channel>
+
+<channel xmltv_id="phoenix_info_news" site_id="43" site="astro.com.my" update="i">Phoenix Info News</channel>
+
+<channel xmltv_id="phoenix_info_news_hd" site_id="43" site="astro.com.my.E" update="i">Phoenix Info News HD</channel>
+
+<channel xmltv_id="polimer" site_id="20000071##201907/20190716/2019071607250947892o.png" site="unifi_zh.com.my" update="i">Polimer</channel>
+
+<channel xmltv_id="radio_arena" site_id="304" site="astro.com.my.E" update="i">Radio ARENA</channel>
+
+<channel xmltv_id="radio_kenyalang" site_id="32" site="astro.com.my" update="i">Radio Kenyalang</channel>
+
+<channel xmltv_id="radio_klasik" site_id="RADIO KLASIK" site="rtm.gov.my" update="i">RADIO KLASIK</channel>
+
+<channel xmltv_id="raj_tv" site_id="33" site="astro.com.my" update="i">Raj TV</channel>
+
+<channel xmltv_id="rtl_cbs_entertainment_hd" site_id="##Cat=3##ID=616" site="tm.com.my" update="i">RTL CBS Entertainment HD</channel>
+
+<channel xmltv_id="rtl_cbs_extreme_hd" site_id="##Cat=3##ID=617" site="tm.com.my" update="i">RTL CBS Extreme HD</channel>
+
+<channel xmltv_id="rugbypass_tv_hd" site_id="393" site="astro.com.my.E" update="i">RugbyPass TV HD</channel>
+
+<channel xmltv_id="salam_hd" site_id="20000070##201907/20190716/20190716062504007e6f.png" site="unifi_zh.com.my" update="i">Salam HD</channel>
+
+<channel xmltv_id="scm_hd" site_id="20000110##201907/20190716/20190716064916067nrf.png" site="unifi_zh.com.my" update="i">SCM HD</channel>
+
+<channel xmltv_id="scm_legend_hd" site_id="20000065##201907/20190716/20190716071259102dr2.png" site="unifi_zh.com.my" update="i">SCM Legend HD</channel>
+
+<channel xmltv_id="screen_red" site_id="227 Cat=5" site="tm.com.my.xmltv_ns" update="i">Screen RED</channel>
+
+<channel xmltv_id="setanta_sports_hd" site_id="setanta-sports-hd/details/195/##823_160" site="stadiumastro.com.E" update="i">Setanta Sports HD</channel>
+
+<channel xmltv_id="seti" site_id="20000082##201907/20190708/20190708073838956juy.png" site="unifi_zh.com.my" update="i">SETI</channel>
+
+<channel xmltv_id="sinar_fm" site_id="26" site="astro.com.my.E" update="i">SINAR FM</channel>
+
+<channel xmltv_id="sky_news_hd" site_id="155" site="astro.com.my.E" update="i">Sky News HD</channel>
+
+<channel xmltv_id="sony_max" site_id="20000090##201907/20190716/20190716070246131li6.png" site="unifi_zh.com.my" update="i">Sony Max</channel>
+
+<channel xmltv_id="sony_sab" site_id="20000007##201907/20190716/20190716072708856rq9.png" site="unifi_zh.com.my" update="i">Sony SAB</channel>
+
+<channel xmltv_id="sony_set" site_id="20000008##201907/20190716/20190716072803934rws.png" site="unifi_zh.com.my" update="i">Sony SET</channel>
+
+<channel xmltv_id="special_event_sports_hd_01" site_id="439" site="astro.com.my.E" update="i">Special Event Sports HD 01</channel>
+
+<channel xmltv_id="special_event_sports_hd_02" site_id="276" site="astro.com.my.E" update="i">Special Event Sports HD 02</channel>
+
+<channel xmltv_id="special_event_sports_hd_03" site_id="277" site="astro.com.my.E" update="i">Special Event Sports HD 03</channel>
+
+<channel xmltv_id="special_event_sports_hd_04" site_id="278" site="astro.com.my.E" update="i">Special Event Sports HD 04</channel>
+
+<channel xmltv_id="special_event_sports_hd_05" site_id="279" site="astro.com.my.E" update="i">Special Event Sports HD 05</channel>
+
+<channel xmltv_id="special_event_sports_hd_06" site_id="280" site="astro.com.my.E" update="i">Special Event Sports HD 06</channel>
+
+<channel xmltv_id="special_event_sports_hd_08" site_id="231" site="astro.com.my.E" update="i">Special Event Sports HD 08</channel>
+
+<channel xmltv_id="special_event_sports_hd_09" site_id="232" site="astro.com.my.E" update="i">Special Event Sports HD 09</channel>
+
+<channel xmltv_id="star_chinese_channel" site_id="206 Cat=5" site="tm.com.my.xmltv_ns" update="i">STAR Chinese Channel</channel>
+
+<channel xmltv_id="star_chinese_channel_hd" site_id="20000075##201907/20190716/2019071606511620151r.png" site="unifi_zh.com.my" update="i">STAR Chinese Channel HD</channel>
+
+<channel xmltv_id="star_chinese_movies" site_id="##Cat=5##ID=228" site="tm.com.my" update="i">Star Chinese Movies</channel>
+
+<channel xmltv_id="star_chinese_movies_legend" site_id="226 Cat=5" site="tm.com.my.xmltv_ns" update="i">Star Chinese Movies Legend</channel>
+
+<channel xmltv_id="star_vijay" site_id="159" site="astro.com.my" update="i">Star Vijay</channel>
+
+<channel xmltv_id="star_vijay_hd" site_id="357" site="astro.com.my.E" update="i">Star Vijay HD</channel>
+
+<channel xmltv_id="star_world" site_id="75" site="astro.com.my" update="i">Star World</channel>
+
+<channel xmltv_id="star_world_hd" site_id="137" site="astro.com.my" update="i">Star World HD</channel>
+
+<channel xmltv_id="sukan_rtm" site_id="526##tvSUKANlogo_NEW.jpg" site="rtmklik.rtm.gov.my" update="i">SUKAN RTM</channel>
+
+<channel xmltv_id="sun_music" site_id="82" site="astro.com.my" update="i">Sun Music</channel>
+
+<channel xmltv_id="sun_music_hd" site_id="417" site="astro.com.my.E" update="i">Sun Music HD</channel>
+
+<channel xmltv_id="sun_tv" site_id="4" site="astro.com.my" update="i">Sun TV</channel>
+
+<channel xmltv_id="sun_tv_hd" site_id="358" site="astro.com.my.E" update="i">SUN TV HD</channel>
+
+<channel xmltv_id="syfy_hd" site_id="611 Cat=3" site="tm.com.my.xmltv_ns" update="i">Syfy HD</channel>
+
+<channel xmltv_id="ta_daa" site_id="432" site="astro.com.my.E" update="i">TA-DAA!</channel>
+
+<channel xmltv_id="tara_hd" site_id="250" site="astro.com.my" update="i">TARA HD</channel>
+
+<channel xmltv_id="the_capital" site_id="420 Cat=2" site="tm.com.my.xmltv_ns" update="i">The Capital</channel>
+
+<channel xmltv_id="thr_gegar" site_id="22" site="astro.com.my" update="i">THR Gegar</channel>
+
+<channel xmltv_id="thr_raaga" site_id="30" site="astro.com.my" update="i">THR Raaga</channel>
+
+<channel xmltv_id="tlc" site_id="107" site="astro.com.my" update="i">TLC</channel>
+
+<channel xmltv_id="tlc_hd" site_id="338" site="astro.com.my.E" update="i">TLC HD</channel>
+
+<channel xmltv_id="trace_sports_hd" site_id="710 Cat=4" site="tm.com.my.xmltv_ns" update="i">Trace Sports HD</channel>
+
+<channel xmltv_id="travel_channel" site_id="621 Cat=6" site="tm.com.my.xmltv_ns" update="i">Travel Channel</channel>
+
+<channel xmltv_id="traxx_fm" site_id="TRAXX FM" site="rtm.gov.my" update="i">TRAXX FM</channel>
+
+<channel xmltv_id="tv_1" site_id="95" site="astro.com.my" update="i">TV 1</channel>
+
+<channel xmltv_id="tv_2" site_id="103" site="astro.com.my" update="i">TV 2</channel>
+
+<channel xmltv_id="tv_3" site_id="106" site="astro.com.my" update="i">TV 3</channel>
+
+<channel xmltv_id="tv_9" site_id="48" site="astro.com.my" update="i">TV 9</channel>
+
+<channel xmltv_id="tv_alhijrah_hd" site_id="20000014##201907/20190716/20190716072749378meg.png" site="unifi_zh.com.my" update="i">TV AlHijrah HD</channel>
+
+<channel xmltv_id="tv_direct_showcase" site_id="##Cat=3##ID=121" site="tm.com.my" update="i">TV Direct Showcase</channel>
+
+<channel xmltv_id="tv_okey" site_id="524##tvTVOKEYlogo.jpg" site="rtmklik.rtm.gov.my" update="i">TV Okey</channel>
+
+<channel xmltv_id="tv1" site_id="41232791##202002/20200228/20200228032126911a3z.png" site="unifi_zh.com.my" update="i">TV1</channel>
+
+<channel xmltv_id="tv1_hd" site_id="395" site="astro.com.my.E" update="i">TV1 HD</channel>
+
+<channel xmltv_id="tv2" site_id="41232920##202002/20200228/20200228032302034uev.png" site="unifi_zh.com.my" update="i">TV2</channel>
+
+<channel xmltv_id="tv2_hd" site_id="396" site="astro.com.my.E" update="i">TV2 HD</channel>
+
+<channel xmltv_id="tv3" site_id="20000011##202007/20200701/202007010436159112u3.png" site="unifi_zh.com.my" update="i">TV3</channel>
+
+<channel xmltv_id="tv6" site_id="527##TV6-Logo-JPG.jpg" site="rtmklik.rtm.gov.my" update="i">TV6</channel>
+
+<channel xmltv_id="tv9" site_id="20000020##201907/20190716/2019071607262664255l.png" site="unifi_zh.com.my" update="i">TV9</channel>
+
+<channel xmltv_id="tvb_8" site_id="208 Cat=5" site="tm.com.my.xmltv_ns" update="i">TVB 8</channel>
+
+<channel xmltv_id="tvb_classic" site_id="98" site="astro.com.my" update="i">TVB Classic</channel>
+
+<channel xmltv_id="tvb_classic_hd" site_id="425" site="astro.com.my.E" update="i">TVB Classic HD</channel>
+
+<channel xmltv_id="tvb_entertainment_news_hd" site_id="427" site="astro.com.my.E" update="i">TVB Entertainment News HD</channel>
+
+<channel xmltv_id="tvb_jade" site_id="203" site="astro.com.my.E" update="i">TVB Jade</channel>
+
+<channel xmltv_id="tvb_xing_he" site_id="6" site="astro.com.my" update="i">TVB Xing He</channel>
+
+<channel xmltv_id="tvb_xing_he_hd" site_id="383" site="astro.com.my.E" update="i">TVB Xing He HD</channel>
+
+<channel xmltv_id="tvbs_asia" site_id="35" site="astro.com.my" update="i">TVBS Asia</channel>
+
+<channel xmltv_id="tvbs_asia_hd" site_id="384" site="astro.com.my.E" update="i">TVBS Asia HD</channel>
+
+<channel xmltv_id="tvbs_news" site_id="414" site="astro.com.my.E" update="i">TVBS News</channel>
+
+<channel xmltv_id="tvi" site_id="97" site="astro.com.my" update="i">TVi</channel>
+
+<channel xmltv_id="tvn" site_id="190" site="astro.com.my" update="i">tvN</channel>
+
+<channel xmltv_id="tvn_hd" site_id="20000062##201907/20190716/20190716065439314yz3.png" site="unifi_zh.com.my" update="i">tvN HD</channel>
+
+<channel xmltv_id="tvn_movies_hd" site_id="20000021##201907/20190723/20190723084311221wnu.png" site="unifi_zh.com.my" update="i">tvN Movies HD</channel>
+
+<channel xmltv_id="tvs" site_id="tvs" site="tvstv.my" update="i">TVS</channel>
+
+<channel xmltv_id="unifi_sports_1" site_id="40307683##202002/20200219/20200219034140282its.png" site="unifi_zh.com.my" update="i">unifi Sports 1</channel>
+
+<channel xmltv_id="unifi_sports_2" site_id="41210859##202002/20200223/20200223030942343uz5.png" site="unifi_zh.com.my" update="i">unifi Sports 2</channel>
+
+<channel xmltv_id="unifi_sports_3" site_id="41003404##202002/20200219/20200219034638064fgd.png" site="unifi_zh.com.my" update="i">unifi Sports 3</channel>
+
+<channel xmltv_id="unifi_sports_4" site_id="41003422##202002/20200219/20200219034705029kh8.png" site="unifi_zh.com.my" update="i">unifi Sports 4</channel>
+
+<channel xmltv_id="unifi_sports_5" site_id="41208891##202002/20200223/20200223031129462i1k.png" site="unifi_zh.com.my" update="i">unifi Sports 5</channel>
+
+<channel xmltv_id="universal_channel_hd" site_id="612 Cat=3" site="tm.com.my.xmltv_ns" update="i">Universal Channel HD</channel>
+
+<channel xmltv_id="utv_bindass" site_id="305 Cat=5" site="tm.com.my.xmltv_ns" update="i">UTV Bindass</channel>
+
+<channel xmltv_id="utv_movies" site_id="307 Cat=5" site="tm.com.my.xmltv_ns" update="i">UTV Movies</channel>
+
+<channel xmltv_id="utv_stars" site_id="301 Cat=5" site="tm.com.my.xmltv_ns" update="i">UTV Stars</channel>
+
+<channel xmltv_id="wai_fm" site_id="WAI FM" site="rtm.gov.my" update="i">WAI FM</channel>
+
+<channel xmltv_id="warner_tv" site_id="613 Cat=3" site="tm.com.my.xmltv_ns" update="i">Warner TV</channel>
+
+<channel xmltv_id="warner_tv_hd" site_id="20000012##201907/20190716/20190716071834181bzk.png" site="unifi_zh.com.my" update="i">Warner TV HD</channel>
+
+<channel xmltv_id="wwe_network" site_id="wwe-network/details/196/##841_160" site="stadiumastro.com.E" update="i">WWE Network</channel>
+
+<channel xmltv_id="wwe_network_hd" site_id="wwe-network-hd/details/194/##821_160" site="stadiumastro.com.E" update="i">WWE Network HD</channel>
+
+<channel xmltv_id="zayan" site_id="292" site="astro.com.my.E" update="i">ZAYAN</channel>
+
+<channel xmltv_id="zee_tamil_hd" site_id="297" site="astro.com.my.E" update="i">Zee Tamil HD</channel>
+
+<channel xmltv_id="zoomoo" site_id="186" site="astro.com.my" update="i">ZooMoo</channel>
+
+</settings>
