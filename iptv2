@@ -32,7 +32,7 @@ http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
 #EXTVLCOPT:network-caching=100000	
 http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
 
-  <channel id="104"> Astro Ria HD
+  			<channel id="104"> Astro Ria HD
 #EXTINF:-1 tvg-id="104" group-title="ASTRO MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png",ASTRO RIA HD
 #EXTVLCOPT:network-caching=100000
 http://50.7.161.82:8277/streams/d/ria_pye/playlist.m3u8
@@ -41,17 +41,17 @@ http://50.7.161.82:8277/streams/d/ria_pye/playlist.m3u8
 #EXTVLCOPT:network-caching=100000
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/23
 
-  <channel id="105"> Astro Prima HD
+  			<channel id="105"> Astro Prima HD
 #EXTINF:-1 tvg-id="105" group-title="ASTRO MALAYSIA"	tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",ASTRO PRIMA HD	
 #EXTVLCOPT:network-caching=100000	
 http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
 
-  <channel id="106"> Astro Oasis HD
+ 			 <channel id="106"> Astro Oasis HD
 #EXTINF:-1 tvg-id="106" group-title="ASTRO MALAYSIA"	tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png",ASTRO OASIS HD	
 #EXTVLCOPT:network-caching=100000	
 http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 
- <channel id="107"> Astro Warna HD
+ 			<channel id="107"> Astro Warna HD
 #EXTINF:-1 tvg-id="107" group-title="ASTRO MALAYSIA"	tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png",ASTRO WARNA HD	
 #EXTVLCOPT:network-caching=100000
 http://50.7.161.82:8277/streams/d/warnahd_pye/playlist.m3u8
@@ -61,12 +61,12 @@ http://50.7.161.82:8277/streams/d/warnahd_pye/playlist.m3u8
 #EXTVLCOPT:network-caching=100000
 http://50.7.161.82:8277/streams/d/warnahd_pye/playlist.m3u8
 
-<channel id="108"> Astro Citra HD
+			<channel id="108"> Astro Citra HD
 #EXTINF:-1 tvg-id="108" group-title="ASTRO MALAYSIA"	tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png",ASTRO CITRA HD
 #EXTVLCOPT:network-caching=100000
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
 
-<channel id=""> DRAMA SANGAT
+			<channel id=""> DRAMA SANGAT
 #EXTINF:-1 tvg-ID="CHN" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/drama%20sangat.png" group-title="CHECK HERE IF DOWN",DRAMA SANGAT
 http://50.7.161.82:8277/streams/d/Dsangat/playlist.m3u8
 #http://185.180.221.194:8277/streams/d/Dsangat/playlist.m3u8
@@ -75,17 +75,30 @@ https://raw.githubusercontent.com/KakLongGarang/hentamsajala/main/DramaSangat.m3
 
 
   <channel id="109"> Naura HD
+#EXTINF:-1 tvg-ID="109" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428296_ico.png" group-title="CHECK HERE IF DOWN",NAURA
+http://50.7.161.82:8277/streams/d/Naura/playlist.m3u8
+#http://185.180.221.194:8277/streams/d/Naura/playlist.m3u8
+https://agsplayback01.astro.com.my/CH2/master_NAURAGOSHOP4_04.m3u8
+
 <channel id="110"> berita rtm
 #EXTINF:-1 group-title="RTM" ch-number="123" tvg-id="123" tvg-chno="123" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Beritartm.m3u8|Referer=https://rtmklik.rtm.gov.my	   
  
- <channel id="111"> Go Shop 
+ 				<channel id="111"> Go Shop 
 #EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="111" tvg-id="111" tvg-chno="111" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/120.png",GO Shop MYTV
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/GShopMY.m3u8
 
 <channel id="112"> Astro Rania HD
+#EXTINF:-1 tvg-ID="112" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/rania.png" group-title="CHECK HERE IF DOWN",RANIA
+http://iptvmedia.live:8080/F14741/cfe49823/171984
+http://185.71.64.91:8080/alejo/alejo123/50891
+http://iptv.tvmalaysia.cc:80/139664/139664/6729
 
 <channel id="113">Astro Aura 
+#EXTINF:-1 tvg-id="113" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/aura.png" group-title="CHECK HERE IF DOWN",AURA
+http://iptvmedia.live:8080/F14741/cfe49823/171986
+http://185.71.64.91:8080/alejo/alejo123/50887
+http://iptv.tvmalaysia.cc:80/139664/139664/6713
 
 					<channel id="114">Al-Hijrah
 #EXTINF:-1 tvg-id="114" group-title="ASTRO MALAYSIA"	tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/149_144.png",AL-HIJRAH	
@@ -101,7 +114,14 @@ http://50.7.161.82:8277/streams/d/Alhijrah/playlist.m3u8
 http://centerrrs.hypp.tv:80/PLTV/88888888/224/3221227507/3221227507.mpd
 
 <channel id="116"> Colors Hindi HD 
-
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MzkwMTYxNjktYTgzNS0zZWFlLWJjODEtM2Q5YjhkMGY1ODJm
+#EXTINF:-1 tvg-ID="116" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/colors.png" group-title="CHECK HERE IF DOWN",COLORS
+http://93.190.139.35:8277/streams/d/Colorhd/playlist.m3u8
+#http://185.180.221.194:8277/streams/d/Colorhd/playlist.m3u8
+http://iptvmedia.live:8080/F14741/cfe49823/264485
+#http://1.crtv1.ml/hstv/crtv.php?id=1468
+http://centerrrs.hypp.tv:80/PLTV/88888888/224/3221227504/3221227504.mpd
 <channel id="117">  rtm parlimen
 #EXTINF:-1 tvg-id="" GROUP-TITLE="RTM" tvg-logo="",RTM Parlimen (Dewan Rakyat) (1080p)
 #EXTVLCOPT:network-caching=100000
