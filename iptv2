@@ -42,7 +42,7 @@ http://50.7.161.82:8277/streams/d/ria_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-id="104" tvg-name="ASTRO RIA" group-title="ASTRO" tvg-logo="https://telegra.ph/file/b768111e267bfaa490f29.png",ASTRO RIA
 #EXTVLCOPT:network-caching=100000
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/23
+
 
   			<channel id="105"> Astro Prima HD
 #EXTINF:-1 tvg-id="105" group-title="ASTRO MALAYSIA"	tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",ASTRO PRIMA HD	
