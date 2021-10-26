@@ -33,7 +33,7 @@ http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="103" group-title="PRIMA" tvg-logo="https://raw.githubusercontent.com/udin931/iptv1/main/logos2/logoss/TV3.png",TV3 B	
 #EXTVLCOPT:network-caching=100000	
-http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
+
 
   			<channel id="104"> Astro Ria HD
 #EXTINF:-1 tvg-id="104" group-title="ASTRO MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png",ASTRO RIA HD
@@ -93,15 +93,14 @@ https://v-t-e-r.github.io/Umbrella/Playlist/Ch/GShopMY.m3u8
 
 			<channel id="112"> Astro Rania HD
 #EXTINF:-1 tvg-ID="112" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/rania.png" group-title="CHECK HERE IF DOWN",RANIA
-http://iptvmedia.live:8080/F14741/cfe49823/171984
-http://185.71.64.91:8080/alejo/alejo123/50891
-http://iptv.tvmalaysia.cc:80/139664/139664/6729
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://powaw.online:2086/live/mohd.fauzi.m@gmail.com/m7oSie9fwT/20067.ts?token=GUZaWUIOG1kUVVFRUgEFAQ8BAA0CAggEBlBSAFUGVFUBUgcMAFQOBQVGGUcRR0NRVwg7XFMWClQBGkNCQAYROQsAEAITVw9QBlUXSUBHWFlTR14EAQcFUwMPWQMLT0EWCwAQAl8TVQ8aRlAdFlZDWlcJO1FSQlkBUhRbWUYPD0pAC1xnVQNUAlgAF19AAhMYFAwXRRUOEiZeUQgXZwYPAwELX1VECFAAVxBcCgxAEWdSC0R3X1ASThVUCENBAhcDQF5cTV0KFUFVC0ALFkFIFgxHKWwVGBIHT0IEWUAKDAhAXhBMQkQVQV8XahcHQEVGUwQJUEUWCkAHFE0VXgIbOQELXFZUBU0KWQpGR1gRABYaRwlaWV1EDUVpEV5XQVkIFwheRQ==&expires=1654942380
 
 <channel id="113">Astro Aura 
 #EXTINF:-1 tvg-id="113" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/aura.png" group-title="CHECK HERE IF DOWN",AURA
-http://iptvmedia.live:8080/F14741/cfe49823/171986
-http://185.71.64.91:8080/alejo/alejo123/50887
-http://iptv.tvmalaysia.cc:80/139664/139664/6713
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://powaw.online:2086/live/mohd.fauzi.m@gmail.com/m7oSie9fwT/20068.ts?token=GUZaWUIOG1kUVVFRUgEFAQ8BAA0CAggEBlBSAFUGVFUBUgcMAFQOBQVGGUcRR0NRVwg7XFMWClQBGkNCQAYROQsAEAITVw9QBlUXSUBHWFlTR14EAQcFUwMPWQMLT0EWCwAQAl8TVQ8aRlAdFlZDWlcJO1FSQlkBUhRbWUYPD0pAC1xnVQNUAlgAF19AAhMYFAwXRRUOEiZeUQgXZwYPAwELX1VECFAAVxBcCgxAEWdSC0R3X1ASThVUCENBAhcDQF5cTV0KFUFVC0ALFkFIFgxHKWwVGBIHT0IEWUAKDAhAXhBMQkQVQV8XahcHQEVGUwQJUEUWCkAHFE0VXgIbOQELXFZUBU0KWQpGR1gRABYaRwlaWV1EDUVpEV5XQVkIFwheRQ==&expires=1654942380
+
 
 					<channel id="114">Al-Hijrah
 #EXTINF:-1 tvg-id="114" group-title="ASTRO MALAYSIA"	tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/149_144.png",AL-HIJRAH	
@@ -125,10 +124,11 @@ http://93.190.139.35:8277/streams/d/Colorhd/playlist.m3u8
 http://iptvmedia.live:8080/F14741/cfe49823/264485
 #http://1.crtv1.ml/hstv/crtv.php?id=1468
 http://centerrrs.hypp.tv:80/PLTV/88888888/224/3221227504/3221227504.mpd
+
 <channel id="117">  rtm parlimen
 #EXTINF:-1 tvg-id="" GROUP-TITLE="RTM" tvg-logo="",RTM Parlimen (Dewan Rakyat) (1080p)
 #EXTVLCOPT:network-caching=100000
-https://parlimenrakyat.secureswiftcontent.com/Origin04/ngrp:RTM4/playlist.m3u8
+
 
 <channel id="118"> Go Shop 118
 
@@ -145,10 +145,13 @@ https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_04.m3u8
 <channel id=" "> TV6
 #EXTINF:-1 tvg-id=" " group-title="ASTRO SARAWAK"	tvg-logo="https://www.rtm.gov.my/images/2021/03/31/tv6.jpg",TV6	
 #EXTVLCOPT:network-caching=100000	
-
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://powaw.online:2086/live/mohd.fauzi.m@gmail.com/m7oSie9fwT/24963.ts?token=GUZaWUIOG1kUVVFRUgEFAQ8BAA0CAggEBlBSAFUGVFUBUgcMAFQOBQVGGUcRR0NRVwg7XFMWClQBGkNCQAYROQsAEAITVw9QBlUXSUBHWFlTR14EAQcFUwMPWQMLT0EWCwAQAl8TVQ8aRlAdFlZDWlcJO1FSQlkBUhRbWUYPD0pAC1xnVQNUAlgAF19AAhMYFAwXRRUOEiZeUQgXZwYPAwELX1VECFAAVxBcCgxAEWdSC0R3X1ASThVUCENBAhcDQF5cTV0KFUFVC0ALFkFIFgxHKWwVGBIHT0IEWUAKDAhAXhBMQkQVQV8XahcHQEVGUwQJUEUWCkAHFE0VXgIbOQELXFZUBU0KWQpGR1gRABYaRwlaWV1EDUVpEV5XQVkIFwheRQ==&expires=1654942380
 
 <channel id="123"> Awesome TV
 #EXTINF:-1 tvg-id="123"group-title="PRIMA"	tvg-logo="https://raw.githubusercontent.com/udin931/iptv1/main/logos2/Astro1/",AWESOME TV
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://powaw.online:2086/live/mohd.fauzi.m@gmail.com/m7oSie9fwT/22678.ts?token=GUZaWUIOG1kUVVFRUgEFAQ8BAA0CAggEBlBSAFUGVFUBUgcMAFQOBQVGGUcRR0NRVwg7XFMWClQBGkNCQAYROQsAEAITVw9QBlUXSUBHWFlTR14EAQcFUwMPWQMLT0EWCwAQAl8TVQ8aRlAdFlZDWlcJO1FSQlkBUhRbWUYPD0pAC1xnVQNUAlgAF19AAhMYFAwXRRUOEiZeUQgXZwYPAwELX1VECFAAVxBcCgxAEWdSC0R3X1ASThVUCENBAhcDQF5cTV0KFUFVC0ALFkFIFgxHKWwVGBIHT0IEWUAKDAhAXhBMQkQVQV8XahcHQEVGUwQJUEUWCkAHFE0VXgIbOQELXFZUBU0KWQpGR1gRABYaRwlaWV1EDUVpEV5XQVkIFwheRQ==&expires=1654942380
 
 
 <channel id="129"> Arabic Radio &amp; TV Variety
@@ -157,6 +160,8 @@ https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_04.m3u8
 
 <channel id="146"> TV Okey
 #EXTINF:-1 tvg-id="146" group-title="RTM" tvg-logo="https://raw.githubusercontent.com/udin931/iptv1/main/logos2/Astro1/", OKeY TV
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://powaw.online:2086/live/mohd.fauzi.m@gmail.com/m7oSie9fwT/12.ts?token=GUZaWUIOG1kUVVFRUgEFAQ8BAA0CAggEBlBSAFUGVFUBUgcMAFQOBQVGGUcRR0NRVwg7XFMWClQBGkNCQAYROQsAEAITVw9QBlUXSUBHWFlTR14EAQcFUwMPWQMLT0EWCwAQAl8TVQ8aRlAdFlZDWlcJO1FSQlkBUhRbWUYPD0pAC1xnVQNUAlgAF19AAhMYFAwXRRUOEiZeUQgXZwYPAwELX1VECFAAVxBcCgxAEWdSC0R3X1ASThVUCENBAhcDQF5cTV0KFUFVC0ALFkFIFgxHKWwVGBIHT0IEWUAKDAhAXhBMQkQVQV8XahcHQEVGUwQJUEUWCkAHFE0VXgIbOQELXFZUBU0KWQpGR1gRABYaRwlaWV1EDUVpEV5XQVkIFwheRQ==&expires=1654942380
 
 
 
@@ -203,8 +208,16 @@ http://50.7.161.82:8277/streams/d/TV9/playlist.m3u8
 #EXTVLCOPT:network-caching=100000	
 https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8
 
-  <channel id="202"> Astro Vinmeen HD
-  <channel id="203"> Astro Vellithirai
+  <channel id="202"> Astro Vinmeen HD OFF9
+#EXTINF:-1 tvg-ID="202" tvg-logo="https://images.mypad4k.com/astro_vinmeen_hd.jpg" group-title="MALAYSIA PRO",VINMEEN
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://piwpew.click:2086/live/mohd.fauzi.m@gmail.com/m7oSie9fwT/97.ts?token=GUZaWUIOG1kUVVFRUgEFAQ8BAA0CAggEBlBSAFUGVFUBUgcMAFQOBQVGGUcRR0NRVwg7XFMWClQBGkNCQAYROQsAEAITVw9QBlUXSUBHWFlTR14EAQcFUwMPWQMLT0EWCwAQAl8TVQ8aRlAdFlZDWlcJO1FSQlkBUhRbWUYPD0pAC1xnVQNUAlgAF19AAhMYFAwXRRUOEiZeUQgXZwYPAwELX1VECFAAVxBcCgxAEWdSC0R3X1ASThVUCENBAhcDQF5cTV0KFUFVC0ALFkFIFgxHKWwVGBIHT0IEWUAKDAhAXhBMQkQVQV8XahcHQEVGUwQJUEUWCkAHFE0VXgIbOQELXFZUBU0KWQpGR1gRABYaRwlaWV1EDUVpEV5XQVkIFwheRQ==&expires=1654942380
+ 
+ <channel id="203"> Astro Vellithirai
+ #EXTINF:-1 tvg-ID="203" tvg-logo="https://images.mypad4k.com/XR7_452qQ57WK-ltNmNqpg.jpg" group-title="MALAYSIA PRO",VELLITHIRAI
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://piwpew.click:2086/live/mohd.fauzi.m@gmail.com/m7oSie9fwT/20451.ts?token=GUZaWUIOG1kUVVFRUgEFAQ8BAA0CAggEBlBSAFUGVFUBUgcMAFQOBQVGGUcRR0NRVwg7XFMWClQBGkNCQAYROQsAEAITVw9QBlUXSUBHWFlTR14EAQcFUwMPWQMLT0EWCwAQAl8TVQ8aRlAdFlZDWlcJO1FSQlkBUhRbWUYPD0pAC1xnVQNUAlgAF19AAhMYFAwXRRUOEiZeUQgXZwYPAwELX1VECFAAVxBcCgxAEWdSC0R3X1ASThVUCENBAhcDQF5cTV0KFUFVC0ALFkFIFgxHKWwVGBIHT0IEWUAKDAhAXhBMQkQVQV8XahcHQEVGUwQJUEUWCkAHFE0VXgIbOQELXFZUBU0KWQpGR1gRABYaRwlaWV1EDUVpEV5XQVkIFwheRQ==&expires=1654942380
+ 
   <channel id="204"> Makkal TV
 <channel id="211"> SUN 
 <channel id="212"> Sun Music HD
@@ -212,10 +225,41 @@ https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8
 <channel id="214"> Adithya  
 <channel id="221"> Star Vijay HD
  <channel id="222"> Colors Tamil HD
+ 
  <channel id="223"> Zee Tamil HD
+ #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTINF:-1 tvg-id="CHN" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/zeebioskop.png" group-title="CHECK HERE IF DOWN",ZEE BIOSKOP
+https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
+http://iptvmedia.live:8080/F14741/cfe49823/157584
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTINF:-1 tvg-id="CHN" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/zeecinema.png" group-title="CHECK HERE IF DOWN",ZEE CINEMA
+http://iptvmedia.live:8080/F14741/cfe49823/1350
+https://f8e7y4c6.ssl.hwcdn.net/zcinemahd/tracks-v1a1/index.m3u8
+https://liveanevia.mncnow.id/live/eds/ZeeCinema/sa_dash_vmx/ZeeCinema.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTINF:-1 tvg-id="CHN" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/zeetv.png" group-title="CHECK HERE IF DOWN",ZEE TV
+
+
  <channel id="241"> ABO Movies Thangathirai HD
  <channel id="251"> BollyOne HD
+ #EXTINF:-1 tvg-ID="251" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/bollyone.png" group-title="MALAYSIA PRO",BOLLYONE HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://piwpew.click:2086/live/mohd.fauzi.m@gmail.com/m7oSie9fwT/313.ts?token=GUZaWUIOG1kUVVFRUgEFAQ8BAA0CAggEBlBSAFUGVFUBUgcMAFQOBQVGGUcRR0NRVwg7XFMWClQBGkNCQAYROQsAEAITVw9QBlUXSUBHWFlTR14EAQcFUwMPWQMLT0EWCwAQAl8TVQ8aRlAdFlZDWlcJO1FSQlkBUhRbWUYPD0pAC1xnVQNUAlgAF19AAhMYFAwXRRUOEiZeUQgXZwYPAwELX1VECFAAVxBcCgxAEWdSC0R3X1ASThVUCENBAhcDQF5cTV0KFUFVC0ALFkFIFgxHKWwVGBIHT0IEWUAKDAhAXhBMQkQVQV8XahcHQEVGUwQJUEUWCkAHFE0VXgIbOQELXFZUBU0KWQpGR1gRABYaRwlaWV1EDUVpEV5XQVkIFwheRQ==&expires=1654942380
+ 
+ 
 <channel id="300"> iQIYI HD
+#EXTINF:-1 tvg-ID="300" group-title="CHECK HERE IF DOWN" tvg-logo="https://www.digitaltvnews.net/wp-content/uploads/logos/iqiyicom.png",iQIYI
+http://50.7.161.82:8277/streams/d/iqiyi_pye/playlist.m3u8
+http://198.16.106.61:8277/streams/d/Qiyi1511/playlist.m3u8
+#http://185.180.221.194:8277/streams/d/Qiyi/playlist.m3u8
+#http://iptvmedia.live:8080/F14741/cfe49823/247424
+
+
   <channel id="303"> Go Shop 303
   
   <channel id="304"> Astro Xiao Tai Yang HD
@@ -227,9 +271,12 @@ http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
 #EXTINF:-1 tvg-id="305" group-title="ASTRO CINA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/425_144.png",TVB CLASSIC HD	
 #EXTVLCOPT:network-caching=100000
 
+
   <channel id="306"> Astro AEC HD
 #EXTINF:-1 tvg-id="306" group-title="ASTRO CINA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/182_144.png",ASTRO AEC HD	
 #EXTVLCOPT:network-caching=100000
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://powaw.online:2086/live/mohd.fauzi.m@gmail.com/m7oSie9fwT/69.ts?token=GUZaWUIOG1kUVVFRUgEFAQ8BAA0CAggEBlBSAFUGVFUBUgcMAFQOBQVGGUcRR0NRVwg7XFMWClQBGkNCQAYROQsAEAITVw9QBlUXSUBHWFlTR14EAQcFUwMPWQMLT0EWCwAQAl8TVQ8aRlAdFlZDWlcJO1FSQlkBUhRbWUYPD0pAC1xnVQNUAlgAF19AAhMYFAwXRRUOEiZeUQgXZwYPAwELX1VECFAAVxBcCgxAEWdSC0R3X1ASThVUCENBAhcDQF5cTV0KFUFVC0ALFkFIFgxHKWwVGBIHT0IEWUAKDAhAXhBMQkQVQV8XahcHQEVGUwQJUEUWCkAHFE0VXgIbOQELXFZUBU0KWQpGR1gRABYaRwlaWV1EDUVpEV5XQVkIFwheRQ==&expires=1654942380
 
   <channel id="307"> Astro Shuang Xing HD
 #EXTINF:-1 tvg-id="307" group-title="ASTRO CINA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/183_144.png",ASTRO SHUANG XING HD	
@@ -250,19 +297,32 @@ http://210.210.155.35/qwr9ew/s/s33/index.m3u8
   <channel id="315"> Star Chinese Channel HD
   <channel id="316"> CTI 
   <channel id="317"> TVB Entertainment News
-  <channel id="318"> TVB News  
+  <channel id="318"> TVB News 
+  
+  
 <channel id="319"> TVB Xing He 
 #EXTINF:-1 tvg-id="319" GROUP-TITLE="ASTRO CINA" tvg-logo="",880. TVB Xing He 星河 
 #EXTVLCOPT:network-caching=1000000000
 http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 
   <channel id="320"> TVBS Asia HD
+  
+  
  <channel id="321"> Celestial Classic Movies
 #EXTINF:-1 tvg-id="321" group-title="ASTRO CINA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png",CCM	
-#EXTVLCOPT:network-caching=100000	
+#EXTVLCOPT:network-caching=100000
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://powaw.online:2086/live/mohd.fauzi.m@gmail.com/m7oSie9fwT/75.ts?token=GUZaWUIOG1kUVVFRUgEFAQ8BAA0CAggEBlBSAFUGVFUBUgcMAFQOBQVGGUcRR0NRVwg7XFMWClQBGkNCQAYROQsAEAITVw9QBlUXSUBHWFlTR14EAQcFUwMPWQMLT0EWCwAQAl8TVQ8aRlAdFlZDWlcJO1FSQlkBUhRbWUYPD0pAC1xnVQNUAlgAF19AAhMYFAwXRRUOEiZeUQgXZwYPAwELX1VECFAAVxBcCgxAEWdSC0R3X1ASThVUCENBAhcDQF5cTV0KFUFVC0ALFkFIFgxHKWwVGBIHT0IEWUAKDAhAXhBMQkQVQV8XahcHQEVGUwQJUEUWCkAHFE0VXgIbOQELXFZUBU0KWQpGR1gRABYaRwlaWV1EDUVpEV5XQVkIFwheRQ==&expires=1654942380
+
 
  <channel id="325"> Phoenix Chinese Channel HD
+ 
+ 
   <channel id="326"> Phoenix Info News HD
+  #EXTINF:-1 tvg-name="321" tvg-id="326" tvg-logo="https://i.imgur.com/BIEG6zI.png" group-title="MALAYSIA PRO",PHOENIX INFO NEWS
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://powaw.online:2086/live/mohd.fauzi.m@gmail.com/m7oSie9fwT/72.ts?token=GUZaWUIOG1kUVVFRUgEFAQ8BAA0CAggEBlBSAFUGVFUBUgcMAFQOBQVGGUcRR0NRVwg7XFMWClQBGkNCQAYROQsAEAITVw9QBlUXSUBHWFlTR14EAQcFUwMPWQMLT0EWCwAQAl8TVQ8aRlAdFlZDWlcJO1FSQlkBUhRbWUYPD0pAC1xnVQNUAlgAF19AAhMYFAwXRRUOEiZeUQgXZwYPAwELX1VECFAAVxBcCgxAEWdSC0R3X1ASThVUCENBAhcDQF5cTV0KFUFVC0ALFkFIFgxHKWwVGBIHT0IEWUAKDAhAXhBMQkQVQV8XahcHQEVGUwQJUEUWCkAHFE0VXgIbOQELXFZUBU0KWQpGR1gRABYaRwlaWV1EDUVpEV5XQVkIFwheRQ==&expires=1654942380
+  
   <channel id="333"> Astro Hua Hee Dai HD
   <channel id="335"> CCTV4 HD
   <channel id="352"> Astro AOD 352
@@ -274,7 +334,7 @@ http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 #EXTVLCOPT:network-caching=100000
 
   <channel id="393"> ONE HD
-#EXTINF:-1 tvg-id="393" group-title="ASTRO KOR" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/13_144.png",ONE HD	
+#EXTINF:-1 tvg-id="393" group-title="ASTRO KOR" tvg-logo=" https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/133_144.png ",ONE HD	
 #EXTVLCOPT:network-caching=100000	
 http://210.210.155.35/session/c30d8c14-f1bc-11e8-89c0-aa35b2893d02/uq2663/h/h143/02.m3u8
 
@@ -286,10 +346,15 @@ http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
   <channel id="395"> tvN HD
 #EXTINF:-1 tvg-id="395" group-title="ASTRO KOR" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/190_144.png",TVN HD	
 #EXTVLCOPT:network-caching=100000
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZGU1ZTc4ZjItNjI3NS0zYjc1LTg2YzEtZWJmOTY3NWM4ZTBi
+http://1.9.62.158/PLTV/88888888/224/3221227556/3221227556.mpd
+
 <channel id=" "> K+
 #EXTINF:-1 tvg-id="" group-title="ASTRO KOR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/K_Plus_Asia_Logo.jpg",877. K+ (576p)
 #EXTVLCOPT:network-caching=10007777
 http://210.210.155.35/uq2663/h/h08/index.m3u8
+
   <channel id="396"> Plus HD
   <channel id="398">NHK World
   <channel id="400"> FAM Movies
@@ -299,6 +364,7 @@ http://210.210.155.35/uq2663/h/h08/index.m3u8
   <channel id="401"> Hits Movies HD
 #EXTINF:-1 tvg-id="401" group-title="MOVIES"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png	",401	HITS MOVIES HD	
 #EXTVLCOPT:network-caching=100000
+
   <channel id="404"> BOO HD
 #EXTINF:-1 tvg-id="404" group-title="MOVIES"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png	",BOO HD	
 #EXTVLCOPT:network-caching=100000	
@@ -308,9 +374,21 @@ http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 #EXTINF:-1 TVG-ID="411" group-title="MOVIES"	tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png",411	HBO HD	
 #EXTVLCOPT:network-caching=100000	
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+
 #EXTINF:-1 TVG-ID="411" group-title="MOVIES"	tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png", HBO B
 #EXTVLCOPT:network-caching=1000
-http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HBOHD" group-title=“PREMIUM” tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122",HBO (A)
+https://liveorigin01.hbogoasia.com:8443/origin/live/HBO/index.m3u8
+
+#EXTINF:-1 tvg-id="HBOHD" group-title=“PREMIUM” tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122",HBO (B)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+https://liveanevia.mncnow.id/live/eds/HBO2/sa_dash_vmx/HBO2.mpd
+
+#EXTINF:-1 tvg-id="HBOHD" group-title=“PREMIUM” tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122",HBO (C)
+https://liveorigin01.hbogoasia.com:8443/origin/live/MSIA/index.m3u8
+
 
   <channel id="412">CINEMAX HD
 #EXTINF:-1 TVG-ID="412" group-title="MOVIES"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png	",CINEMAX HD	
@@ -330,19 +408,24 @@ http://stream.tvtap.net:8081/live/us-cinemax.stream/playlist.m3u8
 https://sc.id-tv.kz/Cinema_34_35.m3u8
 
   <channel id="413">Showcase Movies
+  
   <channel id="414">HBO Family HD
 #EXTINF:-1 TVG-ID="414" group-title="MOVIES"tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/450_144.png",HBO Family East(1080p)
 #EXTVLCOPT:network-caching=1000
 https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
 
+
+
   <channel id="415">HBO Hits HD
 #EXTINF:-1 TVG-ID="415" group-title="MOVIES"	tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/449_144.png",HBO Hits (1080p)
 #EXTVLCOPT:network-caching=1000
 https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
+
 <channel id=" ">HBO sIGNATURE HD
 #EXTINF:-1 TVG-ID="" group-title="MOVIES"	tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png",HBO Signature East (1080p)
 #EXTVLCOPT:network-caching=1000
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+
 			<channel id=" "> Thrill
 #EXTINF:-1 tvg-id=""  group-title="MOVIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Thrill_logo.png/revision/latest/scale-to-width-down/240?cb=20170606050150",874. Thrill [Geo-blocked] on9 
 #EXTVLCOPT:network-caching=1000000000
@@ -387,6 +470,8 @@ Blue Ant Extreme
 #EXTINF:-1 GROUP-TITLE="ASTRO UNK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png",Blue Ant Extreme
 #EXTVLCOPT:network-caching=10000
 http://210.210.155.35/session/37f72a80-3130-11eb-a769-b82a72d63267/dr9445/h/h15/01.m3u8
+
+
 Action Hollywood Movies 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/wnlzC0w.jpg",Action Hollywood Movies (1080p) 
 #EXTVLCOPT:network-caching=1000000000
@@ -422,12 +507,15 @@ http://31.220.41.88:8081/live/us-cinemaxaction.stream/playlist.m3u8
   <channel id="473">Astro Best (473
   <channel id="498">Astro UHD PPV (498
   <channel id="501">Astro Awani
-  <channel id="502">BERNAMA
+ 
+ <channel id="502">BERNAMA
 #EXTINF:-1 tvg-id="502" group-title="ASTRO MALAYSIA"	tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/160_144.png",BERNAMA	
 #EXTVLCOPT:network-caching=100000	
 http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
+
 #EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="502" tvg-id="502" tvg-chno="502" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/502.png",Bernama
 https://weareblahs.github.io/yttestlabs/youtube.m3u
+
   <channel id="503">CGTN
   <channel id="511">CNN HD
   <channel id="512">BBC World News HD
@@ -439,31 +527,52 @@ https://weareblahs.github.io/yttestlabs/youtube.m3u
   <channel id="518">ABC Australia
   <channel id="521">DW English
   <channel id="522">France24
+  
   <channel id="550">Nat Geo Wild HD
 #EXTINF:-1 tvg-id="550" group-title="ASTRO LEARN" tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/322_144.png",NAT GEO WILD HD	
 #EXTVLCOPT:network-caching=100000
+
   <channel id="551">National Geographic HD
 #EXTINF:-1 tvg-id="551" group-title="ASTRO LEARN"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/140_144.png	",551	NATIONAL GEOGRAPHIC HD	
 #EXTVLCOPT:network-caching=100000
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://piwpew.click:2086/live/mohd.fauzi.m@gmail.com/m7oSie9fwT/146.ts?token=GUZaWUIOG1kUVVFRUgEFAQ8BAA0CAggEBlBSAFUGVFUBUgcMAFQOBQVGGUcRR0NRVwg7XFMWClQBGkNCQAYROQsAEAITVw9QBlUXSUBHWFlTR14EAQcFUwMPWQMLT0EWCwAQAl8TVQ8aRlAdFlZDWlcJO1FSQlkBUhRbWUYPD0pAC1xnVQNUAlgAF19AAhMYFAwXRRUOEiZeUQgXZwYPAwELX1VECFAAVxBcCgxAEWdSC0R3X1ASThVUCENBAhcDQF5cTV0KFUFVC0ALFkFIFgxHKWwVGBIHT0IEWUAKDAhAXhBMQkQVQV8XahcHQEVGUwQJUEUWCkAHFE0VXgIbOQELXFZUBU0KWQpGR1gRABYaRwlaWV1EDUVpEV5XQVkIFwheRQ==&expires=1654942380
+
   <channel id="552">Discovery Channel HD
 #EXTINF:-1 tvg-id="552" group-title="ASTRO LEARN"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/376_144.png	",552	DISCOVERY CHANNEL HD	
 #EXTVLCOPT:network-caching=100000
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://piwpew.click:2086/live/mohd.fauzi.m@gmail.com/m7oSie9fwT/151.ts?token=GUZaWUIOG1kUVVFRUgEFAQ8BAA0CAggEBlBSAFUGVFUBUgcMAFQOBQVGGUcRR0NRVwg7XFMWClQBGkNCQAYROQsAEAITVw9QBlUXSUBHWFlTR14EAQcFUwMPWQMLT0EWCwAQAl8TVQ8aRlAdFlZDWlcJO1FSQlkBUhRbWUYPD0pAC1xnVQNUAlgAF19AAhMYFAwXRRUOEiZeUQgXZwYPAwELX1VECFAAVxBcCgxAEWdSC0R3X1ASThVUCENBAhcDQF5cTV0KFUFVC0ALFkFIFgxHKWwVGBIHT0IEWUAKDAhAXhBMQkQVQV8XahcHQEVGUwQJUEUWCkAHFE0VXgIbOQELXFZUBU0KWQpGR1gRABYaRwlaWV1EDUVpEV5XQVkIFwheRQ==&expires=1654942380
 
   <channel id="553">Discovery Asia HD
 #EXTINF:-1 tvg-id="553" group-title="ASTRO LEARN"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/136_144.png	",553	DISCOVERY ASIA HD	
 #EXTVLCOPT:network-caching=100000
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://piwpew.click:2086/live/mohd.fauzi.m@gmail.com/m7oSie9fwT/152.ts?token=GUZaWUIOG1kUVVFRUgEFAQ8BAA0CAggEBlBSAFUGVFUBUgcMAFQOBQVGGUcRR0NRVwg7XFMWClQBGkNCQAYROQsAEAITVw9QBlUXSUBHWFlTR14EAQcFUwMPWQMLT0EWCwAQAl8TVQ8aRlAdFlZDWlcJO1FSQlkBUhRbWUYPD0pAC1xnVQNUAlgAF19AAhMYFAwXRRUOEiZeUQgXZwYPAwELX1VECFAAVxBcCgxAEWdSC0R3X1ASThVUCENBAhcDQF5cTV0KFUFVC0ALFkFIFgxHKWwVGBIHT0IEWUAKDAhAXhBMQkQVQV8XahcHQEVGUwQJUEUWCkAHFE0VXgIbOQELXFZUBU0KWQpGR1gRABYaRwlaWV1EDUVpEV5XQVkIFwheRQ==&expires=1654942380
+
 
   <channel id="554"> BBC Earth HD
+  #EXTINF:-1 tvg-ID="CHN" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/bbc%20earth.png" group-title="MALAYSIA PRO",BBC EARTH
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://piwpew.click:2086/live/mohd.fauzi.m@gmail.com/m7oSie9fwT/1071.ts?token=GUZaWUIOG1kUVVFRUgEFAQ8BAA0CAggEBlBSAFUGVFUBUgcMAFQOBQVGGUcRR0NRVwg7XFMWClQBGkNCQAYROQsAEAITVw9QBlUXSUBHWFlTR14EAQcFUwMPWQMLT0EWCwAQAl8TVQ8aRlAdFlZDWlcJO1FSQlkBUhRbWUYPD0pAC1xnVQNUAlgAF19AAhMYFAwXRRUOEiZeUQgXZwYPAwELX1VECFAAVxBcCgxAEWdSC0R3X1ASThVUCENBAhcDQF5cTV0KFUFVC0ALFkFIFgxHKWwVGBIHT0IEWUAKDAhAXhBMQkQVQV8XahcHQEVGUwQJUEUWCkAHFE0VXgIbOQELXFZUBU0KWQpGR1gRABYaRwlaWV1EDUVpEV5XQVkIFwheRQ==&expires=1654942380
+  
   <channel id="555">History HD
 #EXTINF:-1 tvg-id="555" group-title="ASTRO LEARN"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/144_144.png	",HISTORY HD	
 #EXTVLCOPT:network-caching=100000
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://piwpew.click:2086/live/mohd.fauzi.m@gmail.com/m7oSie9fwT/156.ts?token=GUZaWUIOG1kUVVFRUgEFAQ8BAA0CAggEBlBSAFUGVFUBUgcMAFQOBQVGGUcRR0NRVwg7XFMWClQBGkNCQAYROQsAEAITVw9QBlUXSUBHWFlTR14EAQcFUwMPWQMLT0EWCwAQAl8TVQ8aRlAdFlZDWlcJO1FSQlkBUhRbWUYPD0pAC1xnVQNUAlgAF19AAhMYFAwXRRUOEiZeUQgXZwYPAwELX1VECFAAVxBcCgxAEWdSC0R3X1ASThVUCENBAhcDQF5cTV0KFUFVC0ALFkFIFgxHKWwVGBIHT0IEWUAKDAhAXhBMQkQVQV8XahcHQEVGUwQJUEUWCkAHFE0VXgIbOQELXFZUBU0KWQpGR1gRABYaRwlaWV1EDUVpEV5XQVkIFwheRQ==&expires=1654942380
+
   <channel id="556">Animal Planet HD
 #EXTINF:-1 tvg-id="556" group-title="ASTRO LEARN"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/377_144.png	",ANIMAL PLANET HD	
 #EXTVLCOPT:network-caching=100000	
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
+
   <channel id="557">Discovery Science HD
 #EXTINF:-1 tvg-id="557" group-title="ASTRO LEARN"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/375_144.png	",DISCOVERY SCIENCE HD	
 #EXTVLCOPT:network-caching=100000
+
+
+
 
   <channel id="601">Astro Tutor TV SK
 #EXTINF:-1 tvg-id="601" group-title="ASTRO STUDENTS"	tvg-logo="	https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/59_144.png	",601	ASTRO TUTOR TV SK	
