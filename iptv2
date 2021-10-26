@@ -8,9 +8,11 @@ http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 #EXTINF:-1 tvg-id="101" group-title="RTM " tvg-logo="https://raw.githubusercontent.com/udin931/iptv1/main/logos2/logoss/TV1.png",TV1 HD Backup
 #EXTVLCOPT:network-caching=100000
 http://50.7.161.82:8277/streams/d/TV1/playlist.m3u8
-#EXTINF:-1 tvg-id="101" group-title="RTM"tvg-logo="https://raw.githubusercontent.com/udin931/iptv1/main/logos2/logoss/TV1.png",TV1
+
+#EXTINF:-1 tvg-id="101" group-title="RTM" tvg-logo="https://raw.githubusercontent.com/udin931/iptv1/main/logos2/logoss/TV1.png",TV1
 #EXTVLCOPT:network-caching=100000	
 http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
+
 #EXTINF:-1 tvg-id="101" group-title="RTM " tvg-logo="https://raw.githubusercontent.com/udin931/iptv1/main/logos2/logoss/TV1.png",TV1
 #EXTVLCOPT:network-caching=100000
 http://50.7.161.82:8277/streams/d/TV1/playlist.m3u8
@@ -28,6 +30,7 @@ http://50.7.161.82:8277/streams/d/TV2/playlist.m3u8
 #EXTINF:-1 tvg-id="103" group-title="PRIMA" tvg-logo="https://raw.githubusercontent.com/udin931/iptv1/main/logos2/logoss/TV3.png",103 TV3	
 #EXTVLCOPT:network-caching=100000	
 http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
+
 #EXTINF:-1 tvg-id="103" group-title="PRIMA" tvg-logo="https://raw.githubusercontent.com/udin931/iptv1/main/logos2/logoss/TV3.png",TV3 B	
 #EXTVLCOPT:network-caching=100000	
 http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
@@ -74,13 +77,13 @@ http://iptvmedia.live:8080/F14741/cfe49823/171954
 https://raw.githubusercontent.com/KakLongGarang/hentamsajala/main/DramaSangat.m3u8
 
 
-  <channel id="109"> Naura HD
+ 			 <channel id="109"> Naura HD
 #EXTINF:-1 tvg-ID="109" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428296_ico.png" group-title="CHECK HERE IF DOWN",NAURA
 http://50.7.161.82:8277/streams/d/Naura/playlist.m3u8
 #http://185.180.221.194:8277/streams/d/Naura/playlist.m3u8
 https://agsplayback01.astro.com.my/CH2/master_NAURAGOSHOP4_04.m3u8
 
-<channel id="110"> berita rtm
+			<channel id="110"> berita rtm
 #EXTINF:-1 group-title="RTM" ch-number="123" tvg-id="123" tvg-chno="123" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Beritartm.m3u8|Referer=https://rtmklik.rtm.gov.my	   
  
@@ -88,7 +91,7 @@ https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Beritartm.m3u8|Referer=https://rt
 #EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="111" tvg-id="111" tvg-chno="111" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/120.png",GO Shop MYTV
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/GShopMY.m3u8
 
-<channel id="112"> Astro Rania HD
+			<channel id="112"> Astro Rania HD
 #EXTINF:-1 tvg-ID="112" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/rania.png" group-title="CHECK HERE IF DOWN",RANIA
 http://iptvmedia.live:8080/F14741/cfe49823/171984
 http://185.71.64.91:8080/alejo/alejo123/50891
