@@ -3,6 +3,66 @@
 ------------------------TELEVISION----MALAYSIA---------------MYTV-------------
 
 ----TV1----
+#EXTINF:-1 group-title="RTM KLIK" tvg-logo=" https://rtm-images.glueapi.io/320x0/live_channel/tv1_bckg.png ",TV1
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
+
+-----TV2----
+#EXTINF:-1 group-title="RTM KLIK" tvg-logo=" https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV2.jpg ",TV2
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
+
+-----TV3-----
+#EXTINF:-1 group-title="PRIMA" tvg-logo=" ",TV3
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
+
+
+
+-----NTV7/LEARNING------
+#EXTINF:-1 group-title="PRIMA" tvg-logo=" ",NTV7/LEARNING
+
+
+-----TV8--------
+#EXTINF:-1 group-title="PRIMA" tvg-logo=" ",TV8
+
+
+------TV9------
+#EXTINF:-1 group-title="PRIMA" tvg-logo=" ",TV9
+
+
+
+------TV6-------
+#EXTINF:-1 group-title="RTM KLIK" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV6.jpg ",TV6
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
+
+
+-----TVS-------
+#EXTINF:-1 group-title="RTM KLIK" tvg-logo=" ",TVS
+
+
+
+-----PARLIMEN RAKYAT TV-------
+#EXTINF:-1 group-title="RTM KLIK" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/PDR_bckg.png ",PARLIMEN TV DEWAN RAKYAT
+https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=7
+
+
+-----PARLIMEN DEWAN NEGARA TV-------
+#EXTINF:-1 group-title="RTM KLIK" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/PDR_bckg.png ",PARLIMEN TV DEWAN NEGARA
+https://d25tgymtnqzu8s.cloudfront.net/smil:negara/playlist.m3u8?id=8
+
+
+-------TV OKAY-------
+#EXTINF:-1 group-title="RTM KLIK" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TVOKEY.jpg ",OKAY
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
+
+
+------BERITA RTM--------
+#EXTINF:-1 group-title="RTM KLIK" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/berita_bckg.png ",BERITA RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
+
+
+-------SUKAN RTM--------
+#EXTINF:-1 group-title="RTM KLIK" tvg-logo="Https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_SUKANRTM.jpg ",SUKAN RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
+
 
 
 
@@ -12,18 +72,24 @@
 #EXTINF:-1 group-title="RADIO RTM KLIK" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-klasik.f0d5dab5.jpg",RADIO KLASIK
 https://22243.live.streamtheworld.com/RADIO_KLASIKAAC.aac?pname=StandardPlayerV4&pversion=4.19.2-042&dist=triton-web&tdsdk=js-2.9&swm=false&banners=none&burst-time=15&sbmid=42dbd46f-f054-422c-d033-890def5dbfb0
 
+----RADIO SABAH VFM----
 #EXTINF:-1 group-title="RADIO RTM KLIK" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-sabah-v.8109b1c6.jpg",RADIO SABAH VFM
 https://22243.live.streamtheworld.com/SABAH_VFMAAC.aac?pname=StandardPlayerV4&pversion=4.19.2-042&dist=triton-web&tdsdk=js-2.9&swm=false&banners=none&burst-time=15&sbmid=4798dda2-9b8a-40ac-aae4-01f47ea7e818
 
+----RADIO SABAH FM-----
 #EXTINF:-1 group-title="RADIO RTM KLIK" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-nasional.9d519369.jpg ",RADIO SABAH FM
 https://23693.live.streamtheworld.com/SABAH_FMAAC.aac?pname=StandardPlayerV4&pversion=4.19.2-042&dist=triton-web&tdsdk=js-2.9&swm=false&banners=none&burst-time=15&sbmid=3ce0296e-8f2b-45ea-8934-287aa63891a5
 
+-----ERA SABAH FM----
 #EXTINF:-1 group-title="RADIO LISTEN ONLINE" tvg-logo=" https://liveonlineradio.net/wp-content/uploads/2016/11/Era-FM-Sabah-100x47.jpg ",RADIO ERA SABAH
 https://astro2.rastream.com/amp-era-kk
 
+------NASIONAL FM-----
 #EXTINF:-1 group-title="RADIO RTM KLIK" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-nasional.9d519369.jpg ",RADIO NASIONAL FM
 https://22243.live.streamtheworld.com/NASIONAL_FMAAC.aac?pname=StandardPlayerV4&pversion=4.19.2-042&dist=triton-web&tdsdk=js-2.9&swm=false&banners=none&burst-time=15&sbmid=80305c51-6aeb-4be7-dd4e-7cdbf09ef283
 
+
+-------HITZ FM---------
 #EXTINF:-1 group-title="RADIO LISTEN ONLINE" tvg-logo="https://liveonlineradio.net/wp-content/uploads/2011/06/hitz-fm-220x108.jpg ".jpg",RADIO HITZ FM
 https://astro1.rastream.com/hitz
 
