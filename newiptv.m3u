@@ -21,8 +21,12 @@ https://stream-02.ix7.dailymotion.com/sec(Zqc0ZDcpMSy05peWWXyuXZYG9GP1ENZNRfxZ78
 https://stream-07.ix7.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHZnqFAwFYmbORZ7afT7gsmbCPOY5ViHQDnF8yPh5CY1k)/dm/3/x6qp6ou/s/live-1.m3u8
 
 -----TV8--------
-#EXTINF:-1 group-title="XTRA" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/tv8.png ",TV8
+#EXTINF:-1 group-title="XTRA" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/tv8.png ",TV8 SD
 https://stream-10.dc3.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHfLKXjPGmJ27n_EwPiMkZHDWncwjJS2v6YTEXKi1XGcW)/dm/3/x6qud17/s/live-1.m3u8
+
+-----TV8--------
+#EXTINF:-1 group-title="XTRA" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/tv8.png ",TV8 1080P
+https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHfLKXjPGmJ27n_EwPiMkZHDWncwjJS2v6YTEXKi1XGcW)/dm/3/x6qud17/s/live-4.m3u8
 
 ------TV9------
 #EXTINF:-1 group-title="XTRA" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/tv9.png ",TV9
