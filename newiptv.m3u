@@ -11,22 +11,26 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
 
 -----TV3-----
-#EXTINF:-1 group-title="PRIMA" tvg-logo=" ",TV3
-https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
+#EXTINF:-1 group-title="XTRA" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/tv3.png ",TV3
+https://stream-02.ix7.dailymotion.com/sec(Zqc0ZDcpMSy05peWWXyuXZYG9GP1ENZNRfxZ78m1Thtq5spKnk3xb1How3XZY8Al04wk3eTkeztp6LRb8Sd2ag)/dm/3/x6qp375/d/live-3.m3u8
 
 
 
 -----NTV7/LEARNING------
-#EXTINF:-1 group-title="PRIMA" tvg-logo=" ",NTV7/LEARNING
-
+#EXTINF:-1 group-title="XTRA" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/ntv7.png ",NTV7/LEARNING
+https://stream-07.ix7.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHZnqFAwFYmbORZ7afT7gsmbCPOY5ViHQDnF8yPh5CY1k)/dm/3/x6qp6ou/s/live-1.m3u8
 
 -----TV8--------
-#EXTINF:-1 group-title="PRIMA" tvg-logo=" ",TV8
-
+#EXTINF:-1 group-title="XTRA" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/tv8.png ",TV8
+https://stream-10.dc3.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHfLKXjPGmJ27n_EwPiMkZHDWncwjJS2v6YTEXKi1XGcW)/dm/3/x6qud17/s/live-1.m3u8
 
 ------TV9------
-#EXTINF:-1 group-title="PRIMA" tvg-logo=" ",TV9
+#EXTINF:-1 group-title="XTRA" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/tv9.png ",TV9
+https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHU09aEfHrpLptPDFbyiFz5jt6Fv8Y96Ynr4Nk2r-HNoH)/dm/3/x6qqja6/s/live-1.m3u8
 
+-----DRAMA SANGAT--------
+#EXTINF:-1 group-title="XTRA" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/dramasangat.png ",DRAMA SANGAT
+https://stream-01.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0nfZTGfq_wZ7cqv4voaNJGhCGq18p70FigglQ-lBZcr2)/dm/3/x6zvnex/s/live-1.m3u8
 
 
 ------TV6-------
@@ -60,7 +64,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
 
 
 -------SUKAN RTM--------
-#EXTINF:-1 group-title="RTM KLIK" tvg-logo="Https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_SUKANRTM.jpg ",SUKAN RTM
+#EXTINF:-1 group-title="RTM KLIK" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_SUKANRTM.jpg ",SUKAN RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
 
 
