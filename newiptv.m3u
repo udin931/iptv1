@@ -10,7 +10,9 @@ https://weareblahs.github.io/epg/astro.xml
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml" refresh="3600"
 #EXTM3U x-url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml"
 
-------------------------TELEVISION----MALAYSIA---------------MYTV-------------
+
+
+------------------------TELEVISION----MALAYSIA---------------MYTV-------------stay key id-----------------
 
 ----TV1----
 #EXTINF:-1 group-title="RTM KLIK" tvg-logo=" https://rtm-images.glueapi.io/320x0/live_channel/tv1_bckg.png ",TV1
@@ -20,97 +22,16 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
 #EXTINF:-1 group-title="RTM KLIK" tvg-logo=" https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV2.jpg ",TV2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
 
------TV3-----
-#EXTINF:-1 group-title="XTRA" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/tv3.png ",TV3 SD 320
-
-
------TV3-----
-#EXTINF:-1 group-title="XTRA" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/tv3.png ",TV3 480
-
-
------TV3-----
-#EXTINF:-1 group-title="XTRA" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/tv3.png ",TV3 720
-https://stream-03.sg1.dailymotion.com/sec(Zqc0ZDcpMSy05peWWXyuXf3oc8Si_bA2vEh3QMpLl1X1GOQGkb_nqy6hdg_ynN43sydO6-S3Pe3uqbD4EkRrNA)/dm/3/x6qp375/d/live-3.m3u8
-
------TV3-----
-#EXTINF:-1 group-title="XTRA" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/tv3.png ",TV3 1080
-
-
------TV3 BACKUP-----
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3afe30ee4ea24a67fe5a2ef06e83db0b&key=27a2f71d87bf5eb105af096fb6605d97
-#EXTINF:-1 group-title="XTRA" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/tv3.png ",TV3 backup
-https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
-
-
-
-
------NTV7/LEARNING------
-#EXTINF:-1 group-title="XTRA" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/ntv7.png ",NTV7/LEARNING SD 380
-https://stream-07.ix7.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHZnqFAwFYmbORZ7afT7gsmbCPOY5ViHQDnF8yPh5CY1k)/dm/3/x6qp6ou/s/live-1.m3u8
-
------NTV7/LEARNING------
-#EXTINF:-1 group-title="XTRA" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/ntv7.png ",NTV7/LEARNING HD 480
-https://stream-07.ix7.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHZnqFAwFYmbORZ7afT7gsmbCPOY5ViHQDnF8yPh5CY1k)/dm/3/x6qp6ou/s/live-1.m3u8
-
------NTV7/LEARNING------
-#EXTINF:-1 group-title="XTRA" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/ntv7.png ",NTV7/LEARNING HD 720
-https://stream-07.ix7.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHZnqFAwFYmbORZ7afT7gsmbCPOY5ViHQDnF8yPh5CY1k)/dm/3/x6qp6ou/s/live-1.m3u8
-
------NTV7/LEARNING------
-#EXTINF:-1 group-title="XTRA" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/ntv7.png ",NTV7/LEARNING FHD 1080
-https://stream-07.ix7.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHZnqFAwFYmbORZ7afT7gsmbCPOY5ViHQDnF8yPh5CY1k)/dm/3/x6qp6ou/s/live-1.m3u8
-
------TV8--------
-#EXTINF:-1 group-title="XTRA" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/tv8.png ",TV8 SD
-https://stream-10.dc3.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHfLKXjPGmJ27n_EwPiMkZHDWncwjJS2v6YTEXKi1XGcW)/dm/3/x6qud17/s/live-1.m3u8
-
------TV8--------
-#EXTINF:-1 group-title="XTRA" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/tv8.png ",TV8 1080P(HD)
-https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHfLKXjPGmJ27n_EwPiMkZHDWncwjJS2v6YTEXKi1XGcW)/dm/3/x6qud17/s/live-4.m3u8
-
-------TV9------
-#EXTINF:-1 group-title="XTRA" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/tv9.png ",TV9 SD 380
-https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHU09aEfHrpLptPDFbyiFz5jt6Fv8Y96Ynr4Nk2r-HNoH)/dm/3/x6qqja6/s/live-1.m3u8\
-
-------TV9------
-#EXTINF:-1 group-title="XTRA" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/tv9.png ",TV9 HD 480
-https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHU09aEfHrpLptPDFbyiFz5jt6Fv8Y96Ynr4Nk2r-HNoH)/dm/3/x6qqja6/s/live-2.m3u8
-
-------TV9------
-#EXTINF:-1 group-title="XTRA" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/tv9.png ",TV9 HD 720
-https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHU09aEfHrpLptPDFbyiFz5jt6Fv8Y96Ynr4Nk2r-HNoH)/dm/3/x6qqja6/s/live-3.m3u8
-
-------TV9------
-#EXTINF:-1 group-title="XTRA" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/tv9.png ",TV9 FHD 1080
-https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHU09aEfHrpLptPDFbyiFz5jt6Fv8Y96Ynr4Nk2r-HNoH)/dm/3/x6qqja6/s/live-4.m3u8
-
------DRAMA SANGAT SD--------
-#EXTINF:-1 group-title="XTRA" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/dramasangat.png ",DRAMA SANGAT
-https://stream-01.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0nfZTGfq_wZ7cqv4voaNJGhCGq18p70FigglQ-lBZcr2)/dm/3/x6zvnex/s/live-1.m3u8
-
------DRAMA SANGAT HD 720------
-#EXTINF:-1 group-title="XTRA" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/dramasangat.png ",DRAMA SANGAT HD 720P
-https://stream-01.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0nfZTGfq_wZ7cqv4voaNJGhCGq18p70FigglQ-lBZcr2)/dm/3/x6zvnex/s/live-3.m3u8
-
------DRAMA SANGAT HD 1080------
-#EXTINF:-1 group-title="XTRA" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/dramasangat.png ",DRAMA SANGAT FHD 1080P
-https://stream-01.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0nfZTGfq_wZ7cqv4voaNJGhCGq18p70FigglQ-lBZcr2)/dm/3/x6zvnex/s/live-4.m3u8
-
-
 ------TV6 SD-------
 #EXTINF:-1 group-title="RTM KLIK" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV6.jpg ",TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
 
 ------TV6 HD-------
-#EXTINF:-1 group-title="RTM KLIK" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV6.jpg ",TV6 HD 720P
-
-
+#EXTINF:-1 group-title="RTM KLIK" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV6.jpg ",TV6 HD
 
 
 -----TVS-------
-#EXTINF:-1 group-title="RTM KLIK" tvg-logo=" ",TVS
-
+#EXTINF:-1 group-title="RTM KLIK" tvg-logo="https://1.bp.blogspot.com/-KO7Sg1MI-HU/YMyBI0-wqOI/AAAAAAAANNg/-Fewb83JlIgpeFWrBn2ymk5yO_OabLVeQCNcBGAsYHQ/s200/tvs.jpg ",TVS
 
 
 -----PARLIMEN RAKYAT TV-------
@@ -138,14 +59,326 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
 
 
+
+
+------------------------sentiasa ubah key (update setiap 3 hari- 1mggu)------------------------------------------
+
+
+-----TV3-----
+#EXTINF:-1 group-title="XTRA" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/tv3.png ",TV3 720
+https://stream-03.sg1.dailymotion.com/sec(Zqc0ZDcpMSy05peWWXyuXf3oc8Si_bA2vEh3QMpLl1X1GOQGkb_nqy6hdg_ynN43sydO6-S3Pe3uqbD4EkRrNA)/dm/3/x6qp375/d/live-3.m3u8
+
+-----TV3 BACKUP-----
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3afe30ee4ea24a67fe5a2ef06e83db0b&key=27a2f71d87bf5eb105af096fb6605d97
+#EXTINF:-1 group-title="XTRA" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/tv3.png ",TV3 backup
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
+
+
+-----NTV7/LEARNING   m3u file ------
+#EXTINF:-1 group-title="XTRA" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/ntv7.png ",NTV7/LEARNING HD 720
+https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHRkO7EVkjQ2E3KwcrbMuRPL76Ri_IJXHKzlpmSkqvF5F)/dm/3/x6qp6ou/s/live-3.m3u8
+
+-----NTV7/LEARNING  mpd file ------
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3afe30ee4ea24a67fe5a2ef06e83db0b&key=27a2f71d87bf5eb105af096fb6605d97
+#EXTINF:-1 group-title="XTRA" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/ntv7.png ",NTV7/LEARNING 
+
+
+-----TV8   m3u file --------
+#EXTINF:-1 group-title="XTRA" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/tv8.png ",TV8 SD
+https://stream-10.dc3.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHfLKXjPGmJ27n_EwPiMkZHDWncwjJS2v6YTEXKi1XGcW)/dm/3/x6qud17/s/live-1.m3u8
+
+-----TV8    m3u file  --------
+#EXTINF:-1 group-title="XTRA" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/tv8.png ",TV8 720P(HD)
+https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHfLKXjPGmJ27n_EwPiMkZHDWncwjJS2v6YTEXKi1XGcW)/dm/3/x6qud17/s/live-4.m3u8
+
+
+------TV9   m3u file  ------
+#EXTINF:-1 group-title="XTRA" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/tv9.png ",TV9 HD 720
+https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHTSsRkvQwb8RVG5WiLsbj-lHJRncPqcbg_zhws-F8LNo)/dm/3/x6qqja6/s/live-3.m3u8
+
+------TV9    mpd  ------
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3afe30ee4ea24a67fe5a2ef06e83db0b&key=27a2f71d87bf5eb105af096fb6605d97
+#EXTINF:-1 group-title="XTRA" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/tv9.png ",TV9 HD BACKUP
+
+
+
+-----DRAMA SANGAT SD     m3u file   --------
+#EXTINF:-1 group-title="XTRA" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/dramasangat.png ",DRAMA SANGAT
+https://stream-01.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0nfZTGfq_wZ7cqv4voaNJGhCGq18p70FigglQ-lBZcr2)/dm/3/x6zvnex/s/live-1.m3u8
+
+-----DRAMA SANGAT HD 720   mpd file  ------
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3afe30ee4ea24a67fe5a2ef06e83db0b&key=27a2f71d87bf5eb105af096fb6605d97
+#EXTINF:-1 group-title="XTRA" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/dramasangat.png ",DRAMA SANGAT 
+
+
+
+
+
 ------tv malaysia online astroxxxx----
 
---------astro citra------
+----------------------------------------------WAARNA----------------------------------------
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3afe30ee4ea24a67fe5a2ef06e83db0b&key=27a2f71d87bf5eb105af096fb6605d97
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+
+
+-----------------------------------------astro citra MPD FILE------------------------
 #EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astrox Citra
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=73e84f91bd9ae20412e370f98fd3a110&key=d5b52aabca5afe002eb495804f8ec944
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-https://linears-playback.astro.com.my/vsgN/41iHxFdzNWPpdT5cA7TKBm9ENH62A-ui-IQ4sxP-jcdlY=_Kka/dash-wv/jitp-linearwm/2700/default_ott.mpd
+
+
+--------------------------------------------AWESOME   mpd file  -------------------------
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3afe30ee4ea24a67fe5a2ef06e83db0b&key=27a2f71d87bf5eb105af096fb6605d97
+#EXTINF:-1 group-title="ASTROX" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg8d6Zr12bsUO6fyhEvpz3K_MNvX-S2iIZ0meq3OboMbaT9fCvinm3GwecVPkywhuNA6iekC3ktzi_kjwhj-ywSAD_-A01b8GUhrKtzA9eAAbwVYGEfrxasMef9-z02h361DCTBCxScMqkMYFJzbYbTNk_ivraL6VDQHMVO6kCKN44OmE-TVIyxshAv=s200 ",AWESOME
+https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default_primary.mpd
+
+--------------------------------------------------RIA MPD-----
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3afe30ee4ea24a67fe5a2ef06e83db0b&key=27a2f71d87bf5eb105af096fb6605d97
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my  
+#EXTINF:-1 group-title="ASTROX" tvg-logo="https://1.bp.blogspot.com/-cSMXbO6w-N8/YMzTuUPGxGI/AAAAAAAANNo/sdaadQpPmqgcIVmmp78Oecw83XMztIrHwCNcBGAsYHQ/s200/Astro_Ria.png ",RIA
+
+
+----------------------------------------OASIS---MPD---
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3afe30ee4ea24a67fe5a2ef06e83db0b&key=27a2f71d87bf5eb105af096fb6605d97
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 group-title="ASTROX" tvg-logo=" ",OASIS
+
+
+------------------------------------------CARTOON----------------------------------------
+
+------------------CERIA------MPD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3afe30ee4ea24a67fe5a2ef06e83db0b&key=27a2f71d87bf5eb105af096fb6605d97
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 group-title="ASTROX" tvg-logo=" ",CERIA
+
+------------------ NICKELODEON -----
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3afe30ee4ea24a67fe5a2ef06e83db0b&key=27a2f71d87bf5eb105af096fb6605d97
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 group-title="ASTROX" tvg-logo=" ",NICKELODEON
+
+------------------ CN -----
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3afe30ee4ea24a67fe5a2ef06e83db0b&key=27a2f71d87bf5eb105af096fb6605d97
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 group-title="ASTROX" tvg-logo=" ",CARTOON NETWORK
+
+------------------ ANIMAX-----
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3afe30ee4ea24a67fe5a2ef06e83db0b&key=27a2f71d87bf5eb105af096fb6605d97
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 group-title="ASTROX" tvg-logo=" ",ANIMAX
+
+
+----------------ASTRO INDON----------------------------------
+
+------------------AURA MPD-------
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3afe30ee4ea24a67fe5a2ef06e83db0b&key=27a2f71d87bf5eb105af096fb6605d97
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 group-title="ASTROX" tvg-logo=" ",AURA
+
+------------------RANIA MPD=========
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3afe30ee4ea24a67fe5a2ef06e83db0b&key=27a2f71d87bf5eb105af096fb6605d97
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 group-title="ASTROX" tvg-logo=" ",RANIA
+
+
+-------------------MOVIES-----------------------------------------
+
+------------------BOO MPD-----
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3afe30ee4ea24a67fe5a2ef06e83db0b&key=27a2f71d87bf5eb105af096fb6605d97
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 group-title="ASTROX" tvg-logo=" ",ASTRO BOO
+
+------------------HBO---------
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3afe30ee4ea24a67fe5a2ef06e83db0b&key=27a2f71d87bf5eb105af096fb6605d97
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 group-title="ASTROX" tvg-logo=" ",HBO
+
+------------------CINEMAX------------
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3afe30ee4ea24a67fe5a2ef06e83db0b&key=27a2f71d87bf5eb105af096fb6605d97
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 group-title="ASTROX" tvg-logo=" ",CINEMAX
+
+------------------AXN--------------
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3afe30ee4ea24a67fe5a2ef06e83db0b&key=27a2f71d87bf5eb105af096fb6605d97
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 group-title="ASTROX" tvg-logo=" ",AXN
+
+
+------------------HNO HITS--------------
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3afe30ee4ea24a67fe5a2ef06e83db0b&key=27a2f71d87bf5eb105af096fb6605d97
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 group-title="ASTROX" tvg-logo=" ",HBO HITS
+
+
+------------------HBO FAMILY------------
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3afe30ee4ea24a67fe5a2ef06e83db0b&key=27a2f71d87bf5eb105af096fb6605d97
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 group-title="ASTROX" tvg-logo=" ",HBO FAMILY
+
+
+------------------WARNER BROS---------------------
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3afe30ee4ea24a67fe5a2ef06e83db0b&key=27a2f71d87bf5eb105af096fb6605d97
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 group-title="ASTROX" tvg-logo=" ",WARNER
+
+
+------------------PARAMOUNT---------------
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3afe30ee4ea24a67fe5a2ef06e83db0b&key=27a2f71d87bf5eb105af096fb6605d97
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 group-title="ASTROX" tvg-logo=" ",PARAMOUNT
+
+
+
+
+------------------------------------------------------SPORT------------------------------------------------
+------------------ARENA---------
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3afe30ee4ea24a67fe5a2ef06e83db0b&key=27a2f71d87bf5eb105af096fb6605d97
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 group-title="ASTROX" tvg-logo=" ",ARENA
+
+
+------------------ARENA 2---------------------
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3afe30ee4ea24a67fe5a2ef06e83db0b&key=27a2f71d87bf5eb105af096fb6605d97
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 group-title="ASTROX" tvg-logo=" ",ARENA 2
+
+
+------------------SUPERSPORT 1-------------
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3afe30ee4ea24a67fe5a2ef06e83db0b&key=27a2f71d87bf5eb105af096fb6605d97
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 group-title="ASTROX" tvg-logo=" ",
+
+
+------------------SUPERSPORT 2-------------
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3afe30ee4ea24a67fe5a2ef06e83db0b&key=27a2f71d87bf5eb105af096fb6605d97
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 group-title="ASTROX" tvg-logo=" ",
+
+------------------SUPERSPORT 3-------------
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3afe30ee4ea24a67fe5a2ef06e83db0b&key=27a2f71d87bf5eb105af096fb6605d97
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 group-title="ASTROX" tvg-logo=" ",
+
+------------------SUPERSPORT 4-------------
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3afe30ee4ea24a67fe5a2ef06e83db0b&key=27a2f71d87bf5eb105af096fb6605d97
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 group-title="ASTROX" tvg-logo=" ",
+
+
+
+
+
+
+----------------------------------UNIFI TV---------------------------
+
+------------------UNIFI 1-------------
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3afe30ee4ea24a67fe5a2ef06e83db0b&key=27a2f71d87bf5eb105af096fb6605d97
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 group-title="ASTROX" tvg-logo=" ",
+
+------------------UNIFI 2-------------
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3afe30ee4ea24a67fe5a2ef06e83db0b&key=27a2f71d87bf5eb105af096fb6605d97
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 group-title="ASTROX" tvg-logo=" ",
+
+
+------------------EGG NETWORK-------------
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3afe30ee4ea24a67fe5a2ef06e83db0b&key=27a2f71d87bf5eb105af096fb6605d97
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 group-title="ASTROX" tvg-logo=" ",
+
+------------------ASTRO CRICKET-------------
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3afe30ee4ea24a67fe5a2ef06e83db0b&key=27a2f71d87bf5eb105af096fb6605d97
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 group-title="ASTROX" tvg-logo=" ",
+
+
+--------------------------DISCOVERY---------------------
+
+------------------HISTORY -------------
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3afe30ee4ea24a67fe5a2ef06e83db0b&key=27a2f71d87bf5eb105af096fb6605d97
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 group-title="ASTROX" tvg-logo=" ",
+
+------------------NATIONAL GEO-------------
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3afe30ee4ea24a67fe5a2ef06e83db0b&key=27a2f71d87bf5eb105af096fb6605d97
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 group-title="ASTROX" tvg-logo=" ",
+
+------------------DISCOVERY CHANNEL-------------
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3afe30ee4ea24a67fe5a2ef06e83db0b&key=27a2f71d87bf5eb105af096fb6605d97
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 group-title="ASTROX" tvg-logo=" ",
+
+------------------ASIA DISCOVERY-------------
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3afe30ee4ea24a67fe5a2ef06e83db0b&key=27a2f71d87bf5eb105af096fb6605d97
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 group-title="ASTROX" tvg-logo=" ",
+
+------------------ANIMAL PLANET-------------
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3afe30ee4ea24a67fe5a2ef06e83db0b&key=27a2f71d87bf5eb105af096fb6605d97
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 group-title="ASTROX" tvg-logo=" ",
+
+------------------CRIME AND INVESTIGATION-------------
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3afe30ee4ea24a67fe5a2ef06e83db0b&key=27a2f71d87bf5eb105af096fb6605d97
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 group-title="ASTROX" tvg-logo=" ",
+
+
+------------------AFC FOOD-------------
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3afe30ee4ea24a67fe5a2ef06e83db0b&key=27a2f71d87bf5eb105af096fb6605d97
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 group-title="ASTROX" tvg-logo=" ",
+
+
+------------------FOOD NETWORK -------------
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3afe30ee4ea24a67fe5a2ef06e83db0b&key=27a2f71d87bf5eb105af096fb6605d97
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 group-title="ASTROX" tvg-logo=" ",
+
+
+
 
 
 
@@ -164,18 +397,23 @@ https://22243.live.streamtheworld.com/SABAH_VFMAAC.aac?pname=StandardPlayerV4&pv
 #EXTINF:-1 group-title="RADIO RTM KLIK" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-nasional.9d519369.jpg ",RADIO SABAH FM
 https://23693.live.streamtheworld.com/SABAH_FMAAC.aac?pname=StandardPlayerV4&pversion=4.19.2-042&dist=triton-web&tdsdk=js-2.9&swm=false&banners=none&burst-time=15&sbmid=3ce0296e-8f2b-45ea-8934-287aa63891a5
 
------ERA SABAH FM----
-#EXTINF:-1 group-title="RADIO LISTEN ONLINE" tvg-logo=" https://liveonlineradio.net/wp-content/uploads/2016/11/Era-FM-Sabah-100x47.jpg ",RADIO ERA SABAH
-https://astro2.rastream.com/amp-era-kk
 
 ------NASIONAL FM-----
 #EXTINF:-1 group-title="RADIO RTM KLIK" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-nasional.9d519369.jpg ",RADIO NASIONAL FM
 https://22243.live.streamtheworld.com/NASIONAL_FMAAC.aac?pname=StandardPlayerV4&pversion=4.19.2-042&dist=triton-web&tdsdk=js-2.9&swm=false&banners=none&burst-time=15&sbmid=80305c51-6aeb-4be7-dd4e-7cdbf09ef283
 
 
+
+--------------------------------------LISTEM RADIO ONLINE--------------------------------------------
+
+-----ERA SABAH FM----
+#EXTINF:-1 group-title="RADIO LISTEN ONLINE" tvg-logo=" https://liveonlineradio.net/wp-content/uploads/2016/11/Era-FM-Sabah-100x47.jpg ",RADIO ERA SABAH
+https://astro2.rastream.com/amp-era-kk
+
 -------HITZ FM---------
 #EXTINF:-1 group-title="RADIO LISTEN ONLINE" tvg-logo="https://liveonlineradio.net/wp-content/uploads/2011/06/hitz-fm-220x108.jpg ".jpg",RADIO HITZ FM
 https://astro1.rastream.com/hitz
+
 
 #EXTINF:-1 group-title="RADIO" tvg-logo=" ",RADIO 
 
