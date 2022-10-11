@@ -22,19 +22,24 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
 
 -----TV3-----
 #EXTINF:-1 group-title="XTRA" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/tv3.png ",TV3 SD 320
-https://stream-02.ix7.dailymotion.com/sec(Zqc0ZDcpMSy05peWWXyuXZYG9GP1ENZNRfxZ78m1Thtq5spKnk3xb1How3XZY8Al04wk3eTkeztp6LRb8Sd2ag)/dm/3/x6qp375/d/live-1.m3u8
+
 
 -----TV3-----
 #EXTINF:-1 group-title="XTRA" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/tv3.png ",TV3 480
-https://stream-02.ix7.dailymotion.com/sec(Zqc0ZDcpMSy05peWWXyuXZYG9GP1ENZNRfxZ78m1Thtq5spKnk3xb1How3XZY8Al04wk3eTkeztp6LRb8Sd2ag)/dm/3/x6qp375/d/live-2.m3u8
+
 
 -----TV3-----
 #EXTINF:-1 group-title="XTRA" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/tv3.png ",TV3 720
-https://stream-02.ix7.dailymotion.com/sec(Zqc0ZDcpMSy05peWWXyuXZYG9GP1ENZNRfxZ78m1Thtq5spKnk3xb1How3XZY8Al04wk3eTkeztp6LRb8Sd2ag)/dm/3/x6qp375/d/live-3.m3u8
+https://stream-03.sg1.dailymotion.com/sec(Zqc0ZDcpMSy05peWWXyuXf3oc8Si_bA2vEh3QMpLl1X1GOQGkb_nqy6hdg_ynN43sydO6-S3Pe3uqbD4EkRrNA)/dm/3/x6qp375/d/live-3.m3u8
 
 -----TV3-----
 #EXTINF:-1 group-title="XTRA" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/tv3.png ",TV3 1080
-https://stream-02.ix7.dailymotion.com/sec(Zqc0ZDcpMSy05peWWXyuXZYG9GP1ENZNRfxZ78m1Thtq5spKnk3xb1How3XZY8Al04wk3eTkeztp6LRb8Sd2ag)/dm/3/x6qp375/d/live-4.m3u8
+
+
+-----TV3 BACKUP-----
+#EXTINF:-1 group-title="XTRA" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/tv3.png ",TV3 backup
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
+
 
 
 
